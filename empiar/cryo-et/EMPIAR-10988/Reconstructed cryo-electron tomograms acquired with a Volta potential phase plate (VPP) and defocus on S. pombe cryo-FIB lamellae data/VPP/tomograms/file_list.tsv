@@ -1,0 +1,31 @@
+file_path	size_in_bytes	type	label	source_image_label	associated_annotation_method	associated_protocol
+data/VPP/particle_lists/TS_0001_cyto_ribosomes.csv	29086	http://bia/AnnotationData	Defocus and VPP ribosome annotations 1	Tomogram 1	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0001_fas.csv	1197	http://bia/AnnotationData	Defocus and VPP FAS annotations 1	Tomogram 1	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0002_cyto_ribosomes.csv	27777	http://bia/AnnotationData	Defocus and VPP ribosome annotations 2	Tomogram 2	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0002_fas.csv	955	http://bia/AnnotationData	Defocus and VPP FAS annotations 2	Tomogram 2	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0003_cyto_ribosomes.csv	28783	http://bia/AnnotationData	Defocus and VPP ribosome annotations 3	Tomogram 3	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0003_fas.csv	702	http://bia/AnnotationData	Defocus and VPP FAS annotations 3	Tomogram 3	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0004_cyto_ribosomes.csv	35285	http://bia/AnnotationData	Defocus and VPP ribosome annotations 4	Tomogram 4	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0004_fas.csv	1326	http://bia/AnnotationData	Defocus and VPP FAS annotations 4	Tomogram 4	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0005_cyto_ribosomes.csv	42355	http://bia/AnnotationData	Defocus and VPP ribosome annotations 5	Tomogram 5	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0005_fas.csv	688	http://bia/AnnotationData	Defocus and VPP FAS annotations 5	Tomogram 5	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0006_cyto_ribosomes.csv	15931	http://bia/AnnotationData	Defocus and VPP ribosome annotations 6	Tomogram 6	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0006_fas.csv	895	http://bia/AnnotationData	Defocus and VPP FAS annotations 6	Tomogram 6	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0007_cyto_ribosomes.csv	7309	http://bia/AnnotationData	Defocus and VPP ribosome annotations 7	Tomogram 7	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0007_fas.csv	472	http://bia/AnnotationData	Defocus and VPP FAS annotations 7	Tomogram 7	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0008_cyto_ribosomes.csv	32751	http://bia/AnnotationData	Defocus and VPP ribosome annotations 8	Tomogram 8	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0008_fas.csv	895	http://bia/AnnotationData	Defocus and VPP FAS annotations 8	Tomogram 8	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0009_cyto_ribosomes.csv	41471	http://bia/AnnotationData	Defocus and VPP ribosome annotations 9	Tomogram 9	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0009_fas.csv	765	http://bia/AnnotationData	Defocus and VPP FAS annotations 9	Tomogram 9	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0010_cyto_ribosomes.csv	40046	http://bia/AnnotationData	Defocus and VPP ribosome annotations 10	Tomogram 10	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/particle_lists/TS_0010_fas.csv	783	http://bia/AnnotationData	Defocus and VPP FAS annotations 10	Tomogram 10	_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data	
+data/VPP/tomograms/TS_0001.rec	1781761024	http://bia/Image	Tomogram 1	Tilt series 1		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0002.rec	888994024	http://bia/Image	Tomogram 2	Tilt series 2		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0003.rec	1777987024	http://bia/Image	Tomogram 3	Tilt series 3		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0004.rec	1777987024	http://bia/Image	Tomogram 4	Tilt series 4		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0005.rec	445441024	http://bia/Image	Tomogram 5	Tilt series 5		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0006.rec	445441024	http://bia/Image	Tomogram 6	Tilt series 6		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0007.rec	445441024	http://bia/Image	Tomogram 7	Tilt series 7		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0008.rec	445441024	http://bia/Image	Tomogram 8	Tilt series 8		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0009.rec	445441024	http://bia/Image	Tomogram 9	Tilt series 9		_:Tomographic reconstruction
+data/VPP/tomograms/TS_0010.rec	1781761024	http://bia/Image	Tomogram 10	Tilt series 10		_:Tomographic reconstruction

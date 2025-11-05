@@ -1,0 +1,7 @@
+file_path	size_in_bytes	type	label	source_image_label	associated_annotation_method	associated_protocol
+data/Control/particle_lists/all_ribo_cleaned.star	7401771	http://bia/AnnotationData	Control condition aggregated cleaned ribosome particle coordinates	['Control condition tomogram 06', 'Control condition tomogram 07', 'Control condition tomogram 08', 'Control condition tomogram 17']	_:Ribosome particle picking	
+data/Control/particle_lists/all_ribo_refined.star	9017751	http://bia/AnnotationData	Control condition aggregated refined ribosome particle coordinates	['Control condition tomogram 06', 'Control condition tomogram 07', 'Control condition tomogram 08', 'Control condition tomogram 17']	_:Ribosome particle picking	
+data/Control/tomograms/TS_006_aretomo.mrc	2943425024	http://bia/Image	Control condition tomogram 06			_:Tomogram reconstruction
+data/Control/tomograms/TS_007_aretomo.mrc	2943425024	http://bia/Image	Control condition tomogram 07			_:Tomogram reconstruction
+data/Control/tomograms/TS_008_aretomo.mrc	2943425024	http://bia/Image	Control condition tomogram 08			_:Tomogram reconstruction
+data/Control/tomograms/TS_017_aretomo.mrc	2943425024	http://bia/Image	Control condition tomogram 17			_:Tomogram reconstruction
