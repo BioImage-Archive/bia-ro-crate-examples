@@ -282,7 +282,7 @@
             "acknowledgement": null,
             "hasPart": [
                 {
-                    "@id": "A%20Minimal%20TOMOMAN%20%28https%3A//doi.org/10.1093/micmic/ozad067.516%29%20project%20containing%2018%20tilt%20series%20and%20preprocessed%20metadata%20for%20C.%20reinhardtii%20prepared%20using%20cryo-plasmaFIB%20milling%20data/tomoman_minimal_project/"
+                    "@id": "TOMOMAN%20project/"
                 }
             ],
             "accessionId": "EMPIAR-11756"
@@ -496,7 +496,7 @@
             "contactEmail": null
         },
         {
-            "@id": "A%20Minimal%20TOMOMAN%20%28https%3A/doi.org/10.1093/micmic/ozad067.516%29%20project%20containing%2018%20tilt%20series%20and%20preprocessed%20metadata%20for%20C.%20reinhardtii%20prepared%20using%20cryo-plasmaFIB%20milling%20data/tomoman_minimal_project/file_list.tsv",
+            "@id": "TOMOMAN%20project/file_list.tsv",
             "@type": [
                 "File",
                 "bia:FileList",
@@ -507,7 +507,7 @@
             }
         },
         {
-            "@id": "_:col6",
+            "@id": "_:col7",
             "@type": [
                 "csvw:Column"
             ],
@@ -515,12 +515,20 @@
             "propertyUrl": "http://bia/associatedProtocol"
         },
         {
-            "@id": "_:col5",
+            "@id": "_:col6",
             "@type": [
                 "csvw:Column"
             ],
             "columnName": "associated_annotation_method",
             "propertyUrl": "http://bia/associatedAnnotationMethod"
+        },
+        {
+            "@id": "_:col5",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_specimen",
+            "propertyUrl": "http://bia/associatedSubject"
         },
         {
             "@id": "_:col4",
@@ -588,11 +596,14 @@
                 },
                 {
                     "@id": "_:col6"
+                },
+                {
+                    "@id": "_:col7"
                 }
             ]
         },
         {
-            "@id": "A%20Minimal%20TOMOMAN%20%28https%3A//doi.org/10.1093/micmic/ozad067.516%29%20project%20containing%2018%20tilt%20series%20and%20preprocessed%20metadata%20for%20C.%20reinhardtii%20prepared%20using%20cryo-plasmaFIB%20milling%20data/tomoman_minimal_project/",
+            "@id": "TOMOMAN%20project/",
             "@type": [
                 "Dataset",
                 "bia:Dataset"
@@ -618,177 +629,25 @@
             "associatedAnnotationMethod": [
                 {
                     "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
-                },
-                {
-                    "@id": "_:Particle picking"
                 }
             ],
             "associatedImageAnalysisMethod": [],
             "associatedImageCorrelationMethod": [],
-            "associatedProtocol": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:High-throughput visual proteomics workflow"
+                },
+                {
+                    "@id": "_:Subtomogram averaging of macromolecular complexes"
+                }
+            ],
             "hasPart": [
                 {
-                    "@id": "A%20Minimal%20TOMOMAN%20%28https%3A/doi.org/10.1093/micmic/ozad067.516%29%20project%20containing%2018%20tilt%20series%20and%20preprocessed%20metadata%20for%20C.%20reinhardtii%20prepared%20using%20cryo-plasmaFIB%20milling%20data/tomoman_minimal_project/file_list.tsv"
+                    "@id": "TOMOMAN%20project/file_list.tsv"
                 }
             ],
             "associationFileMetadata": {
-                "@id": "A%20Minimal%20TOMOMAN%20%28https%3A/doi.org/10.1093/micmic/ozad067.516%29%20project%20containing%2018%20tilt%20series%20and%20preprocessed%20metadata%20for%20C.%20reinhardtii%20prepared%20using%20cryo-plasmaFIB%20milling%20data/tomoman_minimal_project/file_list.tsv"
+                "@id": "TOMOMAN%20project/file_list.tsv"
             }
         },
         {
@@ -818,8 +677,298 @@
             "annotationCoverage": null,
             "transformationDescription": null,
             "spatialInformation": null,
-            "methodType": [],
+            "methodType": [
+                "point_annotations"
+            ],
             "annotationSourceIndicator": null
+        },
+        {
+            "@id": "_:Specimen grid 9 pos 44",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 9 pos 33",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 9 pos 13",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 9 pos 7",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen pos 101",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen pos 76",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen pos 68",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen pos 35",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 9 pos 65",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 9 pos 32",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 5 pos 1",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen pos 38",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 5 pos 4",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen grid 7 pos 29",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen lam 3 pos 27",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen lam 2 pos 13",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen lam 1 pos 5",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen lam 1 pos 4",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
         },
         {
             "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling",

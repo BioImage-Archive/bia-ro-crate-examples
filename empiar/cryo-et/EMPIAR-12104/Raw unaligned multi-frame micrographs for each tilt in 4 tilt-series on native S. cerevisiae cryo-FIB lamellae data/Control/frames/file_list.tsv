@@ -1,209 +1,209 @@
-file_path	size_in_bytes	type	label	source_image_label	associated_annotation_method	associated_protocol
-data/Control/frames/CountRef_TS_00001_0.0.mrc	94280704					
-data/Control/frames/TS_006_00001_-0.0.tif	63783782	http://bia/Image	Control condition frames 06_00001_-0.0			_:Glucose control condition
-data/Control/frames/TS_006_00002_2.0.tif	63563690	http://bia/Image	Control condition frames 06_00002_2.0			_:Glucose control condition
-data/Control/frames/TS_006_00003_-2.0.tif	63982128	http://bia/Image	Control condition frames 06_00003_-2.0			_:Glucose control condition
-data/Control/frames/TS_006_00004_4.0.tif	63313444	http://bia/Image	Control condition frames 06_00004_4.0			_:Glucose control condition
-data/Control/frames/TS_006_00005_-4.0.tif	64177296	http://bia/Image	Control condition frames 06_00005_-4.0			_:Glucose control condition
-data/Control/frames/TS_006_00006_6.0.tif	63066048	http://bia/Image	Control condition frames 06_00006_6.0			_:Glucose control condition
-data/Control/frames/TS_006_00007_-6.0.tif	64346774	http://bia/Image	Control condition frames 06_00007_-6.0			_:Glucose control condition
-data/Control/frames/TS_006_00008_8.0.tif	62723536	http://bia/Image	Control condition frames 06_00008_8.0			_:Glucose control condition
-data/Control/frames/TS_006_00009_-8.0.tif	64468416	http://bia/Image	Control condition frames 06_00009_-8.0			_:Glucose control condition
-data/Control/frames/TS_006_00010_10.0.tif	62334686	http://bia/Image	Control condition frames 06_00010_10.0			_:Glucose control condition
-data/Control/frames/TS_006_00011_-10.0.tif	64552718	http://bia/Image	Control condition frames 06_00011_-10.0			_:Glucose control condition
-data/Control/frames/TS_006_00012_12.0.tif	61932002	http://bia/Image	Control condition frames 06_00012_12.0			_:Glucose control condition
-data/Control/frames/TS_006_00013_-12.0.tif	64568818	http://bia/Image	Control condition frames 06_00013_-12.0			_:Glucose control condition
-data/Control/frames/TS_006_00014_14.0.tif	61472884	http://bia/Image	Control condition frames 06_00014_14.0			_:Glucose control condition
-data/Control/frames/TS_006_00015_-14.0.tif	64588164	http://bia/Image	Control condition frames 06_00015_-14.0			_:Glucose control condition
-data/Control/frames/TS_006_00016_16.0.tif	60867160	http://bia/Image	Control condition frames 06_00016_16.0			_:Glucose control condition
-data/Control/frames/TS_006_00017_-16.0.tif	64543844	http://bia/Image	Control condition frames 06_00017_-16.0			_:Glucose control condition
-data/Control/frames/TS_006_00018_18.0.tif	60406602	http://bia/Image	Control condition frames 06_00018_18.0			_:Glucose control condition
-data/Control/frames/TS_006_00019_-18.0.tif	64515880	http://bia/Image	Control condition frames 06_00019_-18.0			_:Glucose control condition
-data/Control/frames/TS_006_00020_20.0.tif	59788924	http://bia/Image	Control condition frames 06_00020_20.0			_:Glucose control condition
-data/Control/frames/TS_006_00021_-20.0.tif	64463230	http://bia/Image	Control condition frames 06_00021_-20.0			_:Glucose control condition
-data/Control/frames/TS_006_00022_22.0.tif	59107580	http://bia/Image	Control condition frames 06_00022_22.0			_:Glucose control condition
-data/Control/frames/TS_006_00023_-22.0.tif	64334252	http://bia/Image	Control condition frames 06_00023_-22.0			_:Glucose control condition
-data/Control/frames/TS_006_00024_24.0.tif	58332626	http://bia/Image	Control condition frames 06_00024_24.0			_:Glucose control condition
-data/Control/frames/TS_006_00025_-24.0.tif	64210166	http://bia/Image	Control condition frames 06_00025_-24.0			_:Glucose control condition
-data/Control/frames/TS_006_00026_26.0.tif	57575672	http://bia/Image	Control condition frames 06_00026_26.0			_:Glucose control condition
-data/Control/frames/TS_006_00027_-26.0.tif	64040892	http://bia/Image	Control condition frames 06_00027_-26.0			_:Glucose control condition
-data/Control/frames/TS_006_00028_28.0.tif	56668738	http://bia/Image	Control condition frames 06_00028_28.0			_:Glucose control condition
-data/Control/frames/TS_006_00029_-28.0.tif	63876788	http://bia/Image	Control condition frames 06_00029_-28.0			_:Glucose control condition
-data/Control/frames/TS_006_00030_30.0.tif	55694136	http://bia/Image	Control condition frames 06_00030_30.0			_:Glucose control condition
-data/Control/frames/TS_006_00031_-30.0.tif	63666134	http://bia/Image	Control condition frames 06_00031_-30.0			_:Glucose control condition
-data/Control/frames/TS_006_00032_32.0.tif	54628534	http://bia/Image	Control condition frames 06_00032_32.0			_:Glucose control condition
-data/Control/frames/TS_006_00033_-32.0.tif	63389358	http://bia/Image	Control condition frames 06_00033_-32.0			_:Glucose control condition
-data/Control/frames/TS_006_00034_34.0.tif	53434368	http://bia/Image	Control condition frames 06_00034_34.0			_:Glucose control condition
-data/Control/frames/TS_006_00035_-34.0.tif	63078366	http://bia/Image	Control condition frames 06_00035_-34.0			_:Glucose control condition
-data/Control/frames/TS_006_00036_36.0.tif	52091530	http://bia/Image	Control condition frames 06_00036_36.0			_:Glucose control condition
-data/Control/frames/TS_006_00037_-36.0.tif	62768198	http://bia/Image	Control condition frames 06_00037_-36.0			_:Glucose control condition
-data/Control/frames/TS_006_00038_38.0.tif	50739264	http://bia/Image	Control condition frames 06_00038_38.0			_:Glucose control condition
-data/Control/frames/TS_006_00039_-38.0.tif	62403636	http://bia/Image	Control condition frames 06_00039_-38.0			_:Glucose control condition
-data/Control/frames/TS_006_00040_40.0.tif	49052838	http://bia/Image	Control condition frames 06_00040_40.0			_:Glucose control condition
-data/Control/frames/TS_006_00041_-40.0.tif	61960312	http://bia/Image	Control condition frames 06_00041_-40.0			_:Glucose control condition
-data/Control/frames/TS_006_00042_42.0.tif	47246226	http://bia/Image	Control condition frames 06_00042_42.0			_:Glucose control condition
-data/Control/frames/TS_006_00043_-42.0.tif	61484198	http://bia/Image	Control condition frames 06_00043_-42.0			_:Glucose control condition
-data/Control/frames/TS_006_00044_44.0.tif	45321100	http://bia/Image	Control condition frames 06_00044_44.0			_:Glucose control condition
-data/Control/frames/TS_006_00045_-44.0.tif	61018498	http://bia/Image	Control condition frames 06_00045_-44.0			_:Glucose control condition
-data/Control/frames/TS_006_00046_46.0.tif	43214356	http://bia/Image	Control condition frames 06_00046_46.0			_:Glucose control condition
-data/Control/frames/TS_006_00047_-46.0.tif	60425430	http://bia/Image	Control condition frames 06_00047_-46.0			_:Glucose control condition
-data/Control/frames/TS_006_00048_-48.0.tif	59743678	http://bia/Image	Control condition frames 06_00048_-48.0			_:Glucose control condition
-data/Control/frames/TS_006_00049_-50.0.tif	59103764	http://bia/Image	Control condition frames 06_00049_-50.0			_:Glucose control condition
-data/Control/frames/TS_006_00050_-52.0.tif	58328738	http://bia/Image	Control condition frames 06_00050_-52.0			_:Glucose control condition
-data/Control/frames/TS_006_00051_-54.0.tif	57498906	http://bia/Image	Control condition frames 06_00051_-54.0			_:Glucose control condition
-data/Control/frames/TS_006_00052_-56.0.tif	56588106	http://bia/Image	Control condition frames 06_00052_-56.0			_:Glucose control condition
-data/Control/frames/TS_006_00053_-58.0.tif	55570886	http://bia/Image	Control condition frames 06_00053_-58.0			_:Glucose control condition
-data/Control/frames/TS_006_00054_-60.0.tif	54481712	http://bia/Image	Control condition frames 06_00054_-60.0			_:Glucose control condition
-data/Control/frames/TS_006_00055_-62.0.tif	53254256	http://bia/Image	Control condition frames 06_00055_-62.0			_:Glucose control condition
-data/Control/frames/TS_006_00056_-64.0.tif	51923106	http://bia/Image	Control condition frames 06_00056_-64.0			_:Glucose control condition
-data/Control/frames/TS_007_00001_-0.0.tif	64238754	http://bia/Image	Control condition frames 07_00001_-0.0			_:Glucose control condition
-data/Control/frames/TS_007_00002_2.0.tif	64121948	http://bia/Image	Control condition frames 07_00002_2.0			_:Glucose control condition
-data/Control/frames/TS_007_00003_-2.0.tif	64382982	http://bia/Image	Control condition frames 07_00003_-2.0			_:Glucose control condition
-data/Control/frames/TS_007_00004_4.0.tif	63896964	http://bia/Image	Control condition frames 07_00004_4.0			_:Glucose control condition
-data/Control/frames/TS_007_00005_-4.0.tif	64508636	http://bia/Image	Control condition frames 07_00005_-4.0			_:Glucose control condition
-data/Control/frames/TS_007_00006_6.0.tif	63694642	http://bia/Image	Control condition frames 07_00006_6.0			_:Glucose control condition
-data/Control/frames/TS_007_00007_-6.0.tif	64644856	http://bia/Image	Control condition frames 07_00007_-6.0			_:Glucose control condition
-data/Control/frames/TS_007_00008_8.0.tif	63457186	http://bia/Image	Control condition frames 07_00008_8.0			_:Glucose control condition
-data/Control/frames/TS_007_00009_-8.0.tif	64715330	http://bia/Image	Control condition frames 07_00009_-8.0			_:Glucose control condition
-data/Control/frames/TS_007_00010_10.0.tif	63192926	http://bia/Image	Control condition frames 07_00010_10.0			_:Glucose control condition
-data/Control/frames/TS_007_00011_-10.0.tif	64746448	http://bia/Image	Control condition frames 07_00011_-10.0			_:Glucose control condition
-data/Control/frames/TS_007_00012_12.0.tif	62883590	http://bia/Image	Control condition frames 07_00012_12.0			_:Glucose control condition
-data/Control/frames/TS_007_00013_-12.0.tif	64789476	http://bia/Image	Control condition frames 07_00013_-12.0			_:Glucose control condition
-data/Control/frames/TS_007_00014_14.0.tif	62473516	http://bia/Image	Control condition frames 07_00014_14.0			_:Glucose control condition
-data/Control/frames/TS_007_00015_-14.0.tif	64692538	http://bia/Image	Control condition frames 07_00015_-14.0			_:Glucose control condition
-data/Control/frames/TS_007_00016_16.0.tif	62065494	http://bia/Image	Control condition frames 07_00016_16.0			_:Glucose control condition
-data/Control/frames/TS_007_00017_-16.0.tif	64684744	http://bia/Image	Control condition frames 07_00017_-16.0			_:Glucose control condition
-data/Control/frames/TS_007_00018_18.0.tif	61615608	http://bia/Image	Control condition frames 07_00018_18.0			_:Glucose control condition
-data/Control/frames/TS_007_00019_-18.0.tif	64575732	http://bia/Image	Control condition frames 07_00019_-18.0			_:Glucose control condition
-data/Control/frames/TS_007_00020_20.0.tif	61131900	http://bia/Image	Control condition frames 07_00020_20.0			_:Glucose control condition
-data/Control/frames/TS_007_00021_-20.0.tif	64485424	http://bia/Image	Control condition frames 07_00021_-20.0			_:Glucose control condition
-data/Control/frames/TS_007_00022_22.0.tif	60611108	http://bia/Image	Control condition frames 07_00022_22.0			_:Glucose control condition
-data/Control/frames/TS_007_00023_-22.0.tif	64314532	http://bia/Image	Control condition frames 07_00023_-22.0			_:Glucose control condition
-data/Control/frames/TS_007_00024_24.0.tif	59982810	http://bia/Image	Control condition frames 07_00024_24.0			_:Glucose control condition
-data/Control/frames/TS_007_00025_-24.0.tif	64138364	http://bia/Image	Control condition frames 07_00025_-24.0			_:Glucose control condition
-data/Control/frames/TS_007_00026_26.0.tif	59322480	http://bia/Image	Control condition frames 07_00026_26.0			_:Glucose control condition
-data/Control/frames/TS_007_00027_-26.0.tif	63906988	http://bia/Image	Control condition frames 07_00027_-26.0			_:Glucose control condition
-data/Control/frames/TS_007_00028_28.0.tif	58572488	http://bia/Image	Control condition frames 07_00028_28.0			_:Glucose control condition
-data/Control/frames/TS_007_00029_-28.0.tif	63713302	http://bia/Image	Control condition frames 07_00029_-28.0			_:Glucose control condition
-data/Control/frames/TS_007_00030_30.0.tif	57721790	http://bia/Image	Control condition frames 07_00030_30.0			_:Glucose control condition
-data/Control/frames/TS_007_00031_-30.0.tif	63427622	http://bia/Image	Control condition frames 07_00031_-30.0			_:Glucose control condition
-data/Control/frames/TS_007_00032_32.0.tif	56906914	http://bia/Image	Control condition frames 07_00032_32.0			_:Glucose control condition
-data/Control/frames/TS_007_00033_-32.0.tif	63139578	http://bia/Image	Control condition frames 07_00033_-32.0			_:Glucose control condition
-data/Control/frames/TS_007_00034_34.0.tif	55928116	http://bia/Image	Control condition frames 07_00034_34.0			_:Glucose control condition
-data/Control/frames/TS_007_00035_-34.0.tif	62826106	http://bia/Image	Control condition frames 07_00035_-34.0			_:Glucose control condition
-data/Control/frames/TS_007_00036_36.0.tif	54820594	http://bia/Image	Control condition frames 07_00036_36.0			_:Glucose control condition
-data/Control/frames/TS_007_00037_-36.0.tif	62470910	http://bia/Image	Control condition frames 07_00037_-36.0			_:Glucose control condition
-data/Control/frames/TS_007_00038_38.0.tif	53671930	http://bia/Image	Control condition frames 07_00038_38.0			_:Glucose control condition
-data/Control/frames/TS_007_00039_-38.0.tif	61965826	http://bia/Image	Control condition frames 07_00039_-38.0			_:Glucose control condition
-data/Control/frames/TS_007_00040_40.0.tif	52224618	http://bia/Image	Control condition frames 07_00040_40.0			_:Glucose control condition
-data/Control/frames/TS_007_00041_-40.0.tif	61545542	http://bia/Image	Control condition frames 07_00041_-40.0			_:Glucose control condition
-data/Control/frames/TS_007_00042_42.0.tif	50909686	http://bia/Image	Control condition frames 07_00042_42.0			_:Glucose control condition
-data/Control/frames/TS_007_00043_-42.0.tif	61055286	http://bia/Image	Control condition frames 07_00043_-42.0			_:Glucose control condition
-data/Control/frames/TS_007_00044_44.0.tif	49245608	http://bia/Image	Control condition frames 07_00044_44.0			_:Glucose control condition
-data/Control/frames/TS_007_00045_-44.0.tif	60456306	http://bia/Image	Control condition frames 07_00045_-44.0			_:Glucose control condition
-data/Control/frames/TS_007_00046_46.0.tif	47464672	http://bia/Image	Control condition frames 07_00046_46.0			_:Glucose control condition
-data/Control/frames/TS_007_00047_-46.0.tif	59692054	http://bia/Image	Control condition frames 07_00047_-46.0			_:Glucose control condition
-data/Control/frames/TS_007_00048_48.0.tif	45434616	http://bia/Image	Control condition frames 07_00048_48.0			_:Glucose control condition
-data/Control/frames/TS_007_00049_-48.0.tif	59028648	http://bia/Image	Control condition frames 07_00049_-48.0			_:Glucose control condition
-data/Control/frames/TS_007_00050_-50.0.tif	58300700	http://bia/Image	Control condition frames 07_00050_-50.0			_:Glucose control condition
-data/Control/frames/TS_007_00051_-52.0.tif	57425982	http://bia/Image	Control condition frames 07_00051_-52.0			_:Glucose control condition
-data/Control/frames/TS_007_00052_-54.0.tif	56527804	http://bia/Image	Control condition frames 07_00052_-54.0			_:Glucose control condition
-data/Control/frames/TS_007_00053_-56.0.tif	55533540	http://bia/Image	Control condition frames 07_00053_-56.0			_:Glucose control condition
-data/Control/frames/TS_007_00054_-58.0.tif	54451560	http://bia/Image	Control condition frames 07_00054_-58.0			_:Glucose control condition
-data/Control/frames/TS_007_00055_-60.0.tif	53089710	http://bia/Image	Control condition frames 07_00055_-60.0			_:Glucose control condition
-data/Control/frames/TS_007_00056_-62.0.tif	51724382	http://bia/Image	Control condition frames 07_00056_-62.0			_:Glucose control condition
-data/Control/frames/TS_007_00057_-64.0.tif	49961562	http://bia/Image	Control condition frames 07_00057_-64.0			_:Glucose control condition
-data/Control/frames/TS_008_00001_-0.0.tif	66272130	http://bia/Image	Control condition frames 08_00001_-0.0			_:Glucose control condition
-data/Control/frames/TS_008_00002_2.0.tif	66146198	http://bia/Image	Control condition frames 08_00002_2.0			_:Glucose control condition
-data/Control/frames/TS_008_00003_-2.0.tif	66460406	http://bia/Image	Control condition frames 08_00003_-2.0			_:Glucose control condition
-data/Control/frames/TS_008_00004_4.0.tif	65929566	http://bia/Image	Control condition frames 08_00004_4.0			_:Glucose control condition
-data/Control/frames/TS_008_00005_-4.0.tif	66589746	http://bia/Image	Control condition frames 08_00005_-4.0			_:Glucose control condition
-data/Control/frames/TS_008_00006_6.0.tif	65677654	http://bia/Image	Control condition frames 08_00006_6.0			_:Glucose control condition
-data/Control/frames/TS_008_00007_-6.0.tif	66697816	http://bia/Image	Control condition frames 08_00007_-6.0			_:Glucose control condition
-data/Control/frames/TS_008_00008_8.0.tif	65450902	http://bia/Image	Control condition frames 08_00008_8.0			_:Glucose control condition
-data/Control/frames/TS_008_00009_-8.0.tif	66765630	http://bia/Image	Control condition frames 08_00009_-8.0			_:Glucose control condition
-data/Control/frames/TS_008_00010_10.0.tif	65160584	http://bia/Image	Control condition frames 08_00010_10.0			_:Glucose control condition
-data/Control/frames/TS_008_00011_-10.0.tif	66823994	http://bia/Image	Control condition frames 08_00011_-10.0			_:Glucose control condition
-data/Control/frames/TS_008_00012_12.0.tif	64858110	http://bia/Image	Control condition frames 08_00012_12.0			_:Glucose control condition
-data/Control/frames/TS_008_00013_-12.0.tif	66866558	http://bia/Image	Control condition frames 08_00013_-12.0			_:Glucose control condition
-data/Control/frames/TS_008_00014_14.0.tif	64458200	http://bia/Image	Control condition frames 08_00014_14.0			_:Glucose control condition
-data/Control/frames/TS_008_00015_-14.0.tif	66838412	http://bia/Image	Control condition frames 08_00015_-14.0			_:Glucose control condition
-data/Control/frames/TS_008_00016_16.0.tif	64032498	http://bia/Image	Control condition frames 08_00016_16.0			_:Glucose control condition
-data/Control/frames/TS_008_00017_-16.0.tif	66820260	http://bia/Image	Control condition frames 08_00017_-16.0			_:Glucose control condition
-data/Control/frames/TS_008_00018_18.0.tif	63597938	http://bia/Image	Control condition frames 08_00018_18.0			_:Glucose control condition
-data/Control/frames/TS_008_00019_-18.0.tif	66765058	http://bia/Image	Control condition frames 08_00019_-18.0			_:Glucose control condition
-data/Control/frames/TS_008_00020_20.0.tif	63094882	http://bia/Image	Control condition frames 08_00020_20.0			_:Glucose control condition
-data/Control/frames/TS_008_00021_-20.0.tif	66684590	http://bia/Image	Control condition frames 08_00021_-20.0			_:Glucose control condition
-data/Control/frames/TS_008_00022_22.0.tif	62534304	http://bia/Image	Control condition frames 08_00022_22.0			_:Glucose control condition
-data/Control/frames/TS_008_00023_-22.0.tif	66602734	http://bia/Image	Control condition frames 08_00023_-22.0			_:Glucose control condition
-data/Control/frames/TS_008_00024_24.0.tif	61896464	http://bia/Image	Control condition frames 08_00024_24.0			_:Glucose control condition
-data/Control/frames/TS_008_00025_-24.0.tif	66477370	http://bia/Image	Control condition frames 08_00025_-24.0			_:Glucose control condition
-data/Control/frames/TS_008_00026_26.0.tif	61263224	http://bia/Image	Control condition frames 08_00026_26.0			_:Glucose control condition
-data/Control/frames/TS_008_00027_-26.0.tif	66301120	http://bia/Image	Control condition frames 08_00027_-26.0			_:Glucose control condition
-data/Control/frames/TS_008_00028_28.0.tif	60491236	http://bia/Image	Control condition frames 08_00028_28.0			_:Glucose control condition
-data/Control/frames/TS_008_00029_-28.0.tif	66125434	http://bia/Image	Control condition frames 08_00029_-28.0			_:Glucose control condition
-data/Control/frames/TS_008_00030_30.0.tif	59665550	http://bia/Image	Control condition frames 08_00030_30.0			_:Glucose control condition
-data/Control/frames/TS_008_00031_-30.0.tif	65931302	http://bia/Image	Control condition frames 08_00031_-30.0			_:Glucose control condition
-data/Control/frames/TS_008_00032_32.0.tif	58716228	http://bia/Image	Control condition frames 08_00032_32.0			_:Glucose control condition
-data/Control/frames/TS_008_00033_-32.0.tif	65681746	http://bia/Image	Control condition frames 08_00033_-32.0			_:Glucose control condition
-data/Control/frames/TS_017_00001_-0.0.tif	62977866	http://bia/Image	Control condition frames 17_00001_-0.0			_:Glucose control condition
-data/Control/frames/TS_017_00002_2.0.tif	62561302	http://bia/Image	Control condition frames 17_00002_2.0			_:Glucose control condition
-data/Control/frames/TS_017_00003_-2.0.tif	63156554	http://bia/Image	Control condition frames 17_00003_-2.0			_:Glucose control condition
-data/Control/frames/TS_017_00004_4.0.tif	62562394	http://bia/Image	Control condition frames 17_00004_4.0			_:Glucose control condition
-data/Control/frames/TS_017_00005_-4.0.tif	63366918	http://bia/Image	Control condition frames 17_00005_-4.0			_:Glucose control condition
-data/Control/frames/TS_017_00006_6.0.tif	62344402	http://bia/Image	Control condition frames 17_00006_6.0			_:Glucose control condition
-data/Control/frames/TS_017_00007_-6.0.tif	63445878	http://bia/Image	Control condition frames 17_00007_-6.0			_:Glucose control condition
-data/Control/frames/TS_017_00008_8.0.tif	62056530	http://bia/Image	Control condition frames 17_00008_8.0			_:Glucose control condition
-data/Control/frames/TS_017_00009_-8.0.tif	63465114	http://bia/Image	Control condition frames 17_00009_-8.0			_:Glucose control condition
-data/Control/frames/TS_017_00010_10.0.tif	61751744	http://bia/Image	Control condition frames 17_00010_10.0			_:Glucose control condition
-data/Control/frames/TS_017_00011_-10.0.tif	63496644	http://bia/Image	Control condition frames 17_00011_-10.0			_:Glucose control condition
-data/Control/frames/TS_017_00012_12.0.tif	61393000	http://bia/Image	Control condition frames 17_00012_12.0			_:Glucose control condition
-data/Control/frames/TS_017_00013_-12.0.tif	63492382	http://bia/Image	Control condition frames 17_00013_-12.0			_:Glucose control condition
-data/Control/frames/TS_017_00014_14.0.tif	60899496	http://bia/Image	Control condition frames 17_00014_14.0			_:Glucose control condition
-data/Control/frames/TS_017_00015_-14.0.tif	63520240	http://bia/Image	Control condition frames 17_00015_-14.0			_:Glucose control condition
-data/Control/frames/TS_017_00016_16.0.tif	60473200	http://bia/Image	Control condition frames 17_00016_16.0			_:Glucose control condition
-data/Control/frames/TS_017_00017_-16.0.tif	63526120	http://bia/Image	Control condition frames 17_00017_-16.0			_:Glucose control condition
-data/Control/frames/TS_017_00018_18.0.tif	59906838	http://bia/Image	Control condition frames 17_00018_18.0			_:Glucose control condition
-data/Control/frames/TS_017_00019_-18.0.tif	63558990	http://bia/Image	Control condition frames 17_00019_-18.0			_:Glucose control condition
-data/Control/frames/TS_017_00020_20.0.tif	59446268	http://bia/Image	Control condition frames 17_00020_20.0			_:Glucose control condition
-data/Control/frames/TS_017_00021_-20.0.tif	63463866	http://bia/Image	Control condition frames 17_00021_-20.0			_:Glucose control condition
-data/Control/frames/TS_017_00022_22.0.tif	58785444	http://bia/Image	Control condition frames 17_00022_22.0			_:Glucose control condition
-data/Control/frames/TS_017_00023_-22.0.tif	63272258	http://bia/Image	Control condition frames 17_00023_-22.0			_:Glucose control condition
-data/Control/frames/TS_017_00024_24.0.tif	58083606	http://bia/Image	Control condition frames 17_00024_24.0			_:Glucose control condition
-data/Control/frames/TS_017_00025_-24.0.tif	63119992	http://bia/Image	Control condition frames 17_00025_-24.0			_:Glucose control condition
-data/Control/frames/TS_017_00026_26.0.tif	57350704	http://bia/Image	Control condition frames 17_00026_26.0			_:Glucose control condition
-data/Control/frames/TS_017_00027_-26.0.tif	62773702	http://bia/Image	Control condition frames 17_00027_-26.0			_:Glucose control condition
-data/Control/frames/TS_017_00028_28.0.tif	56531072	http://bia/Image	Control condition frames 17_00028_28.0			_:Glucose control condition
-data/Control/frames/TS_017_00029_-28.0.tif	62689346	http://bia/Image	Control condition frames 17_00029_-28.0			_:Glucose control condition
-data/Control/frames/TS_017_00030_30.0.tif	55519308	http://bia/Image	Control condition frames 17_00030_30.0			_:Glucose control condition
-data/Control/frames/TS_017_00031_-30.0.tif	62478364	http://bia/Image	Control condition frames 17_00031_-30.0			_:Glucose control condition
-data/Control/frames/TS_017_00032_32.0.tif	54371014	http://bia/Image	Control condition frames 17_00032_32.0			_:Glucose control condition
-data/Control/frames/TS_017_00033_-32.0.tif	62166004	http://bia/Image	Control condition frames 17_00033_-32.0			_:Glucose control condition
-data/Control/frames/TS_017_00034_34.0.tif	53269812	http://bia/Image	Control condition frames 17_00034_34.0			_:Glucose control condition
-data/Control/frames/TS_017_00035_-34.0.tif	61849948	http://bia/Image	Control condition frames 17_00035_-34.0			_:Glucose control condition
-data/Control/frames/TS_017_00036_36.0.tif	52027688	http://bia/Image	Control condition frames 17_00036_36.0			_:Glucose control condition
-data/Control/frames/TS_017_00037_-36.0.tif	61542498	http://bia/Image	Control condition frames 17_00037_-36.0			_:Glucose control condition
-data/Control/frames/TS_017_00038_38.0.tif	50658746	http://bia/Image	Control condition frames 17_00038_38.0			_:Glucose control condition
-data/Control/frames/TS_017_00039_-38.0.tif	61092660	http://bia/Image	Control condition frames 17_00039_-38.0			_:Glucose control condition
-data/Control/frames/TS_017_00040_40.0.tif	49107548	http://bia/Image	Control condition frames 17_00040_40.0			_:Glucose control condition
-data/Control/frames/TS_017_00041_-40.0.tif	60549206	http://bia/Image	Control condition frames 17_00041_-40.0			_:Glucose control condition
-data/Control/frames/TS_017_00042_42.0.tif	47267470	http://bia/Image	Control condition frames 17_00042_42.0			_:Glucose control condition
-data/Control/frames/TS_017_00043_-42.0.tif	60158624	http://bia/Image	Control condition frames 17_00043_-42.0			_:Glucose control condition
-data/Control/frames/TS_017_00044_44.0.tif	45299354	http://bia/Image	Control condition frames 17_00044_44.0			_:Glucose control condition
-data/Control/frames/TS_017_00045_-44.0.tif	59512184	http://bia/Image	Control condition frames 17_00045_-44.0			_:Glucose control condition
-data/Control/frames/TS_017_00046_46.0.tif	42816758	http://bia/Image	Control condition frames 17_00046_46.0			_:Glucose control condition
-data/Control/frames/TS_017_00047_-46.0.tif	58958670	http://bia/Image	Control condition frames 17_00047_-46.0			_:Glucose control condition
-data/Control/frames/TS_017_00048_48.0.tif	40479316	http://bia/Image	Control condition frames 17_00048_48.0			_:Glucose control condition
-data/Control/frames/TS_017_00049_-48.0.tif	58249458	http://bia/Image	Control condition frames 17_00049_-48.0			_:Glucose control condition
-data/Control/frames/TS_017_00050_-50.0.tif	57506416	http://bia/Image	Control condition frames 17_00050_-50.0			_:Glucose control condition
-data/Control/frames/TS_017_00051_-52.0.tif	56637678	http://bia/Image	Control condition frames 17_00051_-52.0			_:Glucose control condition
-data/Control/frames/TS_017_00052_-54.0.tif	55786780	http://bia/Image	Control condition frames 17_00052_-54.0			_:Glucose control condition
-data/Control/frames/TS_017_00053_-56.0.tif	54838024	http://bia/Image	Control condition frames 17_00053_-56.0			_:Glucose control condition
-data/Control/frames/TS_017_00054_-58.0.tif	53726908	http://bia/Image	Control condition frames 17_00054_-58.0			_:Glucose control condition
-data/Control/frames/TS_017_00055_-60.0.tif	52483110	http://bia/Image	Control condition frames 17_00055_-60.0			_:Glucose control condition
-data/Control/frames/TS_017_00056_-62.0.tif	51229024	http://bia/Image	Control condition frames 17_00056_-62.0			_:Glucose control condition
-data/Control/frames/TS_017_00057_-64.0.tif	49667034	http://bia/Image	Control condition frames 17_00057_-64.0			_:Glucose control condition
-data/Control/frames/mdocs_ori/TS_006.mdoc	47276					
-data/Control/frames/mdocs_ori/TS_007.mdoc	48070					
-data/Control/frames/mdocs_ori/TS_008.mdoc	27916					
-data/Control/frames/mdocs_ori/TS_017.mdoc	48057					
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/Control/frames/CountRef_TS_00001_0.0.mrc	94280704						
+data/Control/frames/TS_006_00001_-0.0.tif	63783782	http://bia/Image	Control condition frames 06_00001_-0.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00002_2.0.tif	63563690	http://bia/Image	Control condition frames 06_00002_2.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00003_-2.0.tif	63982128	http://bia/Image	Control condition frames 06_00003_-2.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00004_4.0.tif	63313444	http://bia/Image	Control condition frames 06_00004_4.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00005_-4.0.tif	64177296	http://bia/Image	Control condition frames 06_00005_-4.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00006_6.0.tif	63066048	http://bia/Image	Control condition frames 06_00006_6.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00007_-6.0.tif	64346774	http://bia/Image	Control condition frames 06_00007_-6.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00008_8.0.tif	62723536	http://bia/Image	Control condition frames 06_00008_8.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00009_-8.0.tif	64468416	http://bia/Image	Control condition frames 06_00009_-8.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00010_10.0.tif	62334686	http://bia/Image	Control condition frames 06_00010_10.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00011_-10.0.tif	64552718	http://bia/Image	Control condition frames 06_00011_-10.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00012_12.0.tif	61932002	http://bia/Image	Control condition frames 06_00012_12.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00013_-12.0.tif	64568818	http://bia/Image	Control condition frames 06_00013_-12.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00014_14.0.tif	61472884	http://bia/Image	Control condition frames 06_00014_14.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00015_-14.0.tif	64588164	http://bia/Image	Control condition frames 06_00015_-14.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00016_16.0.tif	60867160	http://bia/Image	Control condition frames 06_00016_16.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00017_-16.0.tif	64543844	http://bia/Image	Control condition frames 06_00017_-16.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00018_18.0.tif	60406602	http://bia/Image	Control condition frames 06_00018_18.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00019_-18.0.tif	64515880	http://bia/Image	Control condition frames 06_00019_-18.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00020_20.0.tif	59788924	http://bia/Image	Control condition frames 06_00020_20.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00021_-20.0.tif	64463230	http://bia/Image	Control condition frames 06_00021_-20.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00022_22.0.tif	59107580	http://bia/Image	Control condition frames 06_00022_22.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00023_-22.0.tif	64334252	http://bia/Image	Control condition frames 06_00023_-22.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00024_24.0.tif	58332626	http://bia/Image	Control condition frames 06_00024_24.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00025_-24.0.tif	64210166	http://bia/Image	Control condition frames 06_00025_-24.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00026_26.0.tif	57575672	http://bia/Image	Control condition frames 06_00026_26.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00027_-26.0.tif	64040892	http://bia/Image	Control condition frames 06_00027_-26.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00028_28.0.tif	56668738	http://bia/Image	Control condition frames 06_00028_28.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00029_-28.0.tif	63876788	http://bia/Image	Control condition frames 06_00029_-28.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00030_30.0.tif	55694136	http://bia/Image	Control condition frames 06_00030_30.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00031_-30.0.tif	63666134	http://bia/Image	Control condition frames 06_00031_-30.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00032_32.0.tif	54628534	http://bia/Image	Control condition frames 06_00032_32.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00033_-32.0.tif	63389358	http://bia/Image	Control condition frames 06_00033_-32.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00034_34.0.tif	53434368	http://bia/Image	Control condition frames 06_00034_34.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00035_-34.0.tif	63078366	http://bia/Image	Control condition frames 06_00035_-34.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00036_36.0.tif	52091530	http://bia/Image	Control condition frames 06_00036_36.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00037_-36.0.tif	62768198	http://bia/Image	Control condition frames 06_00037_-36.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00038_38.0.tif	50739264	http://bia/Image	Control condition frames 06_00038_38.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00039_-38.0.tif	62403636	http://bia/Image	Control condition frames 06_00039_-38.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00040_40.0.tif	49052838	http://bia/Image	Control condition frames 06_00040_40.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00041_-40.0.tif	61960312	http://bia/Image	Control condition frames 06_00041_-40.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00042_42.0.tif	47246226	http://bia/Image	Control condition frames 06_00042_42.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00043_-42.0.tif	61484198	http://bia/Image	Control condition frames 06_00043_-42.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00044_44.0.tif	45321100	http://bia/Image	Control condition frames 06_00044_44.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00045_-44.0.tif	61018498	http://bia/Image	Control condition frames 06_00045_-44.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00046_46.0.tif	43214356	http://bia/Image	Control condition frames 06_00046_46.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00047_-46.0.tif	60425430	http://bia/Image	Control condition frames 06_00047_-46.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00048_-48.0.tif	59743678	http://bia/Image	Control condition frames 06_00048_-48.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00049_-50.0.tif	59103764	http://bia/Image	Control condition frames 06_00049_-50.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00050_-52.0.tif	58328738	http://bia/Image	Control condition frames 06_00050_-52.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00051_-54.0.tif	57498906	http://bia/Image	Control condition frames 06_00051_-54.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00052_-56.0.tif	56588106	http://bia/Image	Control condition frames 06_00052_-56.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00053_-58.0.tif	55570886	http://bia/Image	Control condition frames 06_00053_-58.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00054_-60.0.tif	54481712	http://bia/Image	Control condition frames 06_00054_-60.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00055_-62.0.tif	53254256	http://bia/Image	Control condition frames 06_00055_-62.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_006_00056_-64.0.tif	51923106	http://bia/Image	Control condition frames 06_00056_-64.0		_:Control 06		_:Glucose control condition
+data/Control/frames/TS_007_00001_-0.0.tif	64238754	http://bia/Image	Control condition frames 07_00001_-0.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00002_2.0.tif	64121948	http://bia/Image	Control condition frames 07_00002_2.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00003_-2.0.tif	64382982	http://bia/Image	Control condition frames 07_00003_-2.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00004_4.0.tif	63896964	http://bia/Image	Control condition frames 07_00004_4.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00005_-4.0.tif	64508636	http://bia/Image	Control condition frames 07_00005_-4.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00006_6.0.tif	63694642	http://bia/Image	Control condition frames 07_00006_6.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00007_-6.0.tif	64644856	http://bia/Image	Control condition frames 07_00007_-6.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00008_8.0.tif	63457186	http://bia/Image	Control condition frames 07_00008_8.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00009_-8.0.tif	64715330	http://bia/Image	Control condition frames 07_00009_-8.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00010_10.0.tif	63192926	http://bia/Image	Control condition frames 07_00010_10.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00011_-10.0.tif	64746448	http://bia/Image	Control condition frames 07_00011_-10.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00012_12.0.tif	62883590	http://bia/Image	Control condition frames 07_00012_12.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00013_-12.0.tif	64789476	http://bia/Image	Control condition frames 07_00013_-12.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00014_14.0.tif	62473516	http://bia/Image	Control condition frames 07_00014_14.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00015_-14.0.tif	64692538	http://bia/Image	Control condition frames 07_00015_-14.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00016_16.0.tif	62065494	http://bia/Image	Control condition frames 07_00016_16.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00017_-16.0.tif	64684744	http://bia/Image	Control condition frames 07_00017_-16.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00018_18.0.tif	61615608	http://bia/Image	Control condition frames 07_00018_18.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00019_-18.0.tif	64575732	http://bia/Image	Control condition frames 07_00019_-18.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00020_20.0.tif	61131900	http://bia/Image	Control condition frames 07_00020_20.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00021_-20.0.tif	64485424	http://bia/Image	Control condition frames 07_00021_-20.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00022_22.0.tif	60611108	http://bia/Image	Control condition frames 07_00022_22.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00023_-22.0.tif	64314532	http://bia/Image	Control condition frames 07_00023_-22.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00024_24.0.tif	59982810	http://bia/Image	Control condition frames 07_00024_24.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00025_-24.0.tif	64138364	http://bia/Image	Control condition frames 07_00025_-24.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00026_26.0.tif	59322480	http://bia/Image	Control condition frames 07_00026_26.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00027_-26.0.tif	63906988	http://bia/Image	Control condition frames 07_00027_-26.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00028_28.0.tif	58572488	http://bia/Image	Control condition frames 07_00028_28.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00029_-28.0.tif	63713302	http://bia/Image	Control condition frames 07_00029_-28.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00030_30.0.tif	57721790	http://bia/Image	Control condition frames 07_00030_30.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00031_-30.0.tif	63427622	http://bia/Image	Control condition frames 07_00031_-30.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00032_32.0.tif	56906914	http://bia/Image	Control condition frames 07_00032_32.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00033_-32.0.tif	63139578	http://bia/Image	Control condition frames 07_00033_-32.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00034_34.0.tif	55928116	http://bia/Image	Control condition frames 07_00034_34.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00035_-34.0.tif	62826106	http://bia/Image	Control condition frames 07_00035_-34.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00036_36.0.tif	54820594	http://bia/Image	Control condition frames 07_00036_36.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00037_-36.0.tif	62470910	http://bia/Image	Control condition frames 07_00037_-36.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00038_38.0.tif	53671930	http://bia/Image	Control condition frames 07_00038_38.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00039_-38.0.tif	61965826	http://bia/Image	Control condition frames 07_00039_-38.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00040_40.0.tif	52224618	http://bia/Image	Control condition frames 07_00040_40.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00041_-40.0.tif	61545542	http://bia/Image	Control condition frames 07_00041_-40.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00042_42.0.tif	50909686	http://bia/Image	Control condition frames 07_00042_42.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00043_-42.0.tif	61055286	http://bia/Image	Control condition frames 07_00043_-42.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00044_44.0.tif	49245608	http://bia/Image	Control condition frames 07_00044_44.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00045_-44.0.tif	60456306	http://bia/Image	Control condition frames 07_00045_-44.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00046_46.0.tif	47464672	http://bia/Image	Control condition frames 07_00046_46.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00047_-46.0.tif	59692054	http://bia/Image	Control condition frames 07_00047_-46.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00048_48.0.tif	45434616	http://bia/Image	Control condition frames 07_00048_48.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00049_-48.0.tif	59028648	http://bia/Image	Control condition frames 07_00049_-48.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00050_-50.0.tif	58300700	http://bia/Image	Control condition frames 07_00050_-50.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00051_-52.0.tif	57425982	http://bia/Image	Control condition frames 07_00051_-52.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00052_-54.0.tif	56527804	http://bia/Image	Control condition frames 07_00052_-54.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00053_-56.0.tif	55533540	http://bia/Image	Control condition frames 07_00053_-56.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00054_-58.0.tif	54451560	http://bia/Image	Control condition frames 07_00054_-58.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00055_-60.0.tif	53089710	http://bia/Image	Control condition frames 07_00055_-60.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00056_-62.0.tif	51724382	http://bia/Image	Control condition frames 07_00056_-62.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_007_00057_-64.0.tif	49961562	http://bia/Image	Control condition frames 07_00057_-64.0		_:Control 07		_:Glucose control condition
+data/Control/frames/TS_008_00001_-0.0.tif	66272130	http://bia/Image	Control condition frames 08_00001_-0.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00002_2.0.tif	66146198	http://bia/Image	Control condition frames 08_00002_2.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00003_-2.0.tif	66460406	http://bia/Image	Control condition frames 08_00003_-2.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00004_4.0.tif	65929566	http://bia/Image	Control condition frames 08_00004_4.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00005_-4.0.tif	66589746	http://bia/Image	Control condition frames 08_00005_-4.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00006_6.0.tif	65677654	http://bia/Image	Control condition frames 08_00006_6.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00007_-6.0.tif	66697816	http://bia/Image	Control condition frames 08_00007_-6.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00008_8.0.tif	65450902	http://bia/Image	Control condition frames 08_00008_8.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00009_-8.0.tif	66765630	http://bia/Image	Control condition frames 08_00009_-8.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00010_10.0.tif	65160584	http://bia/Image	Control condition frames 08_00010_10.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00011_-10.0.tif	66823994	http://bia/Image	Control condition frames 08_00011_-10.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00012_12.0.tif	64858110	http://bia/Image	Control condition frames 08_00012_12.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00013_-12.0.tif	66866558	http://bia/Image	Control condition frames 08_00013_-12.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00014_14.0.tif	64458200	http://bia/Image	Control condition frames 08_00014_14.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00015_-14.0.tif	66838412	http://bia/Image	Control condition frames 08_00015_-14.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00016_16.0.tif	64032498	http://bia/Image	Control condition frames 08_00016_16.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00017_-16.0.tif	66820260	http://bia/Image	Control condition frames 08_00017_-16.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00018_18.0.tif	63597938	http://bia/Image	Control condition frames 08_00018_18.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00019_-18.0.tif	66765058	http://bia/Image	Control condition frames 08_00019_-18.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00020_20.0.tif	63094882	http://bia/Image	Control condition frames 08_00020_20.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00021_-20.0.tif	66684590	http://bia/Image	Control condition frames 08_00021_-20.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00022_22.0.tif	62534304	http://bia/Image	Control condition frames 08_00022_22.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00023_-22.0.tif	66602734	http://bia/Image	Control condition frames 08_00023_-22.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00024_24.0.tif	61896464	http://bia/Image	Control condition frames 08_00024_24.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00025_-24.0.tif	66477370	http://bia/Image	Control condition frames 08_00025_-24.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00026_26.0.tif	61263224	http://bia/Image	Control condition frames 08_00026_26.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00027_-26.0.tif	66301120	http://bia/Image	Control condition frames 08_00027_-26.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00028_28.0.tif	60491236	http://bia/Image	Control condition frames 08_00028_28.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00029_-28.0.tif	66125434	http://bia/Image	Control condition frames 08_00029_-28.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00030_30.0.tif	59665550	http://bia/Image	Control condition frames 08_00030_30.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00031_-30.0.tif	65931302	http://bia/Image	Control condition frames 08_00031_-30.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00032_32.0.tif	58716228	http://bia/Image	Control condition frames 08_00032_32.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_008_00033_-32.0.tif	65681746	http://bia/Image	Control condition frames 08_00033_-32.0		_:Control 08		_:Glucose control condition
+data/Control/frames/TS_017_00001_-0.0.tif	62977866	http://bia/Image	Control condition frames 17_00001_-0.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00002_2.0.tif	62561302	http://bia/Image	Control condition frames 17_00002_2.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00003_-2.0.tif	63156554	http://bia/Image	Control condition frames 17_00003_-2.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00004_4.0.tif	62562394	http://bia/Image	Control condition frames 17_00004_4.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00005_-4.0.tif	63366918	http://bia/Image	Control condition frames 17_00005_-4.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00006_6.0.tif	62344402	http://bia/Image	Control condition frames 17_00006_6.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00007_-6.0.tif	63445878	http://bia/Image	Control condition frames 17_00007_-6.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00008_8.0.tif	62056530	http://bia/Image	Control condition frames 17_00008_8.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00009_-8.0.tif	63465114	http://bia/Image	Control condition frames 17_00009_-8.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00010_10.0.tif	61751744	http://bia/Image	Control condition frames 17_00010_10.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00011_-10.0.tif	63496644	http://bia/Image	Control condition frames 17_00011_-10.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00012_12.0.tif	61393000	http://bia/Image	Control condition frames 17_00012_12.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00013_-12.0.tif	63492382	http://bia/Image	Control condition frames 17_00013_-12.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00014_14.0.tif	60899496	http://bia/Image	Control condition frames 17_00014_14.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00015_-14.0.tif	63520240	http://bia/Image	Control condition frames 17_00015_-14.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00016_16.0.tif	60473200	http://bia/Image	Control condition frames 17_00016_16.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00017_-16.0.tif	63526120	http://bia/Image	Control condition frames 17_00017_-16.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00018_18.0.tif	59906838	http://bia/Image	Control condition frames 17_00018_18.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00019_-18.0.tif	63558990	http://bia/Image	Control condition frames 17_00019_-18.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00020_20.0.tif	59446268	http://bia/Image	Control condition frames 17_00020_20.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00021_-20.0.tif	63463866	http://bia/Image	Control condition frames 17_00021_-20.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00022_22.0.tif	58785444	http://bia/Image	Control condition frames 17_00022_22.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00023_-22.0.tif	63272258	http://bia/Image	Control condition frames 17_00023_-22.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00024_24.0.tif	58083606	http://bia/Image	Control condition frames 17_00024_24.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00025_-24.0.tif	63119992	http://bia/Image	Control condition frames 17_00025_-24.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00026_26.0.tif	57350704	http://bia/Image	Control condition frames 17_00026_26.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00027_-26.0.tif	62773702	http://bia/Image	Control condition frames 17_00027_-26.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00028_28.0.tif	56531072	http://bia/Image	Control condition frames 17_00028_28.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00029_-28.0.tif	62689346	http://bia/Image	Control condition frames 17_00029_-28.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00030_30.0.tif	55519308	http://bia/Image	Control condition frames 17_00030_30.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00031_-30.0.tif	62478364	http://bia/Image	Control condition frames 17_00031_-30.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00032_32.0.tif	54371014	http://bia/Image	Control condition frames 17_00032_32.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00033_-32.0.tif	62166004	http://bia/Image	Control condition frames 17_00033_-32.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00034_34.0.tif	53269812	http://bia/Image	Control condition frames 17_00034_34.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00035_-34.0.tif	61849948	http://bia/Image	Control condition frames 17_00035_-34.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00036_36.0.tif	52027688	http://bia/Image	Control condition frames 17_00036_36.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00037_-36.0.tif	61542498	http://bia/Image	Control condition frames 17_00037_-36.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00038_38.0.tif	50658746	http://bia/Image	Control condition frames 17_00038_38.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00039_-38.0.tif	61092660	http://bia/Image	Control condition frames 17_00039_-38.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00040_40.0.tif	49107548	http://bia/Image	Control condition frames 17_00040_40.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00041_-40.0.tif	60549206	http://bia/Image	Control condition frames 17_00041_-40.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00042_42.0.tif	47267470	http://bia/Image	Control condition frames 17_00042_42.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00043_-42.0.tif	60158624	http://bia/Image	Control condition frames 17_00043_-42.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00044_44.0.tif	45299354	http://bia/Image	Control condition frames 17_00044_44.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00045_-44.0.tif	59512184	http://bia/Image	Control condition frames 17_00045_-44.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00046_46.0.tif	42816758	http://bia/Image	Control condition frames 17_00046_46.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00047_-46.0.tif	58958670	http://bia/Image	Control condition frames 17_00047_-46.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00048_48.0.tif	40479316	http://bia/Image	Control condition frames 17_00048_48.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00049_-48.0.tif	58249458	http://bia/Image	Control condition frames 17_00049_-48.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00050_-50.0.tif	57506416	http://bia/Image	Control condition frames 17_00050_-50.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00051_-52.0.tif	56637678	http://bia/Image	Control condition frames 17_00051_-52.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00052_-54.0.tif	55786780	http://bia/Image	Control condition frames 17_00052_-54.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00053_-56.0.tif	54838024	http://bia/Image	Control condition frames 17_00053_-56.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00054_-58.0.tif	53726908	http://bia/Image	Control condition frames 17_00054_-58.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00055_-60.0.tif	52483110	http://bia/Image	Control condition frames 17_00055_-60.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00056_-62.0.tif	51229024	http://bia/Image	Control condition frames 17_00056_-62.0		_:Control 17		_:Glucose control condition
+data/Control/frames/TS_017_00057_-64.0.tif	49667034	http://bia/Image	Control condition frames 17_00057_-64.0		_:Control 17		_:Glucose control condition
+data/Control/frames/mdocs_ori/TS_006.mdoc	47276						
+data/Control/frames/mdocs_ori/TS_007.mdoc	48070						
+data/Control/frames/mdocs_ori/TS_008.mdoc	27916						
+data/Control/frames/mdocs_ori/TS_017.mdoc	48057						

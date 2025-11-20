@@ -1,523 +1,523 @@
-file_path	size_in_bytes	type	label	source_image_label	associated_annotation_method	associated_protocol
-data/VPP/frames/CountRef_TS_0001_0004_plus_0010.dm4	57547614					
-data/VPP/frames/CountRef_TS_0005_0008.dm4	57547612					
-data/VPP/frames/TS_0001_001_-0.0.tif	49010020	http://bia/Image	Frames 1_001_-0.0			
-data/VPP/frames/TS_0001_002_2.0.tif	49013672	http://bia/Image	Frames 1_002_2.0			
-data/VPP/frames/TS_0001_003_-2.0.tif	49000644	http://bia/Image	Frames 1_003_-2.0			
-data/VPP/frames/TS_0001_004_-4.0.tif	48961602	http://bia/Image	Frames 1_004_-4.0			
-data/VPP/frames/TS_0001_005_4.0.tif	49015786	http://bia/Image	Frames 1_005_4.0			
-data/VPP/frames/TS_0001_006_6.0.tif	49008728	http://bia/Image	Frames 1_006_6.0			
-data/VPP/frames/TS_0001_007_-6.0.tif	48924912	http://bia/Image	Frames 1_007_-6.0			
-data/VPP/frames/TS_0001_008_-8.0.tif	48860082	http://bia/Image	Frames 1_008_-8.0			
-data/VPP/frames/TS_0001_009_8.0.tif	48987488	http://bia/Image	Frames 1_009_8.0			
-data/VPP/frames/TS_0001_010_10.0.tif	48960398	http://bia/Image	Frames 1_010_10.0			
-data/VPP/frames/TS_0001_011_-10.0.tif	48805248	http://bia/Image	Frames 1_011_-10.0			
-data/VPP/frames/TS_0001_012_-12.0.tif	48731302	http://bia/Image	Frames 1_012_-12.0			
-data/VPP/frames/TS_0001_013_12.0.tif	48916278	http://bia/Image	Frames 1_013_12.0			
-data/VPP/frames/TS_0001_014_14.0.tif	48826932	http://bia/Image	Frames 1_014_14.0			
-data/VPP/frames/TS_0001_015_-14.0.tif	48617128	http://bia/Image	Frames 1_015_-14.0			
-data/VPP/frames/TS_0001_016_-16.0.tif	48494140	http://bia/Image	Frames 1_016_-16.0			
-data/VPP/frames/TS_0001_017_16.0.tif	48760074	http://bia/Image	Frames 1_017_16.0			
-data/VPP/frames/TS_0001_018_18.0.tif	48637828	http://bia/Image	Frames 1_018_18.0			
-data/VPP/frames/TS_0001_019_-18.0.tif	48367376	http://bia/Image	Frames 1_019_-18.0			
-data/VPP/frames/TS_0001_020_-20.0.tif	48226220	http://bia/Image	Frames 1_020_-20.0			
-data/VPP/frames/TS_0001_021_20.0.tif	48558974	http://bia/Image	Frames 1_021_20.0			
-data/VPP/frames/TS_0001_022_22.0.tif	48416344	http://bia/Image	Frames 1_022_22.0			
-data/VPP/frames/TS_0001_023_-22.0.tif	48044750	http://bia/Image	Frames 1_023_-22.0			
-data/VPP/frames/TS_0001_024_-24.0.tif	47870584	http://bia/Image	Frames 1_024_-24.0			
-data/VPP/frames/TS_0001_025_24.0.tif	48261416	http://bia/Image	Frames 1_025_24.0			
-data/VPP/frames/TS_0001_026_26.0.tif	48098716	http://bia/Image	Frames 1_026_26.0			
-data/VPP/frames/TS_0001_027_-26.0.tif	47632568	http://bia/Image	Frames 1_027_-26.0			
-data/VPP/frames/TS_0001_028_-28.0.tif	47405184	http://bia/Image	Frames 1_028_-28.0			
-data/VPP/frames/TS_0001_029_28.0.tif	47880814	http://bia/Image	Frames 1_029_28.0			
-data/VPP/frames/TS_0001_030_30.0.tif	47656432	http://bia/Image	Frames 1_030_30.0			
-data/VPP/frames/TS_0001_031_-30.0.tif	47156646	http://bia/Image	Frames 1_031_-30.0			
-data/VPP/frames/TS_0001_032_-32.0.tif	46914776	http://bia/Image	Frames 1_032_-32.0			
-data/VPP/frames/TS_0001_033_32.0.tif	47459244	http://bia/Image	Frames 1_033_32.0			
-data/VPP/frames/TS_0001_034_34.0.tif	47209898	http://bia/Image	Frames 1_034_34.0			
-data/VPP/frames/TS_0001_035_-34.0.tif	46650884	http://bia/Image	Frames 1_035_-34.0			
-data/VPP/frames/TS_0001_036_-36.0.tif	46373602	http://bia/Image	Frames 1_036_-36.0			
-data/VPP/frames/TS_0001_037_36.0.tif	46935916	http://bia/Image	Frames 1_037_36.0			
-data/VPP/frames/TS_0001_038_38.0.tif	46604842	http://bia/Image	Frames 1_038_38.0			
-data/VPP/frames/TS_0001_039_-38.0.tif	45963172	http://bia/Image	Frames 1_039_-38.0			
-data/VPP/frames/TS_0001_040_-40.0.tif	45611024	http://bia/Image	Frames 1_040_-40.0			
-data/VPP/frames/TS_0001_041_40.0.tif	46273712	http://bia/Image	Frames 1_041_40.0			
-data/VPP/frames/TS_0001_042_42.0.tif	45885730	http://bia/Image	Frames 1_042_42.0			
-data/VPP/frames/TS_0001_043_-42.0.tif	45165762	http://bia/Image	Frames 1_043_-42.0			
-data/VPP/frames/TS_0001_044_-44.0.tif	44704324	http://bia/Image	Frames 1_044_-44.0			
-data/VPP/frames/TS_0001_045_44.0.tif	45510204	http://bia/Image	Frames 1_045_44.0			
-data/VPP/frames/TS_0001_046_46.0.tif	45047424	http://bia/Image	Frames 1_046_46.0			
-data/VPP/frames/TS_0001_047_-46.0.tif	44151070	http://bia/Image	Frames 1_047_-46.0			
-data/VPP/frames/TS_0001_048_-48.0.tif	43583650	http://bia/Image	Frames 1_048_-48.0			
-data/VPP/frames/TS_0001_049_48.0.tif	44571682	http://bia/Image	Frames 1_049_48.0			
-data/VPP/frames/TS_0001_050_50.0.tif	44038982	http://bia/Image	Frames 1_050_50.0			
-data/VPP/frames/TS_0001_051_-50.0.tif	42965324	http://bia/Image	Frames 1_051_-50.0			
-data/VPP/frames/TS_0002_001_-0.0.tif	47429924	http://bia/Image	Frames 2_001_-0.0			
-data/VPP/frames/TS_0002_002_2.0.tif	47432576	http://bia/Image	Frames 2_002_2.0			
-data/VPP/frames/TS_0002_003_-2.0.tif	47391020	http://bia/Image	Frames 2_003_-2.0			
-data/VPP/frames/TS_0002_004_-4.0.tif	47368828	http://bia/Image	Frames 2_004_-4.0			
-data/VPP/frames/TS_0002_005_4.0.tif	47422754	http://bia/Image	Frames 2_005_4.0			
-data/VPP/frames/TS_0002_006_6.0.tif	47399074	http://bia/Image	Frames 2_006_6.0			
-data/VPP/frames/TS_0002_007_-6.0.tif	47334902	http://bia/Image	Frames 2_007_-6.0			
-data/VPP/frames/TS_0002_008_-8.0.tif	47275018	http://bia/Image	Frames 2_008_-8.0			
-data/VPP/frames/TS_0002_009_8.0.tif	47372462	http://bia/Image	Frames 2_009_8.0			
-data/VPP/frames/TS_0002_010_10.0.tif	47339178	http://bia/Image	Frames 2_010_10.0			
-data/VPP/frames/TS_0002_011_-10.0.tif	47198268	http://bia/Image	Frames 2_011_-10.0			
-data/VPP/frames/TS_0002_012_-12.0.tif	47088480	http://bia/Image	Frames 2_012_-12.0			
-data/VPP/frames/TS_0002_013_12.0.tif	47283668	http://bia/Image	Frames 2_013_12.0			
-data/VPP/frames/TS_0002_014_14.0.tif	47196666	http://bia/Image	Frames 2_014_14.0			
-data/VPP/frames/TS_0002_015_-14.0.tif	46989282	http://bia/Image	Frames 2_015_-14.0			
-data/VPP/frames/TS_0002_016_-16.0.tif	46901498	http://bia/Image	Frames 2_016_-16.0			
-data/VPP/frames/TS_0002_017_16.0.tif	47087190	http://bia/Image	Frames 2_017_16.0			
-data/VPP/frames/TS_0002_018_18.0.tif	46961706	http://bia/Image	Frames 2_018_18.0			
-data/VPP/frames/TS_0002_019_-18.0.tif	46699546	http://bia/Image	Frames 2_019_-18.0			
-data/VPP/frames/TS_0002_020_-20.0.tif	46570568	http://bia/Image	Frames 2_020_-20.0			
-data/VPP/frames/TS_0002_021_20.0.tif	46852178	http://bia/Image	Frames 2_021_20.0			
-data/VPP/frames/TS_0002_022_22.0.tif	46700868	http://bia/Image	Frames 2_022_22.0			
-data/VPP/frames/TS_0002_023_-22.0.tif	46411330	http://bia/Image	Frames 2_023_-22.0			
-data/VPP/frames/TS_0002_024_-24.0.tif	46195634	http://bia/Image	Frames 2_024_-24.0			
-data/VPP/frames/TS_0002_025_24.0.tif	46543762	http://bia/Image	Frames 2_025_24.0			
-data/VPP/frames/TS_0002_026_26.0.tif	46350266	http://bia/Image	Frames 2_026_26.0			
-data/VPP/frames/TS_0002_027_-26.0.tif	45968038	http://bia/Image	Frames 2_027_-26.0			
-data/VPP/frames/TS_0002_028_-28.0.tif	45722304	http://bia/Image	Frames 2_028_-28.0			
-data/VPP/frames/TS_0002_029_28.0.tif	46111808	http://bia/Image	Frames 2_029_28.0			
-data/VPP/frames/TS_0002_030_30.0.tif	45878208	http://bia/Image	Frames 2_030_30.0			
-data/VPP/frames/TS_0002_031_-30.0.tif	45408040	http://bia/Image	Frames 2_031_-30.0			
-data/VPP/frames/TS_0002_032_-32.0.tif	45137750	http://bia/Image	Frames 2_032_-32.0			
-data/VPP/frames/TS_0002_033_32.0.tif	45634614	http://bia/Image	Frames 2_033_32.0			
-data/VPP/frames/TS_0002_034_34.0.tif	45331846	http://bia/Image	Frames 2_034_34.0			
-data/VPP/frames/TS_0002_035_-34.0.tif	44804450	http://bia/Image	Frames 2_035_-34.0			
-data/VPP/frames/TS_0002_036_-36.0.tif	44457266	http://bia/Image	Frames 2_036_-36.0			
-data/VPP/frames/TS_0002_037_36.0.tif	45033724	http://bia/Image	Frames 2_037_36.0			
-data/VPP/frames/TS_0002_038_38.0.tif	44688522	http://bia/Image	Frames 2_038_38.0			
-data/VPP/frames/TS_0002_039_-38.0.tif	44035806	http://bia/Image	Frames 2_039_-38.0			
-data/VPP/frames/TS_0002_040_-40.0.tif	43582972	http://bia/Image	Frames 2_040_-40.0			
-data/VPP/frames/TS_0002_041_40.0.tif	44324828	http://bia/Image	Frames 2_041_40.0			
-data/VPP/frames/TS_0002_042_42.0.tif	43912102	http://bia/Image	Frames 2_042_42.0			
-data/VPP/frames/TS_0002_043_-42.0.tif	43124368	http://bia/Image	Frames 2_043_-42.0			
-data/VPP/frames/TS_0002_044_-44.0.tif	42638996	http://bia/Image	Frames 2_044_-44.0			
-data/VPP/frames/TS_0002_045_44.0.tif	43467110	http://bia/Image	Frames 2_045_44.0			
-data/VPP/frames/TS_0002_046_46.0.tif	43014626	http://bia/Image	Frames 2_046_46.0			
-data/VPP/frames/TS_0002_047_-46.0.tif	42103508	http://bia/Image	Frames 2_047_-46.0			
-data/VPP/frames/TS_0002_048_-48.0.tif	41517256	http://bia/Image	Frames 2_048_-48.0			
-data/VPP/frames/TS_0002_049_48.0.tif	42545574	http://bia/Image	Frames 2_049_48.0			
-data/VPP/frames/TS_0002_050_50.0.tif	42015674	http://bia/Image	Frames 2_050_50.0			
-data/VPP/frames/TS_0002_051_-50.0.tif	40845150	http://bia/Image	Frames 2_051_-50.0			
-data/VPP/frames/TS_0003_001_-0.0.tif	49151830	http://bia/Image	Frames 3_001_-0.0			
-data/VPP/frames/TS_0003_002_2.0.tif	49153052	http://bia/Image	Frames 3_002_2.0			
-data/VPP/frames/TS_0003_003_-2.0.tif	49140962	http://bia/Image	Frames 3_003_-2.0			
-data/VPP/frames/TS_0003_004_-4.0.tif	49128778	http://bia/Image	Frames 3_004_-4.0			
-data/VPP/frames/TS_0003_005_4.0.tif	49139296	http://bia/Image	Frames 3_005_4.0			
-data/VPP/frames/TS_0003_006_6.0.tif	49106600	http://bia/Image	Frames 3_006_6.0			
-data/VPP/frames/TS_0003_007_-6.0.tif	49094360	http://bia/Image	Frames 3_007_-6.0			
-data/VPP/frames/TS_0003_008_-8.0.tif	49042986	http://bia/Image	Frames 3_008_-8.0			
-data/VPP/frames/TS_0003_009_8.0.tif	49060768	http://bia/Image	Frames 3_009_8.0			
-data/VPP/frames/TS_0003_010_10.0.tif	49007878	http://bia/Image	Frames 3_010_10.0			
-data/VPP/frames/TS_0003_011_-10.0.tif	49002978	http://bia/Image	Frames 3_011_-10.0			
-data/VPP/frames/TS_0003_012_-12.0.tif	48913208	http://bia/Image	Frames 3_012_-12.0			
-data/VPP/frames/TS_0003_013_12.0.tif	48943586	http://bia/Image	Frames 3_013_12.0			
-data/VPP/frames/TS_0003_014_14.0.tif	48862412	http://bia/Image	Frames 3_014_14.0			
-data/VPP/frames/TS_0003_015_-14.0.tif	48832106	http://bia/Image	Frames 3_015_-14.0			
-data/VPP/frames/TS_0003_016_-16.0.tif	48732774	http://bia/Image	Frames 3_016_-16.0			
-data/VPP/frames/TS_0003_017_16.0.tif	48761706	http://bia/Image	Frames 3_017_16.0			
-data/VPP/frames/TS_0003_018_18.0.tif	48632768	http://bia/Image	Frames 3_018_18.0			
-data/VPP/frames/TS_0003_019_-18.0.tif	48620238	http://bia/Image	Frames 3_019_-18.0			
-data/VPP/frames/TS_0003_020_-20.0.tif	48500166	http://bia/Image	Frames 3_020_-20.0			
-data/VPP/frames/TS_0003_021_20.0.tif	48523904	http://bia/Image	Frames 3_021_20.0			
-data/VPP/frames/TS_0003_022_22.0.tif	48369984	http://bia/Image	Frames 3_022_22.0			
-data/VPP/frames/TS_0003_023_-22.0.tif	48369252	http://bia/Image	Frames 3_023_-22.0			
-data/VPP/frames/TS_0003_024_-24.0.tif	48181314	http://bia/Image	Frames 3_024_-24.0			
-data/VPP/frames/TS_0003_025_24.0.tif	48197976	http://bia/Image	Frames 3_025_24.0			
-data/VPP/frames/TS_0003_026_26.0.tif	48002728	http://bia/Image	Frames 3_026_26.0			
-data/VPP/frames/TS_0003_027_-26.0.tif	47990674	http://bia/Image	Frames 3_027_-26.0			
-data/VPP/frames/TS_0003_028_-28.0.tif	47770772	http://bia/Image	Frames 3_028_-28.0			
-data/VPP/frames/TS_0003_029_28.0.tif	47792682	http://bia/Image	Frames 3_029_28.0			
-data/VPP/frames/TS_0003_030_30.0.tif	47570104	http://bia/Image	Frames 3_030_30.0			
-data/VPP/frames/TS_0003_031_-30.0.tif	47557006	http://bia/Image	Frames 3_031_-30.0			
-data/VPP/frames/TS_0003_032_-32.0.tif	47305000	http://bia/Image	Frames 3_032_-32.0			
-data/VPP/frames/TS_0003_033_32.0.tif	47312428	http://bia/Image	Frames 3_033_32.0			
-data/VPP/frames/TS_0003_034_34.0.tif	47047964	http://bia/Image	Frames 3_034_34.0			
-data/VPP/frames/TS_0003_035_-34.0.tif	47011578	http://bia/Image	Frames 3_035_-34.0			
-data/VPP/frames/TS_0003_036_-36.0.tif	46698562	http://bia/Image	Frames 3_036_-36.0			
-data/VPP/frames/TS_0003_037_36.0.tif	46734570	http://bia/Image	Frames 3_037_36.0			
-data/VPP/frames/TS_0003_038_38.0.tif	46381684	http://bia/Image	Frames 3_038_38.0			
-data/VPP/frames/TS_0003_039_-38.0.tif	46361630	http://bia/Image	Frames 3_039_-38.0			
-data/VPP/frames/TS_0003_040_-40.0.tif	45936254	http://bia/Image	Frames 3_040_-40.0			
-data/VPP/frames/TS_0003_041_40.0.tif	46006234	http://bia/Image	Frames 3_041_40.0			
-data/VPP/frames/TS_0003_042_42.0.tif	45598390	http://bia/Image	Frames 3_042_42.0			
-data/VPP/frames/TS_0003_043_-42.0.tif	45502872	http://bia/Image	Frames 3_043_-42.0			
-data/VPP/frames/TS_0003_044_-44.0.tif	45023530	http://bia/Image	Frames 3_044_-44.0			
-data/VPP/frames/TS_0003_045_44.0.tif	45090672	http://bia/Image	Frames 3_045_44.0			
-data/VPP/frames/TS_0003_046_46.0.tif	44569082	http://bia/Image	Frames 3_046_46.0			
-data/VPP/frames/TS_0003_047_-46.0.tif	44480572	http://bia/Image	Frames 3_047_-46.0			
-data/VPP/frames/TS_0003_048_-48.0.tif	43879074	http://bia/Image	Frames 3_048_-48.0			
-data/VPP/frames/TS_0003_049_48.0.tif	43980094	http://bia/Image	Frames 3_049_48.0			
-data/VPP/frames/TS_0003_050_50.0.tif	43347410	http://bia/Image	Frames 3_050_50.0			
-data/VPP/frames/TS_0003_051_-50.0.tif	43232622	http://bia/Image	Frames 3_051_-50.0			
-data/VPP/frames/TS_0004_001_-0.0.tif	42730306	http://bia/Image	Frames 4_001_-0.0			
-data/VPP/frames/TS_0004_002_2.0.tif	42656528	http://bia/Image	Frames 4_002_2.0			
-data/VPP/frames/TS_0004_003_-2.0.tif	42790926	http://bia/Image	Frames 4_003_-2.0			
-data/VPP/frames/TS_0004_004_-4.0.tif	42820672	http://bia/Image	Frames 4_004_-4.0			
-data/VPP/frames/TS_0004_005_4.0.tif	42557602	http://bia/Image	Frames 4_005_4.0			
-data/VPP/frames/TS_0004_006_6.0.tif	42438002	http://bia/Image	Frames 4_006_6.0			
-data/VPP/frames/TS_0004_007_-6.0.tif	42845206	http://bia/Image	Frames 4_007_-6.0			
-data/VPP/frames/TS_0004_008_-8.0.tif	42811170	http://bia/Image	Frames 4_008_-8.0			
-data/VPP/frames/TS_0004_009_8.0.tif	42275828	http://bia/Image	Frames 4_009_8.0			
-data/VPP/frames/TS_0004_010_10.0.tif	42122528	http://bia/Image	Frames 4_010_10.0			
-data/VPP/frames/TS_0004_011_-10.0.tif	42773516	http://bia/Image	Frames 4_011_-10.0			
-data/VPP/frames/TS_0004_012_-12.0.tif	42732194	http://bia/Image	Frames 4_012_-12.0			
-data/VPP/frames/TS_0004_013_12.0.tif	41923280	http://bia/Image	Frames 4_013_12.0			
-data/VPP/frames/TS_0004_014_14.0.tif	41692438	http://bia/Image	Frames 4_014_14.0			
-data/VPP/frames/TS_0004_015_-14.0.tif	42646902	http://bia/Image	Frames 4_015_-14.0			
-data/VPP/frames/TS_0004_016_-16.0.tif	42516934	http://bia/Image	Frames 4_016_-16.0			
-data/VPP/frames/TS_0004_017_16.0.tif	41444056	http://bia/Image	Frames 4_017_16.0			
-data/VPP/frames/TS_0004_018_18.0.tif	41166826	http://bia/Image	Frames 4_018_18.0			
-data/VPP/frames/TS_0004_019_-18.0.tif	42418868	http://bia/Image	Frames 4_019_-18.0			
-data/VPP/frames/TS_0004_020_-20.0.tif	42261298	http://bia/Image	Frames 4_020_-20.0			
-data/VPP/frames/TS_0004_021_20.0.tif	40827208	http://bia/Image	Frames 4_021_20.0			
-data/VPP/frames/TS_0004_022_22.0.tif	40464590	http://bia/Image	Frames 4_022_22.0			
-data/VPP/frames/TS_0004_023_-22.0.tif	42067272	http://bia/Image	Frames 4_023_-22.0			
-data/VPP/frames/TS_0004_024_-24.0.tif	41879720	http://bia/Image	Frames 4_024_-24.0			
-data/VPP/frames/TS_0004_025_24.0.tif	40089366	http://bia/Image	Frames 4_025_24.0			
-data/VPP/frames/TS_0004_026_26.0.tif	39665180	http://bia/Image	Frames 4_026_26.0			
-data/VPP/frames/TS_0004_027_-26.0.tif	41656212	http://bia/Image	Frames 4_027_-26.0			
-data/VPP/frames/TS_0004_028_-28.0.tif	41376594	http://bia/Image	Frames 4_028_-28.0			
-data/VPP/frames/TS_0004_029_28.0.tif	39189496	http://bia/Image	Frames 4_029_28.0			
-data/VPP/frames/TS_0004_030_30.0.tif	38663010	http://bia/Image	Frames 4_030_30.0			
-data/VPP/frames/TS_0004_031_-30.0.tif	41086334	http://bia/Image	Frames 4_031_-30.0			
-data/VPP/frames/TS_0004_032_-32.0.tif	40753140	http://bia/Image	Frames 4_032_-32.0			
-data/VPP/frames/TS_0004_033_32.0.tif	38068290	http://bia/Image	Frames 4_033_32.0			
-data/VPP/frames/TS_0004_034_34.0.tif	37429116	http://bia/Image	Frames 4_034_34.0			
-data/VPP/frames/TS_0004_035_-34.0.tif	40392796	http://bia/Image	Frames 4_035_-34.0			
-data/VPP/frames/TS_0004_036_-36.0.tif	39968110	http://bia/Image	Frames 4_036_-36.0			
-data/VPP/frames/TS_0004_037_36.0.tif	36695104	http://bia/Image	Frames 4_037_36.0			
-data/VPP/frames/TS_0004_038_38.0.tif	35970644	http://bia/Image	Frames 4_038_38.0			
-data/VPP/frames/TS_0004_039_-38.0.tif	39533200	http://bia/Image	Frames 4_039_-38.0			
-data/VPP/frames/TS_0004_040_-40.0.tif	39034374	http://bia/Image	Frames 4_040_-40.0			
-data/VPP/frames/TS_0004_041_40.0.tif	35106106	http://bia/Image	Frames 4_041_40.0			
-data/VPP/frames/TS_0004_042_42.0.tif	34116906	http://bia/Image	Frames 4_042_42.0			
-data/VPP/frames/TS_0004_043_-42.0.tif	38499734	http://bia/Image	Frames 4_043_-42.0			
-data/VPP/frames/TS_0004_044_-44.0.tif	37888442	http://bia/Image	Frames 4_044_-44.0			
-data/VPP/frames/TS_0004_045_44.0.tif	33078120	http://bia/Image	Frames 4_045_44.0			
-data/VPP/frames/TS_0004_046_46.0.tif	31916186	http://bia/Image	Frames 4_046_46.0			
-data/VPP/frames/TS_0004_047_-46.0.tif	37209510	http://bia/Image	Frames 4_047_-46.0			
-data/VPP/frames/TS_0004_048_-48.0.tif	36163406	http://bia/Image	Frames 4_048_-48.0			
-data/VPP/frames/TS_0004_049_48.0.tif	30639980	http://bia/Image	Frames 4_049_48.0			
-data/VPP/frames/TS_0004_050_50.0.tif	29228442	http://bia/Image	Frames 4_050_50.0			
-data/VPP/frames/TS_0004_051_-50.0.tif	33772566	http://bia/Image	Frames 4_051_-50.0			
-data/VPP/frames/TS_0005_001_-0.0.tif	72244400	http://bia/Image	Frames 5_001_-0.0			
-data/VPP/frames/TS_0005_002_2.0.tif	72210592	http://bia/Image	Frames 5_002_2.0			
-data/VPP/frames/TS_0005_003_-2.0.tif	72161726	http://bia/Image	Frames 5_003_-2.0			
-data/VPP/frames/TS_0005_004_-4.0.tif	72023472	http://bia/Image	Frames 5_004_-4.0			
-data/VPP/frames/TS_0005_005_4.0.tif	72254202	http://bia/Image	Frames 5_005_4.0			
-data/VPP/frames/TS_0005_006_6.0.tif	72193752	http://bia/Image	Frames 5_006_6.0			
-data/VPP/frames/TS_0005_007_-6.0.tif	71843788	http://bia/Image	Frames 5_007_-6.0			
-data/VPP/frames/TS_0005_008_-8.0.tif	71602516	http://bia/Image	Frames 5_008_-8.0			
-data/VPP/frames/TS_0005_009_8.0.tif	72072464	http://bia/Image	Frames 5_009_8.0			
-data/VPP/frames/TS_0005_010_10.0.tif	71874256	http://bia/Image	Frames 5_010_10.0			
-data/VPP/frames/TS_0005_011_-10.0.tif	71314454	http://bia/Image	Frames 5_011_-10.0			
-data/VPP/frames/TS_0005_012_-12.0.tif	70986504	http://bia/Image	Frames 5_012_-12.0			
-data/VPP/frames/TS_0005_013_12.0.tif	71717194	http://bia/Image	Frames 5_013_12.0			
-data/VPP/frames/TS_0005_014_14.0.tif	71511620	http://bia/Image	Frames 5_014_14.0			
-data/VPP/frames/TS_0005_015_-14.0.tif	70583170	http://bia/Image	Frames 5_015_-14.0			
-data/VPP/frames/TS_0005_016_-16.0.tif	70141042	http://bia/Image	Frames 5_016_-16.0			
-data/VPP/frames/TS_0005_017_16.0.tif	71212660	http://bia/Image	Frames 5_017_16.0			
-data/VPP/frames/TS_0005_018_18.0.tif	70848720	http://bia/Image	Frames 5_018_18.0			
-data/VPP/frames/TS_0005_019_-18.0.tif	69614778	http://bia/Image	Frames 5_019_-18.0			
-data/VPP/frames/TS_0005_020_-20.0.tif	69101506	http://bia/Image	Frames 5_020_-20.0			
-data/VPP/frames/TS_0005_021_20.0.tif	70450482	http://bia/Image	Frames 5_021_20.0			
-data/VPP/frames/TS_0005_022_22.0.tif	70044944	http://bia/Image	Frames 5_022_22.0			
-data/VPP/frames/TS_0005_023_-22.0.tif	68470470	http://bia/Image	Frames 5_023_-22.0			
-data/VPP/frames/TS_0005_024_-24.0.tif	67781660	http://bia/Image	Frames 5_024_-24.0			
-data/VPP/frames/TS_0005_025_24.0.tif	69498678	http://bia/Image	Frames 5_025_24.0			
-data/VPP/frames/TS_0005_026_26.0.tif	68988860	http://bia/Image	Frames 5_026_26.0			
-data/VPP/frames/TS_0005_027_-26.0.tif	67094470	http://bia/Image	Frames 5_027_-26.0			
-data/VPP/frames/TS_0005_028_-28.0.tif	66328744	http://bia/Image	Frames 5_028_-28.0			
-data/VPP/frames/TS_0005_029_28.0.tif	68371650	http://bia/Image	Frames 5_029_28.0			
-data/VPP/frames/TS_0005_030_30.0.tif	67710456	http://bia/Image	Frames 5_030_30.0			
-data/VPP/frames/TS_0005_031_-30.0.tif	65488884	http://bia/Image	Frames 5_031_-30.0			
-data/VPP/frames/TS_0005_032_-32.0.tif	64583366	http://bia/Image	Frames 5_032_-32.0			
-data/VPP/frames/TS_0005_033_32.0.tif	67005928	http://bia/Image	Frames 5_033_32.0			
-data/VPP/frames/TS_0005_034_34.0.tif	66230390	http://bia/Image	Frames 5_034_34.0			
-data/VPP/frames/TS_0005_035_-34.0.tif	63585396	http://bia/Image	Frames 5_035_-34.0			
-data/VPP/frames/TS_0005_036_-36.0.tif	62516830	http://bia/Image	Frames 5_036_-36.0			
-data/VPP/frames/TS_0005_037_36.0.tif	65358134	http://bia/Image	Frames 5_037_36.0			
-data/VPP/frames/TS_0005_038_38.0.tif	64492040	http://bia/Image	Frames 5_038_38.0			
-data/VPP/frames/TS_0005_039_-38.0.tif	61368716	http://bia/Image	Frames 5_039_-38.0			
-data/VPP/frames/TS_0005_040_-40.0.tif	60001988	http://bia/Image	Frames 5_040_-40.0			
-data/VPP/frames/TS_0005_041_40.0.tif	63486726	http://bia/Image	Frames 5_041_40.0			
-data/VPP/frames/TS_0005_042_42.0.tif	62393144	http://bia/Image	Frames 5_042_42.0			
-data/VPP/frames/TS_0005_043_-42.0.tif	58540228	http://bia/Image	Frames 5_043_-42.0			
-data/VPP/frames/TS_0005_044_-44.0.tif	56944460	http://bia/Image	Frames 5_044_-44.0			
-data/VPP/frames/TS_0005_045_44.0.tif	61208124	http://bia/Image	Frames 5_045_44.0			
-data/VPP/frames/TS_0005_046_46.0.tif	59899352	http://bia/Image	Frames 5_046_46.0			
-data/VPP/frames/TS_0005_047_-46.0.tif	55245176	http://bia/Image	Frames 5_047_-46.0			
-data/VPP/frames/TS_0005_048_-48.0.tif	53467228	http://bia/Image	Frames 5_048_-48.0			
-data/VPP/frames/TS_0005_049_48.0.tif	58519282	http://bia/Image	Frames 5_049_48.0			
-data/VPP/frames/TS_0005_050_50.0.tif	57056180	http://bia/Image	Frames 5_050_50.0			
-data/VPP/frames/TS_0005_051_-50.0.tif	51535324	http://bia/Image	Frames 5_051_-50.0			
-data/VPP/frames/TS_0006_001_-0.0.tif	88840364	http://bia/Image	Frames 6_001_-0.0			
-data/VPP/frames/TS_0006_002_2.0.tif	88811398	http://bia/Image	Frames 6_002_2.0			
-data/VPP/frames/TS_0006_003_-2.0.tif	88818212	http://bia/Image	Frames 6_003_-2.0			
-data/VPP/frames/TS_0006_004_-4.0.tif	88724720	http://bia/Image	Frames 6_004_-4.0			
-data/VPP/frames/TS_0006_005_4.0.tif	88851168	http://bia/Image	Frames 6_005_4.0			
-data/VPP/frames/TS_0006_006_6.0.tif	88790638	http://bia/Image	Frames 6_006_6.0			
-data/VPP/frames/TS_0006_007_-6.0.tif	88635064	http://bia/Image	Frames 6_007_-6.0			
-data/VPP/frames/TS_0006_008_-8.0.tif	88519216	http://bia/Image	Frames 6_008_-8.0			
-data/VPP/frames/TS_0006_009_8.0.tif	88769358	http://bia/Image	Frames 6_009_8.0			
-data/VPP/frames/TS_0006_010_10.0.tif	88644842	http://bia/Image	Frames 6_010_10.0			
-data/VPP/frames/TS_0006_011_-10.0.tif	88353134	http://bia/Image	Frames 6_011_-10.0			
-data/VPP/frames/TS_0006_012_-12.0.tif	88145196	http://bia/Image	Frames 6_012_-12.0			
-data/VPP/frames/TS_0006_013_12.0.tif	88513890	http://bia/Image	Frames 6_013_12.0			
-data/VPP/frames/TS_0006_014_14.0.tif	88304962	http://bia/Image	Frames 6_014_14.0			
-data/VPP/frames/TS_0006_015_-14.0.tif	87941830	http://bia/Image	Frames 6_015_-14.0			
-data/VPP/frames/TS_0006_016_-16.0.tif	87689198	http://bia/Image	Frames 6_016_-16.0			
-data/VPP/frames/TS_0006_017_16.0.tif	88085520	http://bia/Image	Frames 6_017_16.0			
-data/VPP/frames/TS_0006_018_18.0.tif	87815370	http://bia/Image	Frames 6_018_18.0			
-data/VPP/frames/TS_0006_019_-18.0.tif	87355664	http://bia/Image	Frames 6_019_-18.0			
-data/VPP/frames/TS_0006_020_-20.0.tif	87049772	http://bia/Image	Frames 6_020_-20.0			
-data/VPP/frames/TS_0006_021_20.0.tif	87549800	http://bia/Image	Frames 6_021_20.0			
-data/VPP/frames/TS_0006_022_22.0.tif	87216790	http://bia/Image	Frames 6_022_22.0			
-data/VPP/frames/TS_0006_023_-22.0.tif	86625710	http://bia/Image	Frames 6_023_-22.0			
-data/VPP/frames/TS_0006_024_-24.0.tif	86229560	http://bia/Image	Frames 6_024_-24.0			
-data/VPP/frames/TS_0006_025_24.0.tif	86833728	http://bia/Image	Frames 6_025_24.0			
-data/VPP/frames/TS_0006_026_26.0.tif	86339074	http://bia/Image	Frames 6_026_26.0			
-data/VPP/frames/TS_0006_027_-26.0.tif	85732628	http://bia/Image	Frames 6_027_-26.0			
-data/VPP/frames/TS_0006_028_-28.0.tif	85212002	http://bia/Image	Frames 6_028_-28.0			
-data/VPP/frames/TS_0006_029_28.0.tif	85870694	http://bia/Image	Frames 6_029_28.0			
-data/VPP/frames/TS_0006_030_30.0.tif	85329246	http://bia/Image	Frames 6_030_30.0			
-data/VPP/frames/TS_0006_031_-30.0.tif	84682738	http://bia/Image	Frames 6_031_-30.0			
-data/VPP/frames/TS_0006_032_-32.0.tif	84034928	http://bia/Image	Frames 6_032_-32.0			
-data/VPP/frames/TS_0006_033_32.0.tif	84726998	http://bia/Image	Frames 6_033_32.0			
-data/VPP/frames/TS_0006_034_34.0.tif	84012244	http://bia/Image	Frames 6_034_34.0			
-data/VPP/frames/TS_0006_035_-34.0.tif	83364344	http://bia/Image	Frames 6_035_-34.0			
-data/VPP/frames/TS_0006_036_-36.0.tif	82563698	http://bia/Image	Frames 6_036_-36.0			
-data/VPP/frames/TS_0006_037_36.0.tif	83308738	http://bia/Image	Frames 6_037_36.0			
-data/VPP/frames/TS_0006_038_38.0.tif	82458022	http://bia/Image	Frames 6_038_38.0			
-data/VPP/frames/TS_0006_039_-38.0.tif	81695400	http://bia/Image	Frames 6_039_-38.0			
-data/VPP/frames/TS_0006_040_-40.0.tif	80762658	http://bia/Image	Frames 6_040_-40.0			
-data/VPP/frames/TS_0006_041_40.0.tif	81501390	http://bia/Image	Frames 6_041_40.0			
-data/VPP/frames/TS_0006_042_42.0.tif	80487152	http://bia/Image	Frames 6_042_42.0			
-data/VPP/frames/TS_0006_043_-42.0.tif	79680992	http://bia/Image	Frames 6_043_-42.0			
-data/VPP/frames/TS_0006_044_-44.0.tif	78580754	http://bia/Image	Frames 6_044_-44.0			
-data/VPP/frames/TS_0006_045_44.0.tif	79353558	http://bia/Image	Frames 6_045_44.0			
-data/VPP/frames/TS_0006_046_46.0.tif	78084600	http://bia/Image	Frames 6_046_46.0			
-data/VPP/frames/TS_0006_047_-46.0.tif	77319180	http://bia/Image	Frames 6_047_-46.0			
-data/VPP/frames/TS_0006_048_-48.0.tif	75964116	http://bia/Image	Frames 6_048_-48.0			
-data/VPP/frames/TS_0006_049_48.0.tif	76790752	http://bia/Image	Frames 6_049_48.0			
-data/VPP/frames/TS_0006_050_50.0.tif	75310808	http://bia/Image	Frames 6_050_50.0			
-data/VPP/frames/TS_0006_051_-50.0.tif	74480024	http://bia/Image	Frames 6_051_-50.0			
-data/VPP/frames/TS_0007_001_0.0.tif	92969008	http://bia/Image	Frames 7_001_0.0			
-data/VPP/frames/TS_0007_002_2.0.tif	92943596	http://bia/Image	Frames 7_002_2.0			
-data/VPP/frames/TS_0007_003_-2.0.tif	92909582	http://bia/Image	Frames 7_003_-2.0			
-data/VPP/frames/TS_0007_004_-4.0.tif	92909306	http://bia/Image	Frames 7_004_-4.0			
-data/VPP/frames/TS_0007_005_4.0.tif	92904456	http://bia/Image	Frames 7_005_4.0			
-data/VPP/frames/TS_0007_006_6.0.tif	92811272	http://bia/Image	Frames 7_006_6.0			
-data/VPP/frames/TS_0007_007_-6.0.tif	92922554	http://bia/Image	Frames 7_007_-6.0			
-data/VPP/frames/TS_0007_008_-8.0.tif	92857918	http://bia/Image	Frames 7_008_-8.0			
-data/VPP/frames/TS_0007_009_8.0.tif	92718244	http://bia/Image	Frames 7_009_8.0			
-data/VPP/frames/TS_0007_010_10.0.tif	92596142	http://bia/Image	Frames 7_010_10.0			
-data/VPP/frames/TS_0007_011_-10.0.tif	92745670	http://bia/Image	Frames 7_011_-10.0			
-data/VPP/frames/TS_0007_012_-12.0.tif	92672956	http://bia/Image	Frames 7_012_-12.0			
-data/VPP/frames/TS_0007_013_12.0.tif	92423770	http://bia/Image	Frames 7_013_12.0			
-data/VPP/frames/TS_0007_014_14.0.tif	92244848	http://bia/Image	Frames 7_014_14.0			
-data/VPP/frames/TS_0007_015_-14.0.tif	92478446	http://bia/Image	Frames 7_015_-14.0			
-data/VPP/frames/TS_0007_016_-16.0.tif	92304020	http://bia/Image	Frames 7_016_-16.0			
-data/VPP/frames/TS_0007_017_16.0.tif	91984630	http://bia/Image	Frames 7_017_16.0			
-data/VPP/frames/TS_0007_018_18.0.tif	91777586	http://bia/Image	Frames 7_018_18.0			
-data/VPP/frames/TS_0007_019_-18.0.tif	92091178	http://bia/Image	Frames 7_019_-18.0			
-data/VPP/frames/TS_0007_020_-20.0.tif	91839232	http://bia/Image	Frames 7_020_-20.0			
-data/VPP/frames/TS_0007_021_20.0.tif	91495454	http://bia/Image	Frames 7_021_20.0			
-data/VPP/frames/TS_0007_022_22.0.tif	91189508	http://bia/Image	Frames 7_022_22.0			
-data/VPP/frames/TS_0007_023_-22.0.tif	91658620	http://bia/Image	Frames 7_023_-22.0			
-data/VPP/frames/TS_0007_024_-24.0.tif	91334830	http://bia/Image	Frames 7_024_-24.0			
-data/VPP/frames/TS_0007_025_24.0.tif	90788740	http://bia/Image	Frames 7_025_24.0			
-data/VPP/frames/TS_0007_026_26.0.tif	90357564	http://bia/Image	Frames 7_026_26.0			
-data/VPP/frames/TS_0007_027_-26.0.tif	91011352	http://bia/Image	Frames 7_027_-26.0			
-data/VPP/frames/TS_0007_028_-28.0.tif	90687464	http://bia/Image	Frames 7_028_-28.0			
-data/VPP/frames/TS_0007_029_28.0.tif	89941066	http://bia/Image	Frames 7_029_28.0			
-data/VPP/frames/TS_0007_030_30.0.tif	89321176	http://bia/Image	Frames 7_030_30.0			
-data/VPP/frames/TS_0007_031_-30.0.tif	90293776	http://bia/Image	Frames 7_031_-30.0			
-data/VPP/frames/TS_0007_032_-32.0.tif	89835586	http://bia/Image	Frames 7_032_-32.0			
-data/VPP/frames/TS_0007_033_32.0.tif	88475290	http://bia/Image	Frames 7_033_32.0			
-data/VPP/frames/TS_0007_034_34.0.tif	86846062	http://bia/Image	Frames 7_034_34.0			
-data/VPP/frames/TS_0007_035_-34.0.tif	89307752	http://bia/Image	Frames 7_035_-34.0			
-data/VPP/frames/TS_0007_036_-36.0.tif	88753116	http://bia/Image	Frames 7_036_-36.0			
-data/VPP/frames/TS_0007_037_36.0.tif	83806276	http://bia/Image	Frames 7_037_36.0			
-data/VPP/frames/TS_0007_038_38.0.tif	80218656	http://bia/Image	Frames 7_038_38.0			
-data/VPP/frames/TS_0007_039_-38.0.tif	88157186	http://bia/Image	Frames 7_039_-38.0			
-data/VPP/frames/TS_0007_040_-40.0.tif	87474106	http://bia/Image	Frames 7_040_-40.0			
-data/VPP/frames/TS_0007_041_40.0.tif	75572720	http://bia/Image	Frames 7_041_40.0			
-data/VPP/frames/TS_0007_042_42.0.tif	70545532	http://bia/Image	Frames 7_042_42.0			
-data/VPP/frames/TS_0007_043_-42.0.tif	86767896	http://bia/Image	Frames 7_043_-42.0			
-data/VPP/frames/TS_0007_044_-44.0.tif	86030236	http://bia/Image	Frames 7_044_-44.0			
-data/VPP/frames/TS_0007_045_44.0.tif	65182776	http://bia/Image	Frames 7_045_44.0			
-data/VPP/frames/TS_0007_046_46.0.tif	59852252	http://bia/Image	Frames 7_046_46.0			
-data/VPP/frames/TS_0007_047_-46.0.tif	85098990	http://bia/Image	Frames 7_047_-46.0			
-data/VPP/frames/TS_0007_048_-48.0.tif	84221458	http://bia/Image	Frames 7_048_-48.0			
-data/VPP/frames/TS_0007_049_48.0.tif	54169208	http://bia/Image	Frames 7_049_48.0			
-data/VPP/frames/TS_0007_050_50.0.tif	48295762	http://bia/Image	Frames 7_050_50.0			
-data/VPP/frames/TS_0007_051_-50.0.tif	83206222	http://bia/Image	Frames 7_051_-50.0			
-data/VPP/frames/TS_0008_001_-0.0.tif	74384972	http://bia/Image	Frames 8_001_-0.0			
-data/VPP/frames/TS_0008_002_2.0.tif	74383346	http://bia/Image	Frames 8_002_2.0			
-data/VPP/frames/TS_0008_003_-2.0.tif	74375928	http://bia/Image	Frames 8_003_-2.0			
-data/VPP/frames/TS_0008_004_-4.0.tif	74317910	http://bia/Image	Frames 8_004_-4.0			
-data/VPP/frames/TS_0008_005_4.0.tif	74405786	http://bia/Image	Frames 8_005_4.0			
-data/VPP/frames/TS_0008_006_6.0.tif	74297542	http://bia/Image	Frames 8_006_6.0			
-data/VPP/frames/TS_0008_007_-6.0.tif	74184614	http://bia/Image	Frames 8_007_-6.0			
-data/VPP/frames/TS_0008_008_-8.0.tif	74002592	http://bia/Image	Frames 8_008_-8.0			
-data/VPP/frames/TS_0008_009_8.0.tif	74145454	http://bia/Image	Frames 8_009_8.0			
-data/VPP/frames/TS_0008_010_10.0.tif	73960270	http://bia/Image	Frames 8_010_10.0			
-data/VPP/frames/TS_0008_011_-10.0.tif	73742596	http://bia/Image	Frames 8_011_-10.0			
-data/VPP/frames/TS_0008_012_-12.0.tif	73499686	http://bia/Image	Frames 8_012_-12.0			
-data/VPP/frames/TS_0008_013_12.0.tif	73745200	http://bia/Image	Frames 8_013_12.0			
-data/VPP/frames/TS_0008_014_14.0.tif	73432010	http://bia/Image	Frames 8_014_14.0			
-data/VPP/frames/TS_0008_015_-14.0.tif	73242988	http://bia/Image	Frames 8_015_-14.0			
-data/VPP/frames/TS_0008_016_-16.0.tif	72792588	http://bia/Image	Frames 8_016_-16.0			
-data/VPP/frames/TS_0008_017_16.0.tif	73204282	http://bia/Image	Frames 8_017_16.0			
-data/VPP/frames/TS_0008_018_18.0.tif	72787136	http://bia/Image	Frames 8_018_18.0			
-data/VPP/frames/TS_0008_019_-18.0.tif	72395100	http://bia/Image	Frames 8_019_-18.0			
-data/VPP/frames/TS_0008_020_-20.0.tif	71951694	http://bia/Image	Frames 8_020_-20.0			
-data/VPP/frames/TS_0008_021_20.0.tif	72362584	http://bia/Image	Frames 8_021_20.0			
-data/VPP/frames/TS_0008_022_22.0.tif	71880892	http://bia/Image	Frames 8_022_22.0			
-data/VPP/frames/TS_0008_023_-22.0.tif	71472738	http://bia/Image	Frames 8_023_-22.0			
-data/VPP/frames/TS_0008_024_-24.0.tif	70884056	http://bia/Image	Frames 8_024_-24.0			
-data/VPP/frames/TS_0008_025_24.0.tif	71348178	http://bia/Image	Frames 8_025_24.0			
-data/VPP/frames/TS_0008_026_26.0.tif	70766384	http://bia/Image	Frames 8_026_26.0			
-data/VPP/frames/TS_0008_027_-26.0.tif	70239010	http://bia/Image	Frames 8_027_-26.0			
-data/VPP/frames/TS_0008_028_-28.0.tif	69525712	http://bia/Image	Frames 8_028_-28.0			
-data/VPP/frames/TS_0008_029_28.0.tif	70082480	http://bia/Image	Frames 8_029_28.0			
-data/VPP/frames/TS_0008_030_30.0.tif	69324884	http://bia/Image	Frames 8_030_30.0			
-data/VPP/frames/TS_0008_031_-30.0.tif	68738590	http://bia/Image	Frames 8_031_-30.0			
-data/VPP/frames/TS_0008_032_-32.0.tif	67868796	http://bia/Image	Frames 8_032_-32.0			
-data/VPP/frames/TS_0008_033_32.0.tif	68556772	http://bia/Image	Frames 8_033_32.0			
-data/VPP/frames/TS_0008_034_34.0.tif	67657284	http://bia/Image	Frames 8_034_34.0			
-data/VPP/frames/TS_0008_035_-34.0.tif	66990072	http://bia/Image	Frames 8_035_-34.0			
-data/VPP/frames/TS_0008_036_-36.0.tif	66042646	http://bia/Image	Frames 8_036_-36.0			
-data/VPP/frames/TS_0008_037_36.0.tif	66824624	http://bia/Image	Frames 8_037_36.0			
-data/VPP/frames/TS_0008_038_38.0.tif	65838344	http://bia/Image	Frames 8_038_38.0			
-data/VPP/frames/TS_0008_039_-38.0.tif	65073138	http://bia/Image	Frames 8_039_-38.0			
-data/VPP/frames/TS_0008_040_-40.0.tif	63933882	http://bia/Image	Frames 8_040_-40.0			
-data/VPP/frames/TS_0008_041_40.0.tif	64843856	http://bia/Image	Frames 8_041_40.0			
-data/VPP/frames/TS_0008_042_42.0.tif	63638758	http://bia/Image	Frames 8_042_42.0			
-data/VPP/frames/TS_0008_043_-42.0.tif	62759312	http://bia/Image	Frames 8_043_-42.0			
-data/VPP/frames/TS_0008_044_-44.0.tif	61355898	http://bia/Image	Frames 8_044_-44.0			
-data/VPP/frames/TS_0008_045_44.0.tif	62371210	http://bia/Image	Frames 8_045_44.0			
-data/VPP/frames/TS_0008_046_46.0.tif	61020930	http://bia/Image	Frames 8_046_46.0			
-data/VPP/frames/TS_0008_047_-46.0.tif	59956878	http://bia/Image	Frames 8_047_-46.0			
-data/VPP/frames/TS_0008_048_-48.0.tif	58401044	http://bia/Image	Frames 8_048_-48.0			
-data/VPP/frames/TS_0008_049_48.0.tif	59454470	http://bia/Image	Frames 8_049_48.0			
-data/VPP/frames/TS_0008_050_50.0.tif	57887856	http://bia/Image	Frames 8_050_50.0			
-data/VPP/frames/TS_0008_051_-50.0.tif	56666284	http://bia/Image	Frames 8_051_-50.0			
-data/VPP/frames/TS_0009_001_8.0.tif	59443476	http://bia/Image	Frames 9_001_8.0			
-data/VPP/frames/TS_0009_002_10.0.tif	59409680	http://bia/Image	Frames 9_002_10.0			
-data/VPP/frames/TS_0009_003_6.0.tif	59390528	http://bia/Image	Frames 9_003_6.0			
-data/VPP/frames/TS_0009_004_4.0.tif	59360698	http://bia/Image	Frames 9_004_4.0			
-data/VPP/frames/TS_0009_005_12.0.tif	59375472	http://bia/Image	Frames 9_005_12.0			
-data/VPP/frames/TS_0009_006_14.0.tif	59301708	http://bia/Image	Frames 9_006_14.0			
-data/VPP/frames/TS_0009_007_2.0.tif	59349790	http://bia/Image	Frames 9_007_2.0			
-data/VPP/frames/TS_0009_008_-0.0.tif	59268668	http://bia/Image	Frames 9_008_-0.0			
-data/VPP/frames/TS_0009_009_16.0.tif	59235102	http://bia/Image	Frames 9_009_16.0			
-data/VPP/frames/TS_0009_010_18.0.tif	59084810	http://bia/Image	Frames 9_010_18.0			
-data/VPP/frames/TS_0009_011_-2.0.tif	59139908	http://bia/Image	Frames 9_011_-2.0			
-data/VPP/frames/TS_0009_012_-4.0.tif	59012136	http://bia/Image	Frames 9_012_-4.0			
-data/VPP/frames/TS_0009_013_20.0.tif	58941994	http://bia/Image	Frames 9_013_20.0			
-data/VPP/frames/TS_0009_014_22.0.tif	58793202	http://bia/Image	Frames 9_014_22.0			
-data/VPP/frames/TS_0009_015_-6.0.tif	58834464	http://bia/Image	Frames 9_015_-6.0			
-data/VPP/frames/TS_0009_016_-8.0.tif	58620966	http://bia/Image	Frames 9_016_-8.0			
-data/VPP/frames/TS_0009_017_24.0.tif	58573556	http://bia/Image	Frames 9_017_24.0			
-data/VPP/frames/TS_0009_018_26.0.tif	58323688	http://bia/Image	Frames 9_018_26.0			
-data/VPP/frames/TS_0009_019_-10.0.tif	58390098	http://bia/Image	Frames 9_019_-10.0			
-data/VPP/frames/TS_0009_020_-12.0.tif	58117858	http://bia/Image	Frames 9_020_-12.0			
-data/VPP/frames/TS_0009_021_28.0.tif	58033586	http://bia/Image	Frames 9_021_28.0			
-data/VPP/frames/TS_0009_022_30.0.tif	57724642	http://bia/Image	Frames 9_022_30.0			
-data/VPP/frames/TS_0009_023_-14.0.tif	57815878	http://bia/Image	Frames 9_023_-14.0			
-data/VPP/frames/TS_0009_024_-16.0.tif	57483680	http://bia/Image	Frames 9_024_-16.0			
-data/VPP/frames/TS_0009_025_32.0.tif	57369800	http://bia/Image	Frames 9_025_32.0			
-data/VPP/frames/TS_0009_026_34.0.tif	56999210	http://bia/Image	Frames 9_026_34.0			
-data/VPP/frames/TS_0009_027_-18.0.tif	57100232	http://bia/Image	Frames 9_027_-18.0			
-data/VPP/frames/TS_0009_028_-20.0.tif	56678380	http://bia/Image	Frames 9_028_-20.0			
-data/VPP/frames/TS_0009_029_36.0.tif	56554704	http://bia/Image	Frames 9_029_36.0			
-data/VPP/frames/TS_0009_030_38.0.tif	56093832	http://bia/Image	Frames 9_030_38.0			
-data/VPP/frames/TS_0009_031_-22.0.tif	56193420	http://bia/Image	Frames 9_031_-22.0			
-data/VPP/frames/TS_0009_032_-24.0.tif	55655184	http://bia/Image	Frames 9_032_-24.0			
-data/VPP/frames/TS_0009_033_40.0.tif	55546364	http://bia/Image	Frames 9_033_40.0			
-data/VPP/frames/TS_0009_034_42.0.tif	54951904	http://bia/Image	Frames 9_034_42.0			
-data/VPP/frames/TS_0009_035_-26.0.tif	55097944	http://bia/Image	Frames 9_035_-26.0			
-data/VPP/frames/TS_0009_036_-28.0.tif	54480612	http://bia/Image	Frames 9_036_-28.0			
-data/VPP/frames/TS_0009_037_44.0.tif	54346944	http://bia/Image	Frames 9_037_44.0			
-data/VPP/frames/TS_0009_038_46.0.tif	53670420	http://bia/Image	Frames 9_038_46.0			
-data/VPP/frames/TS_0009_039_-30.0.tif	53816142	http://bia/Image	Frames 9_039_-30.0			
-data/VPP/frames/TS_0009_040_-32.0.tif	53089118	http://bia/Image	Frames 9_040_-32.0			
-data/VPP/frames/TS_0009_041_48.0.tif	52894626	http://bia/Image	Frames 9_041_48.0			
-data/VPP/frames/TS_0009_042_50.0.tif	52074698	http://bia/Image	Frames 9_042_50.0			
-data/VPP/frames/TS_0009_043_-34.0.tif	52253780	http://bia/Image	Frames 9_043_-34.0			
-data/VPP/frames/TS_0009_044_-36.0.tif	51364568	http://bia/Image	Frames 9_044_-36.0			
-data/VPP/frames/TS_0009_045_52.0.tif	51159418	http://bia/Image	Frames 9_045_52.0			
-data/VPP/frames/TS_0009_046_54.0.tif	50138898	http://bia/Image	Frames 9_046_54.0			
-data/VPP/frames/TS_0009_047_-38.0.tif	50400342	http://bia/Image	Frames 9_047_-38.0			
-data/VPP/frames/TS_0009_048_-40.0.tif	49296306	http://bia/Image	Frames 9_048_-40.0			
-data/VPP/frames/TS_0009_049_56.0.tif	49029694	http://bia/Image	Frames 9_049_56.0			
-data/VPP/frames/TS_0009_050_58.0.tif	47808212	http://bia/Image	Frames 9_050_58.0			
-data/VPP/frames/TS_0009_051_-42.0.tif	48142340	http://bia/Image	Frames 9_051_-42.0			
-data/VPP/frames/TS_0010_001_-0.0.tif	43133060	http://bia/Image	Frames 10_001_-0.0			
-data/VPP/frames/TS_0010_002_2.0.tif	43114916	http://bia/Image	Frames 10_002_2.0			
-data/VPP/frames/TS_0010_003_-2.0.tif	43124326	http://bia/Image	Frames 10_003_-2.0			
-data/VPP/frames/TS_0010_004_-4.0.tif	43102334	http://bia/Image	Frames 10_004_-4.0			
-data/VPP/frames/TS_0010_005_4.0.tif	43097182	http://bia/Image	Frames 10_005_4.0			
-data/VPP/frames/TS_0010_006_6.0.tif	43054008	http://bia/Image	Frames 10_006_6.0			
-data/VPP/frames/TS_0010_007_-6.0.tif	43098800	http://bia/Image	Frames 10_007_-6.0			
-data/VPP/frames/TS_0010_008_-8.0.tif	43014748	http://bia/Image	Frames 10_008_-8.0			
-data/VPP/frames/TS_0010_009_8.0.tif	43010524	http://bia/Image	Frames 10_009_8.0			
-data/VPP/frames/TS_0010_010_10.0.tif	42909834	http://bia/Image	Frames 10_010_10.0			
-data/VPP/frames/TS_0010_011_-10.0.tif	42919796	http://bia/Image	Frames 10_011_-10.0			
-data/VPP/frames/TS_0010_012_-12.0.tif	42853834	http://bia/Image	Frames 10_012_-12.0			
-data/VPP/frames/TS_0010_013_12.0.tif	42816144	http://bia/Image	Frames 10_013_12.0			
-data/VPP/frames/TS_0010_014_14.0.tif	42684730	http://bia/Image	Frames 10_014_14.0			
-data/VPP/frames/TS_0010_015_-14.0.tif	42730498	http://bia/Image	Frames 10_015_-14.0			
-data/VPP/frames/TS_0010_016_-16.0.tif	42594970	http://bia/Image	Frames 10_016_-16.0			
-data/VPP/frames/TS_0010_017_16.0.tif	42547848	http://bia/Image	Frames 10_017_16.0			
-data/VPP/frames/TS_0010_018_18.0.tif	42358212	http://bia/Image	Frames 10_018_18.0			
-data/VPP/frames/TS_0010_019_-18.0.tif	42409186	http://bia/Image	Frames 10_019_-18.0			
-data/VPP/frames/TS_0010_020_-20.0.tif	42226652	http://bia/Image	Frames 10_020_-20.0			
-data/VPP/frames/TS_0010_021_20.0.tif	42374032	http://bia/Image	Frames 10_021_20.0			
-data/VPP/frames/TS_0010_022_22.0.tif	42156218	http://bia/Image	Frames 10_022_22.0			
-data/VPP/frames/TS_0010_023_-22.0.tif	42289408	http://bia/Image	Frames 10_023_-22.0			
-data/VPP/frames/TS_0010_024_-24.0.tif	42055478	http://bia/Image	Frames 10_024_-24.0			
-data/VPP/frames/TS_0010_025_24.0.tif	41944680	http://bia/Image	Frames 10_025_24.0			
-data/VPP/frames/TS_0010_026_26.0.tif	41684850	http://bia/Image	Frames 10_026_26.0			
-data/VPP/frames/TS_0010_027_-26.0.tif	41822478	http://bia/Image	Frames 10_027_-26.0			
-data/VPP/frames/TS_0010_028_-28.0.tif	41533908	http://bia/Image	Frames 10_028_-28.0			
-data/VPP/frames/TS_0010_029_28.0.tif	41367572	http://bia/Image	Frames 10_029_28.0			
-data/VPP/frames/TS_0010_030_30.0.tif	41001270	http://bia/Image	Frames 10_030_30.0			
-data/VPP/frames/TS_0010_031_-30.0.tif	41198484	http://bia/Image	Frames 10_031_-30.0			
-data/VPP/frames/TS_0010_032_-32.0.tif	40808790	http://bia/Image	Frames 10_032_-32.0			
-data/VPP/frames/TS_0010_033_32.0.tif	40626560	http://bia/Image	Frames 10_033_32.0			
-data/VPP/frames/TS_0010_034_34.0.tif	40198812	http://bia/Image	Frames 10_034_34.0			
-data/VPP/frames/TS_0010_035_-34.0.tif	40441192	http://bia/Image	Frames 10_035_-34.0			
-data/VPP/frames/TS_0010_036_-36.0.tif	39972936	http://bia/Image	Frames 10_036_-36.0			
-data/VPP/frames/TS_0010_037_36.0.tif	39724094	http://bia/Image	Frames 10_037_36.0			
-data/VPP/frames/TS_0010_038_38.0.tif	39210206	http://bia/Image	Frames 10_038_38.0			
-data/VPP/frames/TS_0010_039_-38.0.tif	39525978	http://bia/Image	Frames 10_039_-38.0			
-data/VPP/frames/TS_0010_040_-40.0.tif	38976650	http://bia/Image	Frames 10_040_-40.0			
-data/VPP/frames/TS_0010_041_40.0.tif	38675762	http://bia/Image	Frames 10_041_40.0			
-data/VPP/frames/TS_0010_042_42.0.tif	38093040	http://bia/Image	Frames 10_042_42.0			
-data/VPP/frames/TS_0010_043_-42.0.tif	38427934	http://bia/Image	Frames 10_043_-42.0			
-data/VPP/frames/TS_0010_044_-44.0.tif	37754362	http://bia/Image	Frames 10_044_-44.0			
-data/VPP/frames/TS_0010_045_44.0.tif	37427756	http://bia/Image	Frames 10_045_44.0			
-data/VPP/frames/TS_0010_046_46.0.tif	36658136	http://bia/Image	Frames 10_046_46.0			
-data/VPP/frames/TS_0010_047_-46.0.tif	37046086	http://bia/Image	Frames 10_047_-46.0			
-data/VPP/frames/TS_0010_048_-48.0.tif	36305798	http://bia/Image	Frames 10_048_-48.0			
-data/VPP/frames/TS_0010_049_48.0.tif	35857298	http://bia/Image	Frames 10_049_48.0			
-data/VPP/frames/TS_0010_050_50.0.tif	35028530	http://bia/Image	Frames 10_050_50.0			
-data/VPP/frames/TS_0010_051_-50.0.tif	35435842	http://bia/Image	Frames 10_051_-50.0			
-data/VPP/frames/mdocs_ori/TS_0001.mrc.mdoc	29057					
-data/VPP/frames/mdocs_ori/TS_0002.mrc.mdoc	30007					
-data/VPP/frames/mdocs_ori/TS_0003.mrc.mdoc	29956					
-data/VPP/frames/mdocs_ori/TS_0004.mrc.mdoc	30084					
-data/VPP/frames/mdocs_ori/TS_0005.mrc.mdoc	30041					
-data/VPP/frames/mdocs_ori/TS_0006.mrc.mdoc	29998					
-data/VPP/frames/mdocs_ori/TS_0007.mrc.mdoc	30128					
-data/VPP/frames/mdocs_ori/TS_0008.mrc.mdoc	30070					
-data/VPP/frames/mdocs_ori/TS_0009.mrc.mdoc	30245					
-data/VPP/frames/mdocs_ori/TS_0010.mrc.mdoc	29885					
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/VPP/frames/CountRef_TS_0001_0004_plus_0010.dm4	57547614						
+data/VPP/frames/CountRef_TS_0005_0008.dm4	57547612						
+data/VPP/frames/TS_0001_001_-0.0.tif	49010020	http://bia/Image	Frames 1_001_-0.0		_:Specimen 1		
+data/VPP/frames/TS_0001_002_2.0.tif	49013672	http://bia/Image	Frames 1_002_2.0		_:Specimen 1		
+data/VPP/frames/TS_0001_003_-2.0.tif	49000644	http://bia/Image	Frames 1_003_-2.0		_:Specimen 1		
+data/VPP/frames/TS_0001_004_-4.0.tif	48961602	http://bia/Image	Frames 1_004_-4.0		_:Specimen 1		
+data/VPP/frames/TS_0001_005_4.0.tif	49015786	http://bia/Image	Frames 1_005_4.0		_:Specimen 1		
+data/VPP/frames/TS_0001_006_6.0.tif	49008728	http://bia/Image	Frames 1_006_6.0		_:Specimen 1		
+data/VPP/frames/TS_0001_007_-6.0.tif	48924912	http://bia/Image	Frames 1_007_-6.0		_:Specimen 1		
+data/VPP/frames/TS_0001_008_-8.0.tif	48860082	http://bia/Image	Frames 1_008_-8.0		_:Specimen 1		
+data/VPP/frames/TS_0001_009_8.0.tif	48987488	http://bia/Image	Frames 1_009_8.0		_:Specimen 1		
+data/VPP/frames/TS_0001_010_10.0.tif	48960398	http://bia/Image	Frames 1_010_10.0		_:Specimen 1		
+data/VPP/frames/TS_0001_011_-10.0.tif	48805248	http://bia/Image	Frames 1_011_-10.0		_:Specimen 1		
+data/VPP/frames/TS_0001_012_-12.0.tif	48731302	http://bia/Image	Frames 1_012_-12.0		_:Specimen 1		
+data/VPP/frames/TS_0001_013_12.0.tif	48916278	http://bia/Image	Frames 1_013_12.0		_:Specimen 1		
+data/VPP/frames/TS_0001_014_14.0.tif	48826932	http://bia/Image	Frames 1_014_14.0		_:Specimen 1		
+data/VPP/frames/TS_0001_015_-14.0.tif	48617128	http://bia/Image	Frames 1_015_-14.0		_:Specimen 1		
+data/VPP/frames/TS_0001_016_-16.0.tif	48494140	http://bia/Image	Frames 1_016_-16.0		_:Specimen 1		
+data/VPP/frames/TS_0001_017_16.0.tif	48760074	http://bia/Image	Frames 1_017_16.0		_:Specimen 1		
+data/VPP/frames/TS_0001_018_18.0.tif	48637828	http://bia/Image	Frames 1_018_18.0		_:Specimen 1		
+data/VPP/frames/TS_0001_019_-18.0.tif	48367376	http://bia/Image	Frames 1_019_-18.0		_:Specimen 1		
+data/VPP/frames/TS_0001_020_-20.0.tif	48226220	http://bia/Image	Frames 1_020_-20.0		_:Specimen 1		
+data/VPP/frames/TS_0001_021_20.0.tif	48558974	http://bia/Image	Frames 1_021_20.0		_:Specimen 1		
+data/VPP/frames/TS_0001_022_22.0.tif	48416344	http://bia/Image	Frames 1_022_22.0		_:Specimen 1		
+data/VPP/frames/TS_0001_023_-22.0.tif	48044750	http://bia/Image	Frames 1_023_-22.0		_:Specimen 1		
+data/VPP/frames/TS_0001_024_-24.0.tif	47870584	http://bia/Image	Frames 1_024_-24.0		_:Specimen 1		
+data/VPP/frames/TS_0001_025_24.0.tif	48261416	http://bia/Image	Frames 1_025_24.0		_:Specimen 1		
+data/VPP/frames/TS_0001_026_26.0.tif	48098716	http://bia/Image	Frames 1_026_26.0		_:Specimen 1		
+data/VPP/frames/TS_0001_027_-26.0.tif	47632568	http://bia/Image	Frames 1_027_-26.0		_:Specimen 1		
+data/VPP/frames/TS_0001_028_-28.0.tif	47405184	http://bia/Image	Frames 1_028_-28.0		_:Specimen 1		
+data/VPP/frames/TS_0001_029_28.0.tif	47880814	http://bia/Image	Frames 1_029_28.0		_:Specimen 1		
+data/VPP/frames/TS_0001_030_30.0.tif	47656432	http://bia/Image	Frames 1_030_30.0		_:Specimen 1		
+data/VPP/frames/TS_0001_031_-30.0.tif	47156646	http://bia/Image	Frames 1_031_-30.0		_:Specimen 1		
+data/VPP/frames/TS_0001_032_-32.0.tif	46914776	http://bia/Image	Frames 1_032_-32.0		_:Specimen 1		
+data/VPP/frames/TS_0001_033_32.0.tif	47459244	http://bia/Image	Frames 1_033_32.0		_:Specimen 1		
+data/VPP/frames/TS_0001_034_34.0.tif	47209898	http://bia/Image	Frames 1_034_34.0		_:Specimen 1		
+data/VPP/frames/TS_0001_035_-34.0.tif	46650884	http://bia/Image	Frames 1_035_-34.0		_:Specimen 1		
+data/VPP/frames/TS_0001_036_-36.0.tif	46373602	http://bia/Image	Frames 1_036_-36.0		_:Specimen 1		
+data/VPP/frames/TS_0001_037_36.0.tif	46935916	http://bia/Image	Frames 1_037_36.0		_:Specimen 1		
+data/VPP/frames/TS_0001_038_38.0.tif	46604842	http://bia/Image	Frames 1_038_38.0		_:Specimen 1		
+data/VPP/frames/TS_0001_039_-38.0.tif	45963172	http://bia/Image	Frames 1_039_-38.0		_:Specimen 1		
+data/VPP/frames/TS_0001_040_-40.0.tif	45611024	http://bia/Image	Frames 1_040_-40.0		_:Specimen 1		
+data/VPP/frames/TS_0001_041_40.0.tif	46273712	http://bia/Image	Frames 1_041_40.0		_:Specimen 1		
+data/VPP/frames/TS_0001_042_42.0.tif	45885730	http://bia/Image	Frames 1_042_42.0		_:Specimen 1		
+data/VPP/frames/TS_0001_043_-42.0.tif	45165762	http://bia/Image	Frames 1_043_-42.0		_:Specimen 1		
+data/VPP/frames/TS_0001_044_-44.0.tif	44704324	http://bia/Image	Frames 1_044_-44.0		_:Specimen 1		
+data/VPP/frames/TS_0001_045_44.0.tif	45510204	http://bia/Image	Frames 1_045_44.0		_:Specimen 1		
+data/VPP/frames/TS_0001_046_46.0.tif	45047424	http://bia/Image	Frames 1_046_46.0		_:Specimen 1		
+data/VPP/frames/TS_0001_047_-46.0.tif	44151070	http://bia/Image	Frames 1_047_-46.0		_:Specimen 1		
+data/VPP/frames/TS_0001_048_-48.0.tif	43583650	http://bia/Image	Frames 1_048_-48.0		_:Specimen 1		
+data/VPP/frames/TS_0001_049_48.0.tif	44571682	http://bia/Image	Frames 1_049_48.0		_:Specimen 1		
+data/VPP/frames/TS_0001_050_50.0.tif	44038982	http://bia/Image	Frames 1_050_50.0		_:Specimen 1		
+data/VPP/frames/TS_0001_051_-50.0.tif	42965324	http://bia/Image	Frames 1_051_-50.0		_:Specimen 1		
+data/VPP/frames/TS_0002_001_-0.0.tif	47429924	http://bia/Image	Frames 2_001_-0.0		_:Specimen 2		
+data/VPP/frames/TS_0002_002_2.0.tif	47432576	http://bia/Image	Frames 2_002_2.0		_:Specimen 2		
+data/VPP/frames/TS_0002_003_-2.0.tif	47391020	http://bia/Image	Frames 2_003_-2.0		_:Specimen 2		
+data/VPP/frames/TS_0002_004_-4.0.tif	47368828	http://bia/Image	Frames 2_004_-4.0		_:Specimen 2		
+data/VPP/frames/TS_0002_005_4.0.tif	47422754	http://bia/Image	Frames 2_005_4.0		_:Specimen 2		
+data/VPP/frames/TS_0002_006_6.0.tif	47399074	http://bia/Image	Frames 2_006_6.0		_:Specimen 2		
+data/VPP/frames/TS_0002_007_-6.0.tif	47334902	http://bia/Image	Frames 2_007_-6.0		_:Specimen 2		
+data/VPP/frames/TS_0002_008_-8.0.tif	47275018	http://bia/Image	Frames 2_008_-8.0		_:Specimen 2		
+data/VPP/frames/TS_0002_009_8.0.tif	47372462	http://bia/Image	Frames 2_009_8.0		_:Specimen 2		
+data/VPP/frames/TS_0002_010_10.0.tif	47339178	http://bia/Image	Frames 2_010_10.0		_:Specimen 2		
+data/VPP/frames/TS_0002_011_-10.0.tif	47198268	http://bia/Image	Frames 2_011_-10.0		_:Specimen 2		
+data/VPP/frames/TS_0002_012_-12.0.tif	47088480	http://bia/Image	Frames 2_012_-12.0		_:Specimen 2		
+data/VPP/frames/TS_0002_013_12.0.tif	47283668	http://bia/Image	Frames 2_013_12.0		_:Specimen 2		
+data/VPP/frames/TS_0002_014_14.0.tif	47196666	http://bia/Image	Frames 2_014_14.0		_:Specimen 2		
+data/VPP/frames/TS_0002_015_-14.0.tif	46989282	http://bia/Image	Frames 2_015_-14.0		_:Specimen 2		
+data/VPP/frames/TS_0002_016_-16.0.tif	46901498	http://bia/Image	Frames 2_016_-16.0		_:Specimen 2		
+data/VPP/frames/TS_0002_017_16.0.tif	47087190	http://bia/Image	Frames 2_017_16.0		_:Specimen 2		
+data/VPP/frames/TS_0002_018_18.0.tif	46961706	http://bia/Image	Frames 2_018_18.0		_:Specimen 2		
+data/VPP/frames/TS_0002_019_-18.0.tif	46699546	http://bia/Image	Frames 2_019_-18.0		_:Specimen 2		
+data/VPP/frames/TS_0002_020_-20.0.tif	46570568	http://bia/Image	Frames 2_020_-20.0		_:Specimen 2		
+data/VPP/frames/TS_0002_021_20.0.tif	46852178	http://bia/Image	Frames 2_021_20.0		_:Specimen 2		
+data/VPP/frames/TS_0002_022_22.0.tif	46700868	http://bia/Image	Frames 2_022_22.0		_:Specimen 2		
+data/VPP/frames/TS_0002_023_-22.0.tif	46411330	http://bia/Image	Frames 2_023_-22.0		_:Specimen 2		
+data/VPP/frames/TS_0002_024_-24.0.tif	46195634	http://bia/Image	Frames 2_024_-24.0		_:Specimen 2		
+data/VPP/frames/TS_0002_025_24.0.tif	46543762	http://bia/Image	Frames 2_025_24.0		_:Specimen 2		
+data/VPP/frames/TS_0002_026_26.0.tif	46350266	http://bia/Image	Frames 2_026_26.0		_:Specimen 2		
+data/VPP/frames/TS_0002_027_-26.0.tif	45968038	http://bia/Image	Frames 2_027_-26.0		_:Specimen 2		
+data/VPP/frames/TS_0002_028_-28.0.tif	45722304	http://bia/Image	Frames 2_028_-28.0		_:Specimen 2		
+data/VPP/frames/TS_0002_029_28.0.tif	46111808	http://bia/Image	Frames 2_029_28.0		_:Specimen 2		
+data/VPP/frames/TS_0002_030_30.0.tif	45878208	http://bia/Image	Frames 2_030_30.0		_:Specimen 2		
+data/VPP/frames/TS_0002_031_-30.0.tif	45408040	http://bia/Image	Frames 2_031_-30.0		_:Specimen 2		
+data/VPP/frames/TS_0002_032_-32.0.tif	45137750	http://bia/Image	Frames 2_032_-32.0		_:Specimen 2		
+data/VPP/frames/TS_0002_033_32.0.tif	45634614	http://bia/Image	Frames 2_033_32.0		_:Specimen 2		
+data/VPP/frames/TS_0002_034_34.0.tif	45331846	http://bia/Image	Frames 2_034_34.0		_:Specimen 2		
+data/VPP/frames/TS_0002_035_-34.0.tif	44804450	http://bia/Image	Frames 2_035_-34.0		_:Specimen 2		
+data/VPP/frames/TS_0002_036_-36.0.tif	44457266	http://bia/Image	Frames 2_036_-36.0		_:Specimen 2		
+data/VPP/frames/TS_0002_037_36.0.tif	45033724	http://bia/Image	Frames 2_037_36.0		_:Specimen 2		
+data/VPP/frames/TS_0002_038_38.0.tif	44688522	http://bia/Image	Frames 2_038_38.0		_:Specimen 2		
+data/VPP/frames/TS_0002_039_-38.0.tif	44035806	http://bia/Image	Frames 2_039_-38.0		_:Specimen 2		
+data/VPP/frames/TS_0002_040_-40.0.tif	43582972	http://bia/Image	Frames 2_040_-40.0		_:Specimen 2		
+data/VPP/frames/TS_0002_041_40.0.tif	44324828	http://bia/Image	Frames 2_041_40.0		_:Specimen 2		
+data/VPP/frames/TS_0002_042_42.0.tif	43912102	http://bia/Image	Frames 2_042_42.0		_:Specimen 2		
+data/VPP/frames/TS_0002_043_-42.0.tif	43124368	http://bia/Image	Frames 2_043_-42.0		_:Specimen 2		
+data/VPP/frames/TS_0002_044_-44.0.tif	42638996	http://bia/Image	Frames 2_044_-44.0		_:Specimen 2		
+data/VPP/frames/TS_0002_045_44.0.tif	43467110	http://bia/Image	Frames 2_045_44.0		_:Specimen 2		
+data/VPP/frames/TS_0002_046_46.0.tif	43014626	http://bia/Image	Frames 2_046_46.0		_:Specimen 2		
+data/VPP/frames/TS_0002_047_-46.0.tif	42103508	http://bia/Image	Frames 2_047_-46.0		_:Specimen 2		
+data/VPP/frames/TS_0002_048_-48.0.tif	41517256	http://bia/Image	Frames 2_048_-48.0		_:Specimen 2		
+data/VPP/frames/TS_0002_049_48.0.tif	42545574	http://bia/Image	Frames 2_049_48.0		_:Specimen 2		
+data/VPP/frames/TS_0002_050_50.0.tif	42015674	http://bia/Image	Frames 2_050_50.0		_:Specimen 2		
+data/VPP/frames/TS_0002_051_-50.0.tif	40845150	http://bia/Image	Frames 2_051_-50.0		_:Specimen 2		
+data/VPP/frames/TS_0003_001_-0.0.tif	49151830	http://bia/Image	Frames 3_001_-0.0		_:Specimen 3		
+data/VPP/frames/TS_0003_002_2.0.tif	49153052	http://bia/Image	Frames 3_002_2.0		_:Specimen 3		
+data/VPP/frames/TS_0003_003_-2.0.tif	49140962	http://bia/Image	Frames 3_003_-2.0		_:Specimen 3		
+data/VPP/frames/TS_0003_004_-4.0.tif	49128778	http://bia/Image	Frames 3_004_-4.0		_:Specimen 3		
+data/VPP/frames/TS_0003_005_4.0.tif	49139296	http://bia/Image	Frames 3_005_4.0		_:Specimen 3		
+data/VPP/frames/TS_0003_006_6.0.tif	49106600	http://bia/Image	Frames 3_006_6.0		_:Specimen 3		
+data/VPP/frames/TS_0003_007_-6.0.tif	49094360	http://bia/Image	Frames 3_007_-6.0		_:Specimen 3		
+data/VPP/frames/TS_0003_008_-8.0.tif	49042986	http://bia/Image	Frames 3_008_-8.0		_:Specimen 3		
+data/VPP/frames/TS_0003_009_8.0.tif	49060768	http://bia/Image	Frames 3_009_8.0		_:Specimen 3		
+data/VPP/frames/TS_0003_010_10.0.tif	49007878	http://bia/Image	Frames 3_010_10.0		_:Specimen 3		
+data/VPP/frames/TS_0003_011_-10.0.tif	49002978	http://bia/Image	Frames 3_011_-10.0		_:Specimen 3		
+data/VPP/frames/TS_0003_012_-12.0.tif	48913208	http://bia/Image	Frames 3_012_-12.0		_:Specimen 3		
+data/VPP/frames/TS_0003_013_12.0.tif	48943586	http://bia/Image	Frames 3_013_12.0		_:Specimen 3		
+data/VPP/frames/TS_0003_014_14.0.tif	48862412	http://bia/Image	Frames 3_014_14.0		_:Specimen 3		
+data/VPP/frames/TS_0003_015_-14.0.tif	48832106	http://bia/Image	Frames 3_015_-14.0		_:Specimen 3		
+data/VPP/frames/TS_0003_016_-16.0.tif	48732774	http://bia/Image	Frames 3_016_-16.0		_:Specimen 3		
+data/VPP/frames/TS_0003_017_16.0.tif	48761706	http://bia/Image	Frames 3_017_16.0		_:Specimen 3		
+data/VPP/frames/TS_0003_018_18.0.tif	48632768	http://bia/Image	Frames 3_018_18.0		_:Specimen 3		
+data/VPP/frames/TS_0003_019_-18.0.tif	48620238	http://bia/Image	Frames 3_019_-18.0		_:Specimen 3		
+data/VPP/frames/TS_0003_020_-20.0.tif	48500166	http://bia/Image	Frames 3_020_-20.0		_:Specimen 3		
+data/VPP/frames/TS_0003_021_20.0.tif	48523904	http://bia/Image	Frames 3_021_20.0		_:Specimen 3		
+data/VPP/frames/TS_0003_022_22.0.tif	48369984	http://bia/Image	Frames 3_022_22.0		_:Specimen 3		
+data/VPP/frames/TS_0003_023_-22.0.tif	48369252	http://bia/Image	Frames 3_023_-22.0		_:Specimen 3		
+data/VPP/frames/TS_0003_024_-24.0.tif	48181314	http://bia/Image	Frames 3_024_-24.0		_:Specimen 3		
+data/VPP/frames/TS_0003_025_24.0.tif	48197976	http://bia/Image	Frames 3_025_24.0		_:Specimen 3		
+data/VPP/frames/TS_0003_026_26.0.tif	48002728	http://bia/Image	Frames 3_026_26.0		_:Specimen 3		
+data/VPP/frames/TS_0003_027_-26.0.tif	47990674	http://bia/Image	Frames 3_027_-26.0		_:Specimen 3		
+data/VPP/frames/TS_0003_028_-28.0.tif	47770772	http://bia/Image	Frames 3_028_-28.0		_:Specimen 3		
+data/VPP/frames/TS_0003_029_28.0.tif	47792682	http://bia/Image	Frames 3_029_28.0		_:Specimen 3		
+data/VPP/frames/TS_0003_030_30.0.tif	47570104	http://bia/Image	Frames 3_030_30.0		_:Specimen 3		
+data/VPP/frames/TS_0003_031_-30.0.tif	47557006	http://bia/Image	Frames 3_031_-30.0		_:Specimen 3		
+data/VPP/frames/TS_0003_032_-32.0.tif	47305000	http://bia/Image	Frames 3_032_-32.0		_:Specimen 3		
+data/VPP/frames/TS_0003_033_32.0.tif	47312428	http://bia/Image	Frames 3_033_32.0		_:Specimen 3		
+data/VPP/frames/TS_0003_034_34.0.tif	47047964	http://bia/Image	Frames 3_034_34.0		_:Specimen 3		
+data/VPP/frames/TS_0003_035_-34.0.tif	47011578	http://bia/Image	Frames 3_035_-34.0		_:Specimen 3		
+data/VPP/frames/TS_0003_036_-36.0.tif	46698562	http://bia/Image	Frames 3_036_-36.0		_:Specimen 3		
+data/VPP/frames/TS_0003_037_36.0.tif	46734570	http://bia/Image	Frames 3_037_36.0		_:Specimen 3		
+data/VPP/frames/TS_0003_038_38.0.tif	46381684	http://bia/Image	Frames 3_038_38.0		_:Specimen 3		
+data/VPP/frames/TS_0003_039_-38.0.tif	46361630	http://bia/Image	Frames 3_039_-38.0		_:Specimen 3		
+data/VPP/frames/TS_0003_040_-40.0.tif	45936254	http://bia/Image	Frames 3_040_-40.0		_:Specimen 3		
+data/VPP/frames/TS_0003_041_40.0.tif	46006234	http://bia/Image	Frames 3_041_40.0		_:Specimen 3		
+data/VPP/frames/TS_0003_042_42.0.tif	45598390	http://bia/Image	Frames 3_042_42.0		_:Specimen 3		
+data/VPP/frames/TS_0003_043_-42.0.tif	45502872	http://bia/Image	Frames 3_043_-42.0		_:Specimen 3		
+data/VPP/frames/TS_0003_044_-44.0.tif	45023530	http://bia/Image	Frames 3_044_-44.0		_:Specimen 3		
+data/VPP/frames/TS_0003_045_44.0.tif	45090672	http://bia/Image	Frames 3_045_44.0		_:Specimen 3		
+data/VPP/frames/TS_0003_046_46.0.tif	44569082	http://bia/Image	Frames 3_046_46.0		_:Specimen 3		
+data/VPP/frames/TS_0003_047_-46.0.tif	44480572	http://bia/Image	Frames 3_047_-46.0		_:Specimen 3		
+data/VPP/frames/TS_0003_048_-48.0.tif	43879074	http://bia/Image	Frames 3_048_-48.0		_:Specimen 3		
+data/VPP/frames/TS_0003_049_48.0.tif	43980094	http://bia/Image	Frames 3_049_48.0		_:Specimen 3		
+data/VPP/frames/TS_0003_050_50.0.tif	43347410	http://bia/Image	Frames 3_050_50.0		_:Specimen 3		
+data/VPP/frames/TS_0003_051_-50.0.tif	43232622	http://bia/Image	Frames 3_051_-50.0		_:Specimen 3		
+data/VPP/frames/TS_0004_001_-0.0.tif	42730306	http://bia/Image	Frames 4_001_-0.0		_:Specimen 4		
+data/VPP/frames/TS_0004_002_2.0.tif	42656528	http://bia/Image	Frames 4_002_2.0		_:Specimen 4		
+data/VPP/frames/TS_0004_003_-2.0.tif	42790926	http://bia/Image	Frames 4_003_-2.0		_:Specimen 4		
+data/VPP/frames/TS_0004_004_-4.0.tif	42820672	http://bia/Image	Frames 4_004_-4.0		_:Specimen 4		
+data/VPP/frames/TS_0004_005_4.0.tif	42557602	http://bia/Image	Frames 4_005_4.0		_:Specimen 4		
+data/VPP/frames/TS_0004_006_6.0.tif	42438002	http://bia/Image	Frames 4_006_6.0		_:Specimen 4		
+data/VPP/frames/TS_0004_007_-6.0.tif	42845206	http://bia/Image	Frames 4_007_-6.0		_:Specimen 4		
+data/VPP/frames/TS_0004_008_-8.0.tif	42811170	http://bia/Image	Frames 4_008_-8.0		_:Specimen 4		
+data/VPP/frames/TS_0004_009_8.0.tif	42275828	http://bia/Image	Frames 4_009_8.0		_:Specimen 4		
+data/VPP/frames/TS_0004_010_10.0.tif	42122528	http://bia/Image	Frames 4_010_10.0		_:Specimen 4		
+data/VPP/frames/TS_0004_011_-10.0.tif	42773516	http://bia/Image	Frames 4_011_-10.0		_:Specimen 4		
+data/VPP/frames/TS_0004_012_-12.0.tif	42732194	http://bia/Image	Frames 4_012_-12.0		_:Specimen 4		
+data/VPP/frames/TS_0004_013_12.0.tif	41923280	http://bia/Image	Frames 4_013_12.0		_:Specimen 4		
+data/VPP/frames/TS_0004_014_14.0.tif	41692438	http://bia/Image	Frames 4_014_14.0		_:Specimen 4		
+data/VPP/frames/TS_0004_015_-14.0.tif	42646902	http://bia/Image	Frames 4_015_-14.0		_:Specimen 4		
+data/VPP/frames/TS_0004_016_-16.0.tif	42516934	http://bia/Image	Frames 4_016_-16.0		_:Specimen 4		
+data/VPP/frames/TS_0004_017_16.0.tif	41444056	http://bia/Image	Frames 4_017_16.0		_:Specimen 4		
+data/VPP/frames/TS_0004_018_18.0.tif	41166826	http://bia/Image	Frames 4_018_18.0		_:Specimen 4		
+data/VPP/frames/TS_0004_019_-18.0.tif	42418868	http://bia/Image	Frames 4_019_-18.0		_:Specimen 4		
+data/VPP/frames/TS_0004_020_-20.0.tif	42261298	http://bia/Image	Frames 4_020_-20.0		_:Specimen 4		
+data/VPP/frames/TS_0004_021_20.0.tif	40827208	http://bia/Image	Frames 4_021_20.0		_:Specimen 4		
+data/VPP/frames/TS_0004_022_22.0.tif	40464590	http://bia/Image	Frames 4_022_22.0		_:Specimen 4		
+data/VPP/frames/TS_0004_023_-22.0.tif	42067272	http://bia/Image	Frames 4_023_-22.0		_:Specimen 4		
+data/VPP/frames/TS_0004_024_-24.0.tif	41879720	http://bia/Image	Frames 4_024_-24.0		_:Specimen 4		
+data/VPP/frames/TS_0004_025_24.0.tif	40089366	http://bia/Image	Frames 4_025_24.0		_:Specimen 4		
+data/VPP/frames/TS_0004_026_26.0.tif	39665180	http://bia/Image	Frames 4_026_26.0		_:Specimen 4		
+data/VPP/frames/TS_0004_027_-26.0.tif	41656212	http://bia/Image	Frames 4_027_-26.0		_:Specimen 4		
+data/VPP/frames/TS_0004_028_-28.0.tif	41376594	http://bia/Image	Frames 4_028_-28.0		_:Specimen 4		
+data/VPP/frames/TS_0004_029_28.0.tif	39189496	http://bia/Image	Frames 4_029_28.0		_:Specimen 4		
+data/VPP/frames/TS_0004_030_30.0.tif	38663010	http://bia/Image	Frames 4_030_30.0		_:Specimen 4		
+data/VPP/frames/TS_0004_031_-30.0.tif	41086334	http://bia/Image	Frames 4_031_-30.0		_:Specimen 4		
+data/VPP/frames/TS_0004_032_-32.0.tif	40753140	http://bia/Image	Frames 4_032_-32.0		_:Specimen 4		
+data/VPP/frames/TS_0004_033_32.0.tif	38068290	http://bia/Image	Frames 4_033_32.0		_:Specimen 4		
+data/VPP/frames/TS_0004_034_34.0.tif	37429116	http://bia/Image	Frames 4_034_34.0		_:Specimen 4		
+data/VPP/frames/TS_0004_035_-34.0.tif	40392796	http://bia/Image	Frames 4_035_-34.0		_:Specimen 4		
+data/VPP/frames/TS_0004_036_-36.0.tif	39968110	http://bia/Image	Frames 4_036_-36.0		_:Specimen 4		
+data/VPP/frames/TS_0004_037_36.0.tif	36695104	http://bia/Image	Frames 4_037_36.0		_:Specimen 4		
+data/VPP/frames/TS_0004_038_38.0.tif	35970644	http://bia/Image	Frames 4_038_38.0		_:Specimen 4		
+data/VPP/frames/TS_0004_039_-38.0.tif	39533200	http://bia/Image	Frames 4_039_-38.0		_:Specimen 4		
+data/VPP/frames/TS_0004_040_-40.0.tif	39034374	http://bia/Image	Frames 4_040_-40.0		_:Specimen 4		
+data/VPP/frames/TS_0004_041_40.0.tif	35106106	http://bia/Image	Frames 4_041_40.0		_:Specimen 4		
+data/VPP/frames/TS_0004_042_42.0.tif	34116906	http://bia/Image	Frames 4_042_42.0		_:Specimen 4		
+data/VPP/frames/TS_0004_043_-42.0.tif	38499734	http://bia/Image	Frames 4_043_-42.0		_:Specimen 4		
+data/VPP/frames/TS_0004_044_-44.0.tif	37888442	http://bia/Image	Frames 4_044_-44.0		_:Specimen 4		
+data/VPP/frames/TS_0004_045_44.0.tif	33078120	http://bia/Image	Frames 4_045_44.0		_:Specimen 4		
+data/VPP/frames/TS_0004_046_46.0.tif	31916186	http://bia/Image	Frames 4_046_46.0		_:Specimen 4		
+data/VPP/frames/TS_0004_047_-46.0.tif	37209510	http://bia/Image	Frames 4_047_-46.0		_:Specimen 4		
+data/VPP/frames/TS_0004_048_-48.0.tif	36163406	http://bia/Image	Frames 4_048_-48.0		_:Specimen 4		
+data/VPP/frames/TS_0004_049_48.0.tif	30639980	http://bia/Image	Frames 4_049_48.0		_:Specimen 4		
+data/VPP/frames/TS_0004_050_50.0.tif	29228442	http://bia/Image	Frames 4_050_50.0		_:Specimen 4		
+data/VPP/frames/TS_0004_051_-50.0.tif	33772566	http://bia/Image	Frames 4_051_-50.0		_:Specimen 4		
+data/VPP/frames/TS_0005_001_-0.0.tif	72244400	http://bia/Image	Frames 5_001_-0.0		_:Specimen 5		
+data/VPP/frames/TS_0005_002_2.0.tif	72210592	http://bia/Image	Frames 5_002_2.0		_:Specimen 5		
+data/VPP/frames/TS_0005_003_-2.0.tif	72161726	http://bia/Image	Frames 5_003_-2.0		_:Specimen 5		
+data/VPP/frames/TS_0005_004_-4.0.tif	72023472	http://bia/Image	Frames 5_004_-4.0		_:Specimen 5		
+data/VPP/frames/TS_0005_005_4.0.tif	72254202	http://bia/Image	Frames 5_005_4.0		_:Specimen 5		
+data/VPP/frames/TS_0005_006_6.0.tif	72193752	http://bia/Image	Frames 5_006_6.0		_:Specimen 5		
+data/VPP/frames/TS_0005_007_-6.0.tif	71843788	http://bia/Image	Frames 5_007_-6.0		_:Specimen 5		
+data/VPP/frames/TS_0005_008_-8.0.tif	71602516	http://bia/Image	Frames 5_008_-8.0		_:Specimen 5		
+data/VPP/frames/TS_0005_009_8.0.tif	72072464	http://bia/Image	Frames 5_009_8.0		_:Specimen 5		
+data/VPP/frames/TS_0005_010_10.0.tif	71874256	http://bia/Image	Frames 5_010_10.0		_:Specimen 5		
+data/VPP/frames/TS_0005_011_-10.0.tif	71314454	http://bia/Image	Frames 5_011_-10.0		_:Specimen 5		
+data/VPP/frames/TS_0005_012_-12.0.tif	70986504	http://bia/Image	Frames 5_012_-12.0		_:Specimen 5		
+data/VPP/frames/TS_0005_013_12.0.tif	71717194	http://bia/Image	Frames 5_013_12.0		_:Specimen 5		
+data/VPP/frames/TS_0005_014_14.0.tif	71511620	http://bia/Image	Frames 5_014_14.0		_:Specimen 5		
+data/VPP/frames/TS_0005_015_-14.0.tif	70583170	http://bia/Image	Frames 5_015_-14.0		_:Specimen 5		
+data/VPP/frames/TS_0005_016_-16.0.tif	70141042	http://bia/Image	Frames 5_016_-16.0		_:Specimen 5		
+data/VPP/frames/TS_0005_017_16.0.tif	71212660	http://bia/Image	Frames 5_017_16.0		_:Specimen 5		
+data/VPP/frames/TS_0005_018_18.0.tif	70848720	http://bia/Image	Frames 5_018_18.0		_:Specimen 5		
+data/VPP/frames/TS_0005_019_-18.0.tif	69614778	http://bia/Image	Frames 5_019_-18.0		_:Specimen 5		
+data/VPP/frames/TS_0005_020_-20.0.tif	69101506	http://bia/Image	Frames 5_020_-20.0		_:Specimen 5		
+data/VPP/frames/TS_0005_021_20.0.tif	70450482	http://bia/Image	Frames 5_021_20.0		_:Specimen 5		
+data/VPP/frames/TS_0005_022_22.0.tif	70044944	http://bia/Image	Frames 5_022_22.0		_:Specimen 5		
+data/VPP/frames/TS_0005_023_-22.0.tif	68470470	http://bia/Image	Frames 5_023_-22.0		_:Specimen 5		
+data/VPP/frames/TS_0005_024_-24.0.tif	67781660	http://bia/Image	Frames 5_024_-24.0		_:Specimen 5		
+data/VPP/frames/TS_0005_025_24.0.tif	69498678	http://bia/Image	Frames 5_025_24.0		_:Specimen 5		
+data/VPP/frames/TS_0005_026_26.0.tif	68988860	http://bia/Image	Frames 5_026_26.0		_:Specimen 5		
+data/VPP/frames/TS_0005_027_-26.0.tif	67094470	http://bia/Image	Frames 5_027_-26.0		_:Specimen 5		
+data/VPP/frames/TS_0005_028_-28.0.tif	66328744	http://bia/Image	Frames 5_028_-28.0		_:Specimen 5		
+data/VPP/frames/TS_0005_029_28.0.tif	68371650	http://bia/Image	Frames 5_029_28.0		_:Specimen 5		
+data/VPP/frames/TS_0005_030_30.0.tif	67710456	http://bia/Image	Frames 5_030_30.0		_:Specimen 5		
+data/VPP/frames/TS_0005_031_-30.0.tif	65488884	http://bia/Image	Frames 5_031_-30.0		_:Specimen 5		
+data/VPP/frames/TS_0005_032_-32.0.tif	64583366	http://bia/Image	Frames 5_032_-32.0		_:Specimen 5		
+data/VPP/frames/TS_0005_033_32.0.tif	67005928	http://bia/Image	Frames 5_033_32.0		_:Specimen 5		
+data/VPP/frames/TS_0005_034_34.0.tif	66230390	http://bia/Image	Frames 5_034_34.0		_:Specimen 5		
+data/VPP/frames/TS_0005_035_-34.0.tif	63585396	http://bia/Image	Frames 5_035_-34.0		_:Specimen 5		
+data/VPP/frames/TS_0005_036_-36.0.tif	62516830	http://bia/Image	Frames 5_036_-36.0		_:Specimen 5		
+data/VPP/frames/TS_0005_037_36.0.tif	65358134	http://bia/Image	Frames 5_037_36.0		_:Specimen 5		
+data/VPP/frames/TS_0005_038_38.0.tif	64492040	http://bia/Image	Frames 5_038_38.0		_:Specimen 5		
+data/VPP/frames/TS_0005_039_-38.0.tif	61368716	http://bia/Image	Frames 5_039_-38.0		_:Specimen 5		
+data/VPP/frames/TS_0005_040_-40.0.tif	60001988	http://bia/Image	Frames 5_040_-40.0		_:Specimen 5		
+data/VPP/frames/TS_0005_041_40.0.tif	63486726	http://bia/Image	Frames 5_041_40.0		_:Specimen 5		
+data/VPP/frames/TS_0005_042_42.0.tif	62393144	http://bia/Image	Frames 5_042_42.0		_:Specimen 5		
+data/VPP/frames/TS_0005_043_-42.0.tif	58540228	http://bia/Image	Frames 5_043_-42.0		_:Specimen 5		
+data/VPP/frames/TS_0005_044_-44.0.tif	56944460	http://bia/Image	Frames 5_044_-44.0		_:Specimen 5		
+data/VPP/frames/TS_0005_045_44.0.tif	61208124	http://bia/Image	Frames 5_045_44.0		_:Specimen 5		
+data/VPP/frames/TS_0005_046_46.0.tif	59899352	http://bia/Image	Frames 5_046_46.0		_:Specimen 5		
+data/VPP/frames/TS_0005_047_-46.0.tif	55245176	http://bia/Image	Frames 5_047_-46.0		_:Specimen 5		
+data/VPP/frames/TS_0005_048_-48.0.tif	53467228	http://bia/Image	Frames 5_048_-48.0		_:Specimen 5		
+data/VPP/frames/TS_0005_049_48.0.tif	58519282	http://bia/Image	Frames 5_049_48.0		_:Specimen 5		
+data/VPP/frames/TS_0005_050_50.0.tif	57056180	http://bia/Image	Frames 5_050_50.0		_:Specimen 5		
+data/VPP/frames/TS_0005_051_-50.0.tif	51535324	http://bia/Image	Frames 5_051_-50.0		_:Specimen 5		
+data/VPP/frames/TS_0006_001_-0.0.tif	88840364	http://bia/Image	Frames 6_001_-0.0		_:Specimen 6		
+data/VPP/frames/TS_0006_002_2.0.tif	88811398	http://bia/Image	Frames 6_002_2.0		_:Specimen 6		
+data/VPP/frames/TS_0006_003_-2.0.tif	88818212	http://bia/Image	Frames 6_003_-2.0		_:Specimen 6		
+data/VPP/frames/TS_0006_004_-4.0.tif	88724720	http://bia/Image	Frames 6_004_-4.0		_:Specimen 6		
+data/VPP/frames/TS_0006_005_4.0.tif	88851168	http://bia/Image	Frames 6_005_4.0		_:Specimen 6		
+data/VPP/frames/TS_0006_006_6.0.tif	88790638	http://bia/Image	Frames 6_006_6.0		_:Specimen 6		
+data/VPP/frames/TS_0006_007_-6.0.tif	88635064	http://bia/Image	Frames 6_007_-6.0		_:Specimen 6		
+data/VPP/frames/TS_0006_008_-8.0.tif	88519216	http://bia/Image	Frames 6_008_-8.0		_:Specimen 6		
+data/VPP/frames/TS_0006_009_8.0.tif	88769358	http://bia/Image	Frames 6_009_8.0		_:Specimen 6		
+data/VPP/frames/TS_0006_010_10.0.tif	88644842	http://bia/Image	Frames 6_010_10.0		_:Specimen 6		
+data/VPP/frames/TS_0006_011_-10.0.tif	88353134	http://bia/Image	Frames 6_011_-10.0		_:Specimen 6		
+data/VPP/frames/TS_0006_012_-12.0.tif	88145196	http://bia/Image	Frames 6_012_-12.0		_:Specimen 6		
+data/VPP/frames/TS_0006_013_12.0.tif	88513890	http://bia/Image	Frames 6_013_12.0		_:Specimen 6		
+data/VPP/frames/TS_0006_014_14.0.tif	88304962	http://bia/Image	Frames 6_014_14.0		_:Specimen 6		
+data/VPP/frames/TS_0006_015_-14.0.tif	87941830	http://bia/Image	Frames 6_015_-14.0		_:Specimen 6		
+data/VPP/frames/TS_0006_016_-16.0.tif	87689198	http://bia/Image	Frames 6_016_-16.0		_:Specimen 6		
+data/VPP/frames/TS_0006_017_16.0.tif	88085520	http://bia/Image	Frames 6_017_16.0		_:Specimen 6		
+data/VPP/frames/TS_0006_018_18.0.tif	87815370	http://bia/Image	Frames 6_018_18.0		_:Specimen 6		
+data/VPP/frames/TS_0006_019_-18.0.tif	87355664	http://bia/Image	Frames 6_019_-18.0		_:Specimen 6		
+data/VPP/frames/TS_0006_020_-20.0.tif	87049772	http://bia/Image	Frames 6_020_-20.0		_:Specimen 6		
+data/VPP/frames/TS_0006_021_20.0.tif	87549800	http://bia/Image	Frames 6_021_20.0		_:Specimen 6		
+data/VPP/frames/TS_0006_022_22.0.tif	87216790	http://bia/Image	Frames 6_022_22.0		_:Specimen 6		
+data/VPP/frames/TS_0006_023_-22.0.tif	86625710	http://bia/Image	Frames 6_023_-22.0		_:Specimen 6		
+data/VPP/frames/TS_0006_024_-24.0.tif	86229560	http://bia/Image	Frames 6_024_-24.0		_:Specimen 6		
+data/VPP/frames/TS_0006_025_24.0.tif	86833728	http://bia/Image	Frames 6_025_24.0		_:Specimen 6		
+data/VPP/frames/TS_0006_026_26.0.tif	86339074	http://bia/Image	Frames 6_026_26.0		_:Specimen 6		
+data/VPP/frames/TS_0006_027_-26.0.tif	85732628	http://bia/Image	Frames 6_027_-26.0		_:Specimen 6		
+data/VPP/frames/TS_0006_028_-28.0.tif	85212002	http://bia/Image	Frames 6_028_-28.0		_:Specimen 6		
+data/VPP/frames/TS_0006_029_28.0.tif	85870694	http://bia/Image	Frames 6_029_28.0		_:Specimen 6		
+data/VPP/frames/TS_0006_030_30.0.tif	85329246	http://bia/Image	Frames 6_030_30.0		_:Specimen 6		
+data/VPP/frames/TS_0006_031_-30.0.tif	84682738	http://bia/Image	Frames 6_031_-30.0		_:Specimen 6		
+data/VPP/frames/TS_0006_032_-32.0.tif	84034928	http://bia/Image	Frames 6_032_-32.0		_:Specimen 6		
+data/VPP/frames/TS_0006_033_32.0.tif	84726998	http://bia/Image	Frames 6_033_32.0		_:Specimen 6		
+data/VPP/frames/TS_0006_034_34.0.tif	84012244	http://bia/Image	Frames 6_034_34.0		_:Specimen 6		
+data/VPP/frames/TS_0006_035_-34.0.tif	83364344	http://bia/Image	Frames 6_035_-34.0		_:Specimen 6		
+data/VPP/frames/TS_0006_036_-36.0.tif	82563698	http://bia/Image	Frames 6_036_-36.0		_:Specimen 6		
+data/VPP/frames/TS_0006_037_36.0.tif	83308738	http://bia/Image	Frames 6_037_36.0		_:Specimen 6		
+data/VPP/frames/TS_0006_038_38.0.tif	82458022	http://bia/Image	Frames 6_038_38.0		_:Specimen 6		
+data/VPP/frames/TS_0006_039_-38.0.tif	81695400	http://bia/Image	Frames 6_039_-38.0		_:Specimen 6		
+data/VPP/frames/TS_0006_040_-40.0.tif	80762658	http://bia/Image	Frames 6_040_-40.0		_:Specimen 6		
+data/VPP/frames/TS_0006_041_40.0.tif	81501390	http://bia/Image	Frames 6_041_40.0		_:Specimen 6		
+data/VPP/frames/TS_0006_042_42.0.tif	80487152	http://bia/Image	Frames 6_042_42.0		_:Specimen 6		
+data/VPP/frames/TS_0006_043_-42.0.tif	79680992	http://bia/Image	Frames 6_043_-42.0		_:Specimen 6		
+data/VPP/frames/TS_0006_044_-44.0.tif	78580754	http://bia/Image	Frames 6_044_-44.0		_:Specimen 6		
+data/VPP/frames/TS_0006_045_44.0.tif	79353558	http://bia/Image	Frames 6_045_44.0		_:Specimen 6		
+data/VPP/frames/TS_0006_046_46.0.tif	78084600	http://bia/Image	Frames 6_046_46.0		_:Specimen 6		
+data/VPP/frames/TS_0006_047_-46.0.tif	77319180	http://bia/Image	Frames 6_047_-46.0		_:Specimen 6		
+data/VPP/frames/TS_0006_048_-48.0.tif	75964116	http://bia/Image	Frames 6_048_-48.0		_:Specimen 6		
+data/VPP/frames/TS_0006_049_48.0.tif	76790752	http://bia/Image	Frames 6_049_48.0		_:Specimen 6		
+data/VPP/frames/TS_0006_050_50.0.tif	75310808	http://bia/Image	Frames 6_050_50.0		_:Specimen 6		
+data/VPP/frames/TS_0006_051_-50.0.tif	74480024	http://bia/Image	Frames 6_051_-50.0		_:Specimen 6		
+data/VPP/frames/TS_0007_001_0.0.tif	92969008	http://bia/Image	Frames 7_001_0.0		_:Specimen 7		
+data/VPP/frames/TS_0007_002_2.0.tif	92943596	http://bia/Image	Frames 7_002_2.0		_:Specimen 7		
+data/VPP/frames/TS_0007_003_-2.0.tif	92909582	http://bia/Image	Frames 7_003_-2.0		_:Specimen 7		
+data/VPP/frames/TS_0007_004_-4.0.tif	92909306	http://bia/Image	Frames 7_004_-4.0		_:Specimen 7		
+data/VPP/frames/TS_0007_005_4.0.tif	92904456	http://bia/Image	Frames 7_005_4.0		_:Specimen 7		
+data/VPP/frames/TS_0007_006_6.0.tif	92811272	http://bia/Image	Frames 7_006_6.0		_:Specimen 7		
+data/VPP/frames/TS_0007_007_-6.0.tif	92922554	http://bia/Image	Frames 7_007_-6.0		_:Specimen 7		
+data/VPP/frames/TS_0007_008_-8.0.tif	92857918	http://bia/Image	Frames 7_008_-8.0		_:Specimen 7		
+data/VPP/frames/TS_0007_009_8.0.tif	92718244	http://bia/Image	Frames 7_009_8.0		_:Specimen 7		
+data/VPP/frames/TS_0007_010_10.0.tif	92596142	http://bia/Image	Frames 7_010_10.0		_:Specimen 7		
+data/VPP/frames/TS_0007_011_-10.0.tif	92745670	http://bia/Image	Frames 7_011_-10.0		_:Specimen 7		
+data/VPP/frames/TS_0007_012_-12.0.tif	92672956	http://bia/Image	Frames 7_012_-12.0		_:Specimen 7		
+data/VPP/frames/TS_0007_013_12.0.tif	92423770	http://bia/Image	Frames 7_013_12.0		_:Specimen 7		
+data/VPP/frames/TS_0007_014_14.0.tif	92244848	http://bia/Image	Frames 7_014_14.0		_:Specimen 7		
+data/VPP/frames/TS_0007_015_-14.0.tif	92478446	http://bia/Image	Frames 7_015_-14.0		_:Specimen 7		
+data/VPP/frames/TS_0007_016_-16.0.tif	92304020	http://bia/Image	Frames 7_016_-16.0		_:Specimen 7		
+data/VPP/frames/TS_0007_017_16.0.tif	91984630	http://bia/Image	Frames 7_017_16.0		_:Specimen 7		
+data/VPP/frames/TS_0007_018_18.0.tif	91777586	http://bia/Image	Frames 7_018_18.0		_:Specimen 7		
+data/VPP/frames/TS_0007_019_-18.0.tif	92091178	http://bia/Image	Frames 7_019_-18.0		_:Specimen 7		
+data/VPP/frames/TS_0007_020_-20.0.tif	91839232	http://bia/Image	Frames 7_020_-20.0		_:Specimen 7		
+data/VPP/frames/TS_0007_021_20.0.tif	91495454	http://bia/Image	Frames 7_021_20.0		_:Specimen 7		
+data/VPP/frames/TS_0007_022_22.0.tif	91189508	http://bia/Image	Frames 7_022_22.0		_:Specimen 7		
+data/VPP/frames/TS_0007_023_-22.0.tif	91658620	http://bia/Image	Frames 7_023_-22.0		_:Specimen 7		
+data/VPP/frames/TS_0007_024_-24.0.tif	91334830	http://bia/Image	Frames 7_024_-24.0		_:Specimen 7		
+data/VPP/frames/TS_0007_025_24.0.tif	90788740	http://bia/Image	Frames 7_025_24.0		_:Specimen 7		
+data/VPP/frames/TS_0007_026_26.0.tif	90357564	http://bia/Image	Frames 7_026_26.0		_:Specimen 7		
+data/VPP/frames/TS_0007_027_-26.0.tif	91011352	http://bia/Image	Frames 7_027_-26.0		_:Specimen 7		
+data/VPP/frames/TS_0007_028_-28.0.tif	90687464	http://bia/Image	Frames 7_028_-28.0		_:Specimen 7		
+data/VPP/frames/TS_0007_029_28.0.tif	89941066	http://bia/Image	Frames 7_029_28.0		_:Specimen 7		
+data/VPP/frames/TS_0007_030_30.0.tif	89321176	http://bia/Image	Frames 7_030_30.0		_:Specimen 7		
+data/VPP/frames/TS_0007_031_-30.0.tif	90293776	http://bia/Image	Frames 7_031_-30.0		_:Specimen 7		
+data/VPP/frames/TS_0007_032_-32.0.tif	89835586	http://bia/Image	Frames 7_032_-32.0		_:Specimen 7		
+data/VPP/frames/TS_0007_033_32.0.tif	88475290	http://bia/Image	Frames 7_033_32.0		_:Specimen 7		
+data/VPP/frames/TS_0007_034_34.0.tif	86846062	http://bia/Image	Frames 7_034_34.0		_:Specimen 7		
+data/VPP/frames/TS_0007_035_-34.0.tif	89307752	http://bia/Image	Frames 7_035_-34.0		_:Specimen 7		
+data/VPP/frames/TS_0007_036_-36.0.tif	88753116	http://bia/Image	Frames 7_036_-36.0		_:Specimen 7		
+data/VPP/frames/TS_0007_037_36.0.tif	83806276	http://bia/Image	Frames 7_037_36.0		_:Specimen 7		
+data/VPP/frames/TS_0007_038_38.0.tif	80218656	http://bia/Image	Frames 7_038_38.0		_:Specimen 7		
+data/VPP/frames/TS_0007_039_-38.0.tif	88157186	http://bia/Image	Frames 7_039_-38.0		_:Specimen 7		
+data/VPP/frames/TS_0007_040_-40.0.tif	87474106	http://bia/Image	Frames 7_040_-40.0		_:Specimen 7		
+data/VPP/frames/TS_0007_041_40.0.tif	75572720	http://bia/Image	Frames 7_041_40.0		_:Specimen 7		
+data/VPP/frames/TS_0007_042_42.0.tif	70545532	http://bia/Image	Frames 7_042_42.0		_:Specimen 7		
+data/VPP/frames/TS_0007_043_-42.0.tif	86767896	http://bia/Image	Frames 7_043_-42.0		_:Specimen 7		
+data/VPP/frames/TS_0007_044_-44.0.tif	86030236	http://bia/Image	Frames 7_044_-44.0		_:Specimen 7		
+data/VPP/frames/TS_0007_045_44.0.tif	65182776	http://bia/Image	Frames 7_045_44.0		_:Specimen 7		
+data/VPP/frames/TS_0007_046_46.0.tif	59852252	http://bia/Image	Frames 7_046_46.0		_:Specimen 7		
+data/VPP/frames/TS_0007_047_-46.0.tif	85098990	http://bia/Image	Frames 7_047_-46.0		_:Specimen 7		
+data/VPP/frames/TS_0007_048_-48.0.tif	84221458	http://bia/Image	Frames 7_048_-48.0		_:Specimen 7		
+data/VPP/frames/TS_0007_049_48.0.tif	54169208	http://bia/Image	Frames 7_049_48.0		_:Specimen 7		
+data/VPP/frames/TS_0007_050_50.0.tif	48295762	http://bia/Image	Frames 7_050_50.0		_:Specimen 7		
+data/VPP/frames/TS_0007_051_-50.0.tif	83206222	http://bia/Image	Frames 7_051_-50.0		_:Specimen 7		
+data/VPP/frames/TS_0008_001_-0.0.tif	74384972	http://bia/Image	Frames 8_001_-0.0		_:Specimen 8		
+data/VPP/frames/TS_0008_002_2.0.tif	74383346	http://bia/Image	Frames 8_002_2.0		_:Specimen 8		
+data/VPP/frames/TS_0008_003_-2.0.tif	74375928	http://bia/Image	Frames 8_003_-2.0		_:Specimen 8		
+data/VPP/frames/TS_0008_004_-4.0.tif	74317910	http://bia/Image	Frames 8_004_-4.0		_:Specimen 8		
+data/VPP/frames/TS_0008_005_4.0.tif	74405786	http://bia/Image	Frames 8_005_4.0		_:Specimen 8		
+data/VPP/frames/TS_0008_006_6.0.tif	74297542	http://bia/Image	Frames 8_006_6.0		_:Specimen 8		
+data/VPP/frames/TS_0008_007_-6.0.tif	74184614	http://bia/Image	Frames 8_007_-6.0		_:Specimen 8		
+data/VPP/frames/TS_0008_008_-8.0.tif	74002592	http://bia/Image	Frames 8_008_-8.0		_:Specimen 8		
+data/VPP/frames/TS_0008_009_8.0.tif	74145454	http://bia/Image	Frames 8_009_8.0		_:Specimen 8		
+data/VPP/frames/TS_0008_010_10.0.tif	73960270	http://bia/Image	Frames 8_010_10.0		_:Specimen 8		
+data/VPP/frames/TS_0008_011_-10.0.tif	73742596	http://bia/Image	Frames 8_011_-10.0		_:Specimen 8		
+data/VPP/frames/TS_0008_012_-12.0.tif	73499686	http://bia/Image	Frames 8_012_-12.0		_:Specimen 8		
+data/VPP/frames/TS_0008_013_12.0.tif	73745200	http://bia/Image	Frames 8_013_12.0		_:Specimen 8		
+data/VPP/frames/TS_0008_014_14.0.tif	73432010	http://bia/Image	Frames 8_014_14.0		_:Specimen 8		
+data/VPP/frames/TS_0008_015_-14.0.tif	73242988	http://bia/Image	Frames 8_015_-14.0		_:Specimen 8		
+data/VPP/frames/TS_0008_016_-16.0.tif	72792588	http://bia/Image	Frames 8_016_-16.0		_:Specimen 8		
+data/VPP/frames/TS_0008_017_16.0.tif	73204282	http://bia/Image	Frames 8_017_16.0		_:Specimen 8		
+data/VPP/frames/TS_0008_018_18.0.tif	72787136	http://bia/Image	Frames 8_018_18.0		_:Specimen 8		
+data/VPP/frames/TS_0008_019_-18.0.tif	72395100	http://bia/Image	Frames 8_019_-18.0		_:Specimen 8		
+data/VPP/frames/TS_0008_020_-20.0.tif	71951694	http://bia/Image	Frames 8_020_-20.0		_:Specimen 8		
+data/VPP/frames/TS_0008_021_20.0.tif	72362584	http://bia/Image	Frames 8_021_20.0		_:Specimen 8		
+data/VPP/frames/TS_0008_022_22.0.tif	71880892	http://bia/Image	Frames 8_022_22.0		_:Specimen 8		
+data/VPP/frames/TS_0008_023_-22.0.tif	71472738	http://bia/Image	Frames 8_023_-22.0		_:Specimen 8		
+data/VPP/frames/TS_0008_024_-24.0.tif	70884056	http://bia/Image	Frames 8_024_-24.0		_:Specimen 8		
+data/VPP/frames/TS_0008_025_24.0.tif	71348178	http://bia/Image	Frames 8_025_24.0		_:Specimen 8		
+data/VPP/frames/TS_0008_026_26.0.tif	70766384	http://bia/Image	Frames 8_026_26.0		_:Specimen 8		
+data/VPP/frames/TS_0008_027_-26.0.tif	70239010	http://bia/Image	Frames 8_027_-26.0		_:Specimen 8		
+data/VPP/frames/TS_0008_028_-28.0.tif	69525712	http://bia/Image	Frames 8_028_-28.0		_:Specimen 8		
+data/VPP/frames/TS_0008_029_28.0.tif	70082480	http://bia/Image	Frames 8_029_28.0		_:Specimen 8		
+data/VPP/frames/TS_0008_030_30.0.tif	69324884	http://bia/Image	Frames 8_030_30.0		_:Specimen 8		
+data/VPP/frames/TS_0008_031_-30.0.tif	68738590	http://bia/Image	Frames 8_031_-30.0		_:Specimen 8		
+data/VPP/frames/TS_0008_032_-32.0.tif	67868796	http://bia/Image	Frames 8_032_-32.0		_:Specimen 8		
+data/VPP/frames/TS_0008_033_32.0.tif	68556772	http://bia/Image	Frames 8_033_32.0		_:Specimen 8		
+data/VPP/frames/TS_0008_034_34.0.tif	67657284	http://bia/Image	Frames 8_034_34.0		_:Specimen 8		
+data/VPP/frames/TS_0008_035_-34.0.tif	66990072	http://bia/Image	Frames 8_035_-34.0		_:Specimen 8		
+data/VPP/frames/TS_0008_036_-36.0.tif	66042646	http://bia/Image	Frames 8_036_-36.0		_:Specimen 8		
+data/VPP/frames/TS_0008_037_36.0.tif	66824624	http://bia/Image	Frames 8_037_36.0		_:Specimen 8		
+data/VPP/frames/TS_0008_038_38.0.tif	65838344	http://bia/Image	Frames 8_038_38.0		_:Specimen 8		
+data/VPP/frames/TS_0008_039_-38.0.tif	65073138	http://bia/Image	Frames 8_039_-38.0		_:Specimen 8		
+data/VPP/frames/TS_0008_040_-40.0.tif	63933882	http://bia/Image	Frames 8_040_-40.0		_:Specimen 8		
+data/VPP/frames/TS_0008_041_40.0.tif	64843856	http://bia/Image	Frames 8_041_40.0		_:Specimen 8		
+data/VPP/frames/TS_0008_042_42.0.tif	63638758	http://bia/Image	Frames 8_042_42.0		_:Specimen 8		
+data/VPP/frames/TS_0008_043_-42.0.tif	62759312	http://bia/Image	Frames 8_043_-42.0		_:Specimen 8		
+data/VPP/frames/TS_0008_044_-44.0.tif	61355898	http://bia/Image	Frames 8_044_-44.0		_:Specimen 8		
+data/VPP/frames/TS_0008_045_44.0.tif	62371210	http://bia/Image	Frames 8_045_44.0		_:Specimen 8		
+data/VPP/frames/TS_0008_046_46.0.tif	61020930	http://bia/Image	Frames 8_046_46.0		_:Specimen 8		
+data/VPP/frames/TS_0008_047_-46.0.tif	59956878	http://bia/Image	Frames 8_047_-46.0		_:Specimen 8		
+data/VPP/frames/TS_0008_048_-48.0.tif	58401044	http://bia/Image	Frames 8_048_-48.0		_:Specimen 8		
+data/VPP/frames/TS_0008_049_48.0.tif	59454470	http://bia/Image	Frames 8_049_48.0		_:Specimen 8		
+data/VPP/frames/TS_0008_050_50.0.tif	57887856	http://bia/Image	Frames 8_050_50.0		_:Specimen 8		
+data/VPP/frames/TS_0008_051_-50.0.tif	56666284	http://bia/Image	Frames 8_051_-50.0		_:Specimen 8		
+data/VPP/frames/TS_0009_001_8.0.tif	59443476	http://bia/Image	Frames 9_001_8.0		_:Specimen 9		
+data/VPP/frames/TS_0009_002_10.0.tif	59409680	http://bia/Image	Frames 9_002_10.0		_:Specimen 9		
+data/VPP/frames/TS_0009_003_6.0.tif	59390528	http://bia/Image	Frames 9_003_6.0		_:Specimen 9		
+data/VPP/frames/TS_0009_004_4.0.tif	59360698	http://bia/Image	Frames 9_004_4.0		_:Specimen 9		
+data/VPP/frames/TS_0009_005_12.0.tif	59375472	http://bia/Image	Frames 9_005_12.0		_:Specimen 9		
+data/VPP/frames/TS_0009_006_14.0.tif	59301708	http://bia/Image	Frames 9_006_14.0		_:Specimen 9		
+data/VPP/frames/TS_0009_007_2.0.tif	59349790	http://bia/Image	Frames 9_007_2.0		_:Specimen 9		
+data/VPP/frames/TS_0009_008_-0.0.tif	59268668	http://bia/Image	Frames 9_008_-0.0		_:Specimen 9		
+data/VPP/frames/TS_0009_009_16.0.tif	59235102	http://bia/Image	Frames 9_009_16.0		_:Specimen 9		
+data/VPP/frames/TS_0009_010_18.0.tif	59084810	http://bia/Image	Frames 9_010_18.0		_:Specimen 9		
+data/VPP/frames/TS_0009_011_-2.0.tif	59139908	http://bia/Image	Frames 9_011_-2.0		_:Specimen 9		
+data/VPP/frames/TS_0009_012_-4.0.tif	59012136	http://bia/Image	Frames 9_012_-4.0		_:Specimen 9		
+data/VPP/frames/TS_0009_013_20.0.tif	58941994	http://bia/Image	Frames 9_013_20.0		_:Specimen 9		
+data/VPP/frames/TS_0009_014_22.0.tif	58793202	http://bia/Image	Frames 9_014_22.0		_:Specimen 9		
+data/VPP/frames/TS_0009_015_-6.0.tif	58834464	http://bia/Image	Frames 9_015_-6.0		_:Specimen 9		
+data/VPP/frames/TS_0009_016_-8.0.tif	58620966	http://bia/Image	Frames 9_016_-8.0		_:Specimen 9		
+data/VPP/frames/TS_0009_017_24.0.tif	58573556	http://bia/Image	Frames 9_017_24.0		_:Specimen 9		
+data/VPP/frames/TS_0009_018_26.0.tif	58323688	http://bia/Image	Frames 9_018_26.0		_:Specimen 9		
+data/VPP/frames/TS_0009_019_-10.0.tif	58390098	http://bia/Image	Frames 9_019_-10.0		_:Specimen 9		
+data/VPP/frames/TS_0009_020_-12.0.tif	58117858	http://bia/Image	Frames 9_020_-12.0		_:Specimen 9		
+data/VPP/frames/TS_0009_021_28.0.tif	58033586	http://bia/Image	Frames 9_021_28.0		_:Specimen 9		
+data/VPP/frames/TS_0009_022_30.0.tif	57724642	http://bia/Image	Frames 9_022_30.0		_:Specimen 9		
+data/VPP/frames/TS_0009_023_-14.0.tif	57815878	http://bia/Image	Frames 9_023_-14.0		_:Specimen 9		
+data/VPP/frames/TS_0009_024_-16.0.tif	57483680	http://bia/Image	Frames 9_024_-16.0		_:Specimen 9		
+data/VPP/frames/TS_0009_025_32.0.tif	57369800	http://bia/Image	Frames 9_025_32.0		_:Specimen 9		
+data/VPP/frames/TS_0009_026_34.0.tif	56999210	http://bia/Image	Frames 9_026_34.0		_:Specimen 9		
+data/VPP/frames/TS_0009_027_-18.0.tif	57100232	http://bia/Image	Frames 9_027_-18.0		_:Specimen 9		
+data/VPP/frames/TS_0009_028_-20.0.tif	56678380	http://bia/Image	Frames 9_028_-20.0		_:Specimen 9		
+data/VPP/frames/TS_0009_029_36.0.tif	56554704	http://bia/Image	Frames 9_029_36.0		_:Specimen 9		
+data/VPP/frames/TS_0009_030_38.0.tif	56093832	http://bia/Image	Frames 9_030_38.0		_:Specimen 9		
+data/VPP/frames/TS_0009_031_-22.0.tif	56193420	http://bia/Image	Frames 9_031_-22.0		_:Specimen 9		
+data/VPP/frames/TS_0009_032_-24.0.tif	55655184	http://bia/Image	Frames 9_032_-24.0		_:Specimen 9		
+data/VPP/frames/TS_0009_033_40.0.tif	55546364	http://bia/Image	Frames 9_033_40.0		_:Specimen 9		
+data/VPP/frames/TS_0009_034_42.0.tif	54951904	http://bia/Image	Frames 9_034_42.0		_:Specimen 9		
+data/VPP/frames/TS_0009_035_-26.0.tif	55097944	http://bia/Image	Frames 9_035_-26.0		_:Specimen 9		
+data/VPP/frames/TS_0009_036_-28.0.tif	54480612	http://bia/Image	Frames 9_036_-28.0		_:Specimen 9		
+data/VPP/frames/TS_0009_037_44.0.tif	54346944	http://bia/Image	Frames 9_037_44.0		_:Specimen 9		
+data/VPP/frames/TS_0009_038_46.0.tif	53670420	http://bia/Image	Frames 9_038_46.0		_:Specimen 9		
+data/VPP/frames/TS_0009_039_-30.0.tif	53816142	http://bia/Image	Frames 9_039_-30.0		_:Specimen 9		
+data/VPP/frames/TS_0009_040_-32.0.tif	53089118	http://bia/Image	Frames 9_040_-32.0		_:Specimen 9		
+data/VPP/frames/TS_0009_041_48.0.tif	52894626	http://bia/Image	Frames 9_041_48.0		_:Specimen 9		
+data/VPP/frames/TS_0009_042_50.0.tif	52074698	http://bia/Image	Frames 9_042_50.0		_:Specimen 9		
+data/VPP/frames/TS_0009_043_-34.0.tif	52253780	http://bia/Image	Frames 9_043_-34.0		_:Specimen 9		
+data/VPP/frames/TS_0009_044_-36.0.tif	51364568	http://bia/Image	Frames 9_044_-36.0		_:Specimen 9		
+data/VPP/frames/TS_0009_045_52.0.tif	51159418	http://bia/Image	Frames 9_045_52.0		_:Specimen 9		
+data/VPP/frames/TS_0009_046_54.0.tif	50138898	http://bia/Image	Frames 9_046_54.0		_:Specimen 9		
+data/VPP/frames/TS_0009_047_-38.0.tif	50400342	http://bia/Image	Frames 9_047_-38.0		_:Specimen 9		
+data/VPP/frames/TS_0009_048_-40.0.tif	49296306	http://bia/Image	Frames 9_048_-40.0		_:Specimen 9		
+data/VPP/frames/TS_0009_049_56.0.tif	49029694	http://bia/Image	Frames 9_049_56.0		_:Specimen 9		
+data/VPP/frames/TS_0009_050_58.0.tif	47808212	http://bia/Image	Frames 9_050_58.0		_:Specimen 9		
+data/VPP/frames/TS_0009_051_-42.0.tif	48142340	http://bia/Image	Frames 9_051_-42.0		_:Specimen 9		
+data/VPP/frames/TS_0010_001_-0.0.tif	43133060	http://bia/Image	Frames 10_001_-0.0		_:Specimen 10		
+data/VPP/frames/TS_0010_002_2.0.tif	43114916	http://bia/Image	Frames 10_002_2.0		_:Specimen 10		
+data/VPP/frames/TS_0010_003_-2.0.tif	43124326	http://bia/Image	Frames 10_003_-2.0		_:Specimen 10		
+data/VPP/frames/TS_0010_004_-4.0.tif	43102334	http://bia/Image	Frames 10_004_-4.0		_:Specimen 10		
+data/VPP/frames/TS_0010_005_4.0.tif	43097182	http://bia/Image	Frames 10_005_4.0		_:Specimen 10		
+data/VPP/frames/TS_0010_006_6.0.tif	43054008	http://bia/Image	Frames 10_006_6.0		_:Specimen 10		
+data/VPP/frames/TS_0010_007_-6.0.tif	43098800	http://bia/Image	Frames 10_007_-6.0		_:Specimen 10		
+data/VPP/frames/TS_0010_008_-8.0.tif	43014748	http://bia/Image	Frames 10_008_-8.0		_:Specimen 10		
+data/VPP/frames/TS_0010_009_8.0.tif	43010524	http://bia/Image	Frames 10_009_8.0		_:Specimen 10		
+data/VPP/frames/TS_0010_010_10.0.tif	42909834	http://bia/Image	Frames 10_010_10.0		_:Specimen 10		
+data/VPP/frames/TS_0010_011_-10.0.tif	42919796	http://bia/Image	Frames 10_011_-10.0		_:Specimen 10		
+data/VPP/frames/TS_0010_012_-12.0.tif	42853834	http://bia/Image	Frames 10_012_-12.0		_:Specimen 10		
+data/VPP/frames/TS_0010_013_12.0.tif	42816144	http://bia/Image	Frames 10_013_12.0		_:Specimen 10		
+data/VPP/frames/TS_0010_014_14.0.tif	42684730	http://bia/Image	Frames 10_014_14.0		_:Specimen 10		
+data/VPP/frames/TS_0010_015_-14.0.tif	42730498	http://bia/Image	Frames 10_015_-14.0		_:Specimen 10		
+data/VPP/frames/TS_0010_016_-16.0.tif	42594970	http://bia/Image	Frames 10_016_-16.0		_:Specimen 10		
+data/VPP/frames/TS_0010_017_16.0.tif	42547848	http://bia/Image	Frames 10_017_16.0		_:Specimen 10		
+data/VPP/frames/TS_0010_018_18.0.tif	42358212	http://bia/Image	Frames 10_018_18.0		_:Specimen 10		
+data/VPP/frames/TS_0010_019_-18.0.tif	42409186	http://bia/Image	Frames 10_019_-18.0		_:Specimen 10		
+data/VPP/frames/TS_0010_020_-20.0.tif	42226652	http://bia/Image	Frames 10_020_-20.0		_:Specimen 10		
+data/VPP/frames/TS_0010_021_20.0.tif	42374032	http://bia/Image	Frames 10_021_20.0		_:Specimen 10		
+data/VPP/frames/TS_0010_022_22.0.tif	42156218	http://bia/Image	Frames 10_022_22.0		_:Specimen 10		
+data/VPP/frames/TS_0010_023_-22.0.tif	42289408	http://bia/Image	Frames 10_023_-22.0		_:Specimen 10		
+data/VPP/frames/TS_0010_024_-24.0.tif	42055478	http://bia/Image	Frames 10_024_-24.0		_:Specimen 10		
+data/VPP/frames/TS_0010_025_24.0.tif	41944680	http://bia/Image	Frames 10_025_24.0		_:Specimen 10		
+data/VPP/frames/TS_0010_026_26.0.tif	41684850	http://bia/Image	Frames 10_026_26.0		_:Specimen 10		
+data/VPP/frames/TS_0010_027_-26.0.tif	41822478	http://bia/Image	Frames 10_027_-26.0		_:Specimen 10		
+data/VPP/frames/TS_0010_028_-28.0.tif	41533908	http://bia/Image	Frames 10_028_-28.0		_:Specimen 10		
+data/VPP/frames/TS_0010_029_28.0.tif	41367572	http://bia/Image	Frames 10_029_28.0		_:Specimen 10		
+data/VPP/frames/TS_0010_030_30.0.tif	41001270	http://bia/Image	Frames 10_030_30.0		_:Specimen 10		
+data/VPP/frames/TS_0010_031_-30.0.tif	41198484	http://bia/Image	Frames 10_031_-30.0		_:Specimen 10		
+data/VPP/frames/TS_0010_032_-32.0.tif	40808790	http://bia/Image	Frames 10_032_-32.0		_:Specimen 10		
+data/VPP/frames/TS_0010_033_32.0.tif	40626560	http://bia/Image	Frames 10_033_32.0		_:Specimen 10		
+data/VPP/frames/TS_0010_034_34.0.tif	40198812	http://bia/Image	Frames 10_034_34.0		_:Specimen 10		
+data/VPP/frames/TS_0010_035_-34.0.tif	40441192	http://bia/Image	Frames 10_035_-34.0		_:Specimen 10		
+data/VPP/frames/TS_0010_036_-36.0.tif	39972936	http://bia/Image	Frames 10_036_-36.0		_:Specimen 10		
+data/VPP/frames/TS_0010_037_36.0.tif	39724094	http://bia/Image	Frames 10_037_36.0		_:Specimen 10		
+data/VPP/frames/TS_0010_038_38.0.tif	39210206	http://bia/Image	Frames 10_038_38.0		_:Specimen 10		
+data/VPP/frames/TS_0010_039_-38.0.tif	39525978	http://bia/Image	Frames 10_039_-38.0		_:Specimen 10		
+data/VPP/frames/TS_0010_040_-40.0.tif	38976650	http://bia/Image	Frames 10_040_-40.0		_:Specimen 10		
+data/VPP/frames/TS_0010_041_40.0.tif	38675762	http://bia/Image	Frames 10_041_40.0		_:Specimen 10		
+data/VPP/frames/TS_0010_042_42.0.tif	38093040	http://bia/Image	Frames 10_042_42.0		_:Specimen 10		
+data/VPP/frames/TS_0010_043_-42.0.tif	38427934	http://bia/Image	Frames 10_043_-42.0		_:Specimen 10		
+data/VPP/frames/TS_0010_044_-44.0.tif	37754362	http://bia/Image	Frames 10_044_-44.0		_:Specimen 10		
+data/VPP/frames/TS_0010_045_44.0.tif	37427756	http://bia/Image	Frames 10_045_44.0		_:Specimen 10		
+data/VPP/frames/TS_0010_046_46.0.tif	36658136	http://bia/Image	Frames 10_046_46.0		_:Specimen 10		
+data/VPP/frames/TS_0010_047_-46.0.tif	37046086	http://bia/Image	Frames 10_047_-46.0		_:Specimen 10		
+data/VPP/frames/TS_0010_048_-48.0.tif	36305798	http://bia/Image	Frames 10_048_-48.0		_:Specimen 10		
+data/VPP/frames/TS_0010_049_48.0.tif	35857298	http://bia/Image	Frames 10_049_48.0		_:Specimen 10		
+data/VPP/frames/TS_0010_050_50.0.tif	35028530	http://bia/Image	Frames 10_050_50.0		_:Specimen 10		
+data/VPP/frames/TS_0010_051_-50.0.tif	35435842	http://bia/Image	Frames 10_051_-50.0		_:Specimen 10		
+data/VPP/frames/mdocs_ori/TS_0001.mrc.mdoc	29057						
+data/VPP/frames/mdocs_ori/TS_0002.mrc.mdoc	30007						
+data/VPP/frames/mdocs_ori/TS_0003.mrc.mdoc	29956						
+data/VPP/frames/mdocs_ori/TS_0004.mrc.mdoc	30084						
+data/VPP/frames/mdocs_ori/TS_0005.mrc.mdoc	30041						
+data/VPP/frames/mdocs_ori/TS_0006.mrc.mdoc	29998						
+data/VPP/frames/mdocs_ori/TS_0007.mrc.mdoc	30128						
+data/VPP/frames/mdocs_ori/TS_0008.mrc.mdoc	30070						
+data/VPP/frames/mdocs_ori/TS_0009.mrc.mdoc	30245						
+data/VPP/frames/mdocs_ori/TS_0010.mrc.mdoc	29885						

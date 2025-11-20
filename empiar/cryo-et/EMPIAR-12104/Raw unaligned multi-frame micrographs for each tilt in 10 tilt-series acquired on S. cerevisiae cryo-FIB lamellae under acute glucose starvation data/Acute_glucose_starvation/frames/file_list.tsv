@@ -1,576 +1,576 @@
-file_path	size_in_bytes	type	label	source_image_label	associated_annotation_method	associated_protocol
-data/Acute_glucose_starvation/frames/TS_001_00001_-0.0.tif	62089818	http://bia/Image	Starvation condition frames 01_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00002_2.0.tif	62033550	http://bia/Image	Starvation condition frames 01_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00003_-2.0.tif	62335558	http://bia/Image	Starvation condition frames 01_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00004_4.0.tif	61761616	http://bia/Image	Starvation condition frames 01_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00005_-4.0.tif	62439666	http://bia/Image	Starvation condition frames 01_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00006_6.0.tif	61587492	http://bia/Image	Starvation condition frames 01_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00007_-6.0.tif	62528392	http://bia/Image	Starvation condition frames 01_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00008_8.0.tif	61154168	http://bia/Image	Starvation condition frames 01_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00009_-8.0.tif	62645820	http://bia/Image	Starvation condition frames 01_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00010_10.0.tif	61008062	http://bia/Image	Starvation condition frames 01_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00011_-10.0.tif	62675994	http://bia/Image	Starvation condition frames 01_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00012_12.0.tif	60480938	http://bia/Image	Starvation condition frames 01_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00013_-12.0.tif	62727154	http://bia/Image	Starvation condition frames 01_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00014_14.0.tif	60313788	http://bia/Image	Starvation condition frames 01_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00015_-14.0.tif	62669020	http://bia/Image	Starvation condition frames 01_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00016_16.0.tif	59921626	http://bia/Image	Starvation condition frames 01_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00017_-16.0.tif	62464774	http://bia/Image	Starvation condition frames 01_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00018_18.0.tif	59591592	http://bia/Image	Starvation condition frames 01_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00019_-18.0.tif	62518296	http://bia/Image	Starvation condition frames 01_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00020_20.0.tif	59130140	http://bia/Image	Starvation condition frames 01_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00021_-20.0.tif	62614222	http://bia/Image	Starvation condition frames 01_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00022_22.0.tif	58248234	http://bia/Image	Starvation condition frames 01_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00023_-22.0.tif	62353976	http://bia/Image	Starvation condition frames 01_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00024_24.0.tif	57742400	http://bia/Image	Starvation condition frames 01_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00025_-24.0.tif	62256792	http://bia/Image	Starvation condition frames 01_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00026_26.0.tif	57289066	http://bia/Image	Starvation condition frames 01_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00027_-26.0.tif	62102916	http://bia/Image	Starvation condition frames 01_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00028_28.0.tif	56396616	http://bia/Image	Starvation condition frames 01_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00029_-28.0.tif	61926070	http://bia/Image	Starvation condition frames 01_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00030_30.0.tif	55699008	http://bia/Image	Starvation condition frames 01_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00031_-30.0.tif	61803420	http://bia/Image	Starvation condition frames 01_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00032_32.0.tif	54521102	http://bia/Image	Starvation condition frames 01_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00033_-32.0.tif	61640310	http://bia/Image	Starvation condition frames 01_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00034_34.0.tif	53956992	http://bia/Image	Starvation condition frames 01_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00035_-34.0.tif	61413354	http://bia/Image	Starvation condition frames 01_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00036_36.0.tif	53030890	http://bia/Image	Starvation condition frames 01_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00037_-36.0.tif	61079494	http://bia/Image	Starvation condition frames 01_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00038_38.0.tif	51828156	http://bia/Image	Starvation condition frames 01_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00039_-38.0.tif	60761928	http://bia/Image	Starvation condition frames 01_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00040_40.0.tif	50197308	http://bia/Image	Starvation condition frames 01_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00041_-40.0.tif	60292998	http://bia/Image	Starvation condition frames 01_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00042_42.0.tif	49222358	http://bia/Image	Starvation condition frames 01_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00043_-42.0.tif	60025318	http://bia/Image	Starvation condition frames 01_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00044_44.0.tif	47593370	http://bia/Image	Starvation condition frames 01_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00045_-44.0.tif	59574790	http://bia/Image	Starvation condition frames 01_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00046_46.0.tif	45710432	http://bia/Image	Starvation condition frames 01_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00047_-46.0.tif	59146024	http://bia/Image	Starvation condition frames 01_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00048_48.0.tif	43833722	http://bia/Image	Starvation condition frames 01_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00049_-48.0.tif	58308184	http://bia/Image	Starvation condition frames 01_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00050_50.0.tif	41656644	http://bia/Image	Starvation condition frames 01_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00051_-50.0.tif	57979422	http://bia/Image	Starvation condition frames 01_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00052_52.0.tif	39153418	http://bia/Image	Starvation condition frames 01_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00053_-52.0.tif	57404638	http://bia/Image	Starvation condition frames 01_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00054_54.0.tif	36214540	http://bia/Image	Starvation condition frames 01_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00055_-54.0.tif	56649480	http://bia/Image	Starvation condition frames 01_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00056_56.0.tif	33267118	http://bia/Image	Starvation condition frames 01_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00057_-56.0.tif	55910600	http://bia/Image	Starvation condition frames 01_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00058_58.0.tif	29726444	http://bia/Image	Starvation condition frames 01_00058_58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00059_-58.0.tif	55012510	http://bia/Image	Starvation condition frames 01_00059_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00060_-60.0.tif	53931004	http://bia/Image	Starvation condition frames 01_00060_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00061_-62.0.tif	53060230	http://bia/Image	Starvation condition frames 01_00061_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_001_00062_-64.0.tif	51851470	http://bia/Image	Starvation condition frames 01_00062_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00001_-0.0.tif	60249722	http://bia/Image	Starvation condition frames 02_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00002_2.0.tif	60020500	http://bia/Image	Starvation condition frames 02_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00003_-2.0.tif	60406838	http://bia/Image	Starvation condition frames 02_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00004_4.0.tif	59806288	http://bia/Image	Starvation condition frames 02_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00005_-4.0.tif	60576474	http://bia/Image	Starvation condition frames 02_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00006_6.0.tif	59583360	http://bia/Image	Starvation condition frames 02_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00007_-6.0.tif	60685506	http://bia/Image	Starvation condition frames 02_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00008_8.0.tif	59261710	http://bia/Image	Starvation condition frames 02_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00009_-8.0.tif	60749074	http://bia/Image	Starvation condition frames 02_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00010_10.0.tif	58928470	http://bia/Image	Starvation condition frames 02_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00011_-10.0.tif	60778586	http://bia/Image	Starvation condition frames 02_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00012_12.0.tif	58543354	http://bia/Image	Starvation condition frames 02_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00013_-12.0.tif	60863796	http://bia/Image	Starvation condition frames 02_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00014_14.0.tif	58157974	http://bia/Image	Starvation condition frames 02_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00015_-14.0.tif	60840844	http://bia/Image	Starvation condition frames 02_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00016_16.0.tif	57713022	http://bia/Image	Starvation condition frames 02_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00017_-16.0.tif	60872496	http://bia/Image	Starvation condition frames 02_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00018_18.0.tif	57218184	http://bia/Image	Starvation condition frames 02_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00019_-18.0.tif	60820718	http://bia/Image	Starvation condition frames 02_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00020_20.0.tif	56674296	http://bia/Image	Starvation condition frames 02_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00021_-20.0.tif	60734692	http://bia/Image	Starvation condition frames 02_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00022_22.0.tif	56070874	http://bia/Image	Starvation condition frames 02_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_002_00023_-22.0.tif	60630876	http://bia/Image	Starvation condition frames 02_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00001_-0.0.tif	62021290	http://bia/Image	Starvation condition frames 03_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00002_2.0.tif	61817518	http://bia/Image	Starvation condition frames 03_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00003_-2.0.tif	62139242	http://bia/Image	Starvation condition frames 03_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00004_4.0.tif	61629954	http://bia/Image	Starvation condition frames 03_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00005_-4.0.tif	62266548	http://bia/Image	Starvation condition frames 03_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00006_6.0.tif	61408266	http://bia/Image	Starvation condition frames 03_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00007_-6.0.tif	62384014	http://bia/Image	Starvation condition frames 03_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00008_8.0.tif	61147168	http://bia/Image	Starvation condition frames 03_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00009_-8.0.tif	62468708	http://bia/Image	Starvation condition frames 03_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00010_10.0.tif	60875588	http://bia/Image	Starvation condition frames 03_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00011_-10.0.tif	62503296	http://bia/Image	Starvation condition frames 03_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00012_12.0.tif	60537288	http://bia/Image	Starvation condition frames 03_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00013_-12.0.tif	62541056	http://bia/Image	Starvation condition frames 03_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00014_14.0.tif	60177342	http://bia/Image	Starvation condition frames 03_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00015_-14.0.tif	62468460	http://bia/Image	Starvation condition frames 03_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00016_16.0.tif	59739290	http://bia/Image	Starvation condition frames 03_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00017_-16.0.tif	62487420	http://bia/Image	Starvation condition frames 03_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00018_18.0.tif	59329068	http://bia/Image	Starvation condition frames 03_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00019_-18.0.tif	62454238	http://bia/Image	Starvation condition frames 03_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00020_20.0.tif	58854166	http://bia/Image	Starvation condition frames 03_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00021_-20.0.tif	62402808	http://bia/Image	Starvation condition frames 03_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00022_22.0.tif	58329414	http://bia/Image	Starvation condition frames 03_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00023_-22.0.tif	62324752	http://bia/Image	Starvation condition frames 03_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00024_24.0.tif	57676948	http://bia/Image	Starvation condition frames 03_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00025_-24.0.tif	62197236	http://bia/Image	Starvation condition frames 03_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00026_26.0.tif	56984304	http://bia/Image	Starvation condition frames 03_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00027_-26.0.tif	62053190	http://bia/Image	Starvation condition frames 03_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00028_28.0.tif	56333460	http://bia/Image	Starvation condition frames 03_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00029_-28.0.tif	61879010	http://bia/Image	Starvation condition frames 03_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00030_30.0.tif	55568524	http://bia/Image	Starvation condition frames 03_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00031_-30.0.tif	61699576	http://bia/Image	Starvation condition frames 03_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00032_32.0.tif	54719162	http://bia/Image	Starvation condition frames 03_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00033_-32.0.tif	61416658	http://bia/Image	Starvation condition frames 03_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00034_34.0.tif	53725450	http://bia/Image	Starvation condition frames 03_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00035_-34.0.tif	61261004	http://bia/Image	Starvation condition frames 03_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00036_36.0.tif	52653910	http://bia/Image	Starvation condition frames 03_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00037_-36.0.tif	60950690	http://bia/Image	Starvation condition frames 03_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00038_38.0.tif	51541236	http://bia/Image	Starvation condition frames 03_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00039_-38.0.tif	60644596	http://bia/Image	Starvation condition frames 03_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00040_40.0.tif	50076766	http://bia/Image	Starvation condition frames 03_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00041_-40.0.tif	60296534	http://bia/Image	Starvation condition frames 03_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00042_42.0.tif	48704988	http://bia/Image	Starvation condition frames 03_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00043_-42.0.tif	59864494	http://bia/Image	Starvation condition frames 03_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00044_44.0.tif	47019370	http://bia/Image	Starvation condition frames 03_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00045_-44.0.tif	59471080	http://bia/Image	Starvation condition frames 03_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00046_46.0.tif	45284922	http://bia/Image	Starvation condition frames 03_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00047_-46.0.tif	58912582	http://bia/Image	Starvation condition frames 03_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00048_48.0.tif	43106876	http://bia/Image	Starvation condition frames 03_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00049_-48.0.tif	58389158	http://bia/Image	Starvation condition frames 03_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00050_50.0.tif	40942540	http://bia/Image	Starvation condition frames 03_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00051_-50.0.tif	57811924	http://bia/Image	Starvation condition frames 03_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00052_52.0.tif	38314230	http://bia/Image	Starvation condition frames 03_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00053_-52.0.tif	57064678	http://bia/Image	Starvation condition frames 03_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00054_54.0.tif	35515444	http://bia/Image	Starvation condition frames 03_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00055_-54.0.tif	56434718	http://bia/Image	Starvation condition frames 03_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00056_56.0.tif	32352694	http://bia/Image	Starvation condition frames 03_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00057_-56.0.tif	55653128	http://bia/Image	Starvation condition frames 03_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00058_-58.0.tif	54737964	http://bia/Image	Starvation condition frames 03_00058_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00059_-60.0.tif	53760994	http://bia/Image	Starvation condition frames 03_00059_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00060_-62.0.tif	52708840	http://bia/Image	Starvation condition frames 03_00060_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_003_00061_-64.0.tif	51505698	http://bia/Image	Starvation condition frames 03_00061_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00001_-0.0.tif	62930966	http://bia/Image	Starvation condition frames 04_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00002_2.0.tif	62747802	http://bia/Image	Starvation condition frames 04_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00003_-2.0.tif	63062744	http://bia/Image	Starvation condition frames 04_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00004_4.0.tif	62565794	http://bia/Image	Starvation condition frames 04_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00005_-4.0.tif	63207426	http://bia/Image	Starvation condition frames 04_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00006_6.0.tif	62370948	http://bia/Image	Starvation condition frames 04_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00007_-6.0.tif	63329106	http://bia/Image	Starvation condition frames 04_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00008_8.0.tif	62137294	http://bia/Image	Starvation condition frames 04_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00009_-8.0.tif	63365808	http://bia/Image	Starvation condition frames 04_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00010_10.0.tif	61859818	http://bia/Image	Starvation condition frames 04_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00011_-10.0.tif	63477312	http://bia/Image	Starvation condition frames 04_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00012_12.0.tif	61608612	http://bia/Image	Starvation condition frames 04_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00013_-12.0.tif	63482552	http://bia/Image	Starvation condition frames 04_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00014_14.0.tif	61233500	http://bia/Image	Starvation condition frames 04_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00015_-14.0.tif	63478580	http://bia/Image	Starvation condition frames 04_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00016_16.0.tif	60869004	http://bia/Image	Starvation condition frames 04_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00017_-16.0.tif	63442012	http://bia/Image	Starvation condition frames 04_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00018_18.0.tif	60422820	http://bia/Image	Starvation condition frames 04_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00019_-18.0.tif	63377902	http://bia/Image	Starvation condition frames 04_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00020_20.0.tif	59979510	http://bia/Image	Starvation condition frames 04_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00021_-20.0.tif	63343592	http://bia/Image	Starvation condition frames 04_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00022_22.0.tif	59461918	http://bia/Image	Starvation condition frames 04_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00023_-22.0.tif	63234804	http://bia/Image	Starvation condition frames 04_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00024_24.0.tif	58875834	http://bia/Image	Starvation condition frames 04_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00025_-24.0.tif	63134636	http://bia/Image	Starvation condition frames 04_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00026_26.0.tif	58313268	http://bia/Image	Starvation condition frames 04_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00027_-26.0.tif	62971190	http://bia/Image	Starvation condition frames 04_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00028_28.0.tif	57574150	http://bia/Image	Starvation condition frames 04_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00029_-28.0.tif	62826418	http://bia/Image	Starvation condition frames 04_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00030_30.0.tif	56805560	http://bia/Image	Starvation condition frames 04_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00031_-30.0.tif	62635424	http://bia/Image	Starvation condition frames 04_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00032_32.0.tif	55999962	http://bia/Image	Starvation condition frames 04_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00033_-32.0.tif	62409128	http://bia/Image	Starvation condition frames 04_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00034_34.0.tif	55032330	http://bia/Image	Starvation condition frames 04_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00035_-34.0.tif	62175544	http://bia/Image	Starvation condition frames 04_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00036_36.0.tif	54024566	http://bia/Image	Starvation condition frames 04_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00037_-36.0.tif	61902610	http://bia/Image	Starvation condition frames 04_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00038_38.0.tif	52880184	http://bia/Image	Starvation condition frames 04_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00039_-38.0.tif	61576872	http://bia/Image	Starvation condition frames 04_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00040_40.0.tif	51595950	http://bia/Image	Starvation condition frames 04_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00041_-40.0.tif	61237580	http://bia/Image	Starvation condition frames 04_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00042_42.0.tif	50223984	http://bia/Image	Starvation condition frames 04_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00043_-42.0.tif	60854696	http://bia/Image	Starvation condition frames 04_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00044_44.0.tif	48631668	http://bia/Image	Starvation condition frames 04_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00045_-44.0.tif	60445624	http://bia/Image	Starvation condition frames 04_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00046_46.0.tif	46876048	http://bia/Image	Starvation condition frames 04_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00047_-46.0.tif	59975022	http://bia/Image	Starvation condition frames 04_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00048_48.0.tif	44863136	http://bia/Image	Starvation condition frames 04_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00049_-48.0.tif	59512390	http://bia/Image	Starvation condition frames 04_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00050_50.0.tif	42596206	http://bia/Image	Starvation condition frames 04_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00051_-50.0.tif	58944124	http://bia/Image	Starvation condition frames 04_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00052_52.0.tif	39997248	http://bia/Image	Starvation condition frames 04_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00053_-52.0.tif	58320068	http://bia/Image	Starvation condition frames 04_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00054_54.0.tif	36908688	http://bia/Image	Starvation condition frames 04_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00055_-54.0.tif	57628430	http://bia/Image	Starvation condition frames 04_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00056_56.0.tif	33466570	http://bia/Image	Starvation condition frames 04_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00057_-56.0.tif	56911588	http://bia/Image	Starvation condition frames 04_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00058_58.0.tif	29693006	http://bia/Image	Starvation condition frames 04_00058_58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00059_-58.0.tif	56137470	http://bia/Image	Starvation condition frames 04_00059_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00060_60.0.tif	25420090	http://bia/Image	Starvation condition frames 04_00060_60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00061_-60.0.tif	55314858	http://bia/Image	Starvation condition frames 04_00061_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00062_-62.0.tif	54300592	http://bia/Image	Starvation condition frames 04_00062_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_004_00063_-64.0.tif	53128296	http://bia/Image	Starvation condition frames 04_00063_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00001_-0.0.tif	58287646	http://bia/Image	Starvation condition frames 07_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00002_2.0.tif	58061448	http://bia/Image	Starvation condition frames 07_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00003_-2.0.tif	58450194	http://bia/Image	Starvation condition frames 07_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00004_4.0.tif	57773936	http://bia/Image	Starvation condition frames 07_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00005_-4.0.tif	58618202	http://bia/Image	Starvation condition frames 07_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00006_6.0.tif	57556122	http://bia/Image	Starvation condition frames 07_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00007_-6.0.tif	58734424	http://bia/Image	Starvation condition frames 07_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00008_8.0.tif	57226484	http://bia/Image	Starvation condition frames 07_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00009_-8.0.tif	58843270	http://bia/Image	Starvation condition frames 07_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00010_10.0.tif	56868008	http://bia/Image	Starvation condition frames 07_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00011_-10.0.tif	58925176	http://bia/Image	Starvation condition frames 07_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00012_12.0.tif	56437694	http://bia/Image	Starvation condition frames 07_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00013_-12.0.tif	58964870	http://bia/Image	Starvation condition frames 07_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00014_14.0.tif	56019288	http://bia/Image	Starvation condition frames 07_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00015_-14.0.tif	58999166	http://bia/Image	Starvation condition frames 07_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00016_16.0.tif	55515302	http://bia/Image	Starvation condition frames 07_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00017_-16.0.tif	58992476	http://bia/Image	Starvation condition frames 07_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00018_18.0.tif	54942972	http://bia/Image	Starvation condition frames 07_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00019_-18.0.tif	58911468	http://bia/Image	Starvation condition frames 07_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00020_20.0.tif	54382566	http://bia/Image	Starvation condition frames 07_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00021_-20.0.tif	58905586	http://bia/Image	Starvation condition frames 07_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00022_22.0.tif	53678592	http://bia/Image	Starvation condition frames 07_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00023_-22.0.tif	58828898	http://bia/Image	Starvation condition frames 07_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00024_24.0.tif	52969136	http://bia/Image	Starvation condition frames 07_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00025_-24.0.tif	58682504	http://bia/Image	Starvation condition frames 07_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00026_26.0.tif	52158152	http://bia/Image	Starvation condition frames 07_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00027_-26.0.tif	58528846	http://bia/Image	Starvation condition frames 07_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00028_28.0.tif	51323016	http://bia/Image	Starvation condition frames 07_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00029_-28.0.tif	58370060	http://bia/Image	Starvation condition frames 07_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00030_30.0.tif	50357458	http://bia/Image	Starvation condition frames 07_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00031_-30.0.tif	58171438	http://bia/Image	Starvation condition frames 07_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00032_32.0.tif	49302924	http://bia/Image	Starvation condition frames 07_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00033_-32.0.tif	57939024	http://bia/Image	Starvation condition frames 07_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00034_34.0.tif	48214018	http://bia/Image	Starvation condition frames 07_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00035_-34.0.tif	57696954	http://bia/Image	Starvation condition frames 07_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00036_36.0.tif	46891856	http://bia/Image	Starvation condition frames 07_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00037_-36.0.tif	57338790	http://bia/Image	Starvation condition frames 07_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00038_38.0.tif	45448054	http://bia/Image	Starvation condition frames 07_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00039_-38.0.tif	57004882	http://bia/Image	Starvation condition frames 07_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00040_40.0.tif	43927022	http://bia/Image	Starvation condition frames 07_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00041_-40.0.tif	56593760	http://bia/Image	Starvation condition frames 07_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00042_42.0.tif	42189374	http://bia/Image	Starvation condition frames 07_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00043_-42.0.tif	56096994	http://bia/Image	Starvation condition frames 07_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00044_44.0.tif	40311914	http://bia/Image	Starvation condition frames 07_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00045_-44.0.tif	55683474	http://bia/Image	Starvation condition frames 07_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00046_46.0.tif	38239470	http://bia/Image	Starvation condition frames 07_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00047_-46.0.tif	55165360	http://bia/Image	Starvation condition frames 07_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00048_48.0.tif	35955840	http://bia/Image	Starvation condition frames 07_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00049_-48.0.tif	54584112	http://bia/Image	Starvation condition frames 07_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00050_50.0.tif	33592336	http://bia/Image	Starvation condition frames 07_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00051_-50.0.tif	53949644	http://bia/Image	Starvation condition frames 07_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00052_52.0.tif	31139304	http://bia/Image	Starvation condition frames 07_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00053_-52.0.tif	53212040	http://bia/Image	Starvation condition frames 07_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00054_54.0.tif	28389046	http://bia/Image	Starvation condition frames 07_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00055_-54.0.tif	52366682	http://bia/Image	Starvation condition frames 07_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00056_56.0.tif	25527706	http://bia/Image	Starvation condition frames 07_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00057_-56.0.tif	51466714	http://bia/Image	Starvation condition frames 07_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00058_-58.0.tif	50468204	http://bia/Image	Starvation condition frames 07_00058_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00059_-60.0.tif	49445752	http://bia/Image	Starvation condition frames 07_00059_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00060_-62.0.tif	48198532	http://bia/Image	Starvation condition frames 07_00060_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_007_00061_-64.0.tif	44574512	http://bia/Image	Starvation condition frames 07_00061_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00001_-0.0.tif	60620680	http://bia/Image	Starvation condition frames 08_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00002_2.0.tif	60409990	http://bia/Image	Starvation condition frames 08_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00003_-2.0.tif	60812150	http://bia/Image	Starvation condition frames 08_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00004_4.0.tif	60165522	http://bia/Image	Starvation condition frames 08_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00005_-4.0.tif	60949378	http://bia/Image	Starvation condition frames 08_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00006_6.0.tif	59952288	http://bia/Image	Starvation condition frames 08_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00007_-6.0.tif	61077622	http://bia/Image	Starvation condition frames 08_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00008_8.0.tif	59691110	http://bia/Image	Starvation condition frames 08_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00009_-8.0.tif	61158948	http://bia/Image	Starvation condition frames 08_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00010_10.0.tif	59346996	http://bia/Image	Starvation condition frames 08_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00011_-10.0.tif	61267906	http://bia/Image	Starvation condition frames 08_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00012_12.0.tif	58988258	http://bia/Image	Starvation condition frames 08_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00013_-12.0.tif	61297682	http://bia/Image	Starvation condition frames 08_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00014_14.0.tif	58577032	http://bia/Image	Starvation condition frames 08_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00015_-14.0.tif	61325080	http://bia/Image	Starvation condition frames 08_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00016_16.0.tif	58177056	http://bia/Image	Starvation condition frames 08_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00017_-16.0.tif	61280620	http://bia/Image	Starvation condition frames 08_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00018_18.0.tif	57633170	http://bia/Image	Starvation condition frames 08_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00019_-18.0.tif	61293014	http://bia/Image	Starvation condition frames 08_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00020_20.0.tif	57141694	http://bia/Image	Starvation condition frames 08_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00021_-20.0.tif	61209442	http://bia/Image	Starvation condition frames 08_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00022_22.0.tif	56539512	http://bia/Image	Starvation condition frames 08_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00023_-22.0.tif	61091006	http://bia/Image	Starvation condition frames 08_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00024_24.0.tif	55903356	http://bia/Image	Starvation condition frames 08_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00025_-24.0.tif	60986736	http://bia/Image	Starvation condition frames 08_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00026_26.0.tif	55167934	http://bia/Image	Starvation condition frames 08_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00027_-26.0.tif	60867404	http://bia/Image	Starvation condition frames 08_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00028_28.0.tif	54418770	http://bia/Image	Starvation condition frames 08_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00029_-28.0.tif	60725938	http://bia/Image	Starvation condition frames 08_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00030_30.0.tif	53525536	http://bia/Image	Starvation condition frames 08_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00031_-30.0.tif	60505732	http://bia/Image	Starvation condition frames 08_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00032_32.0.tif	52547200	http://bia/Image	Starvation condition frames 08_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00033_-32.0.tif	60244282	http://bia/Image	Starvation condition frames 08_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00034_34.0.tif	51579322	http://bia/Image	Starvation condition frames 08_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00035_-34.0.tif	60030796	http://bia/Image	Starvation condition frames 08_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00036_36.0.tif	50416086	http://bia/Image	Starvation condition frames 08_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00037_-36.0.tif	59723496	http://bia/Image	Starvation condition frames 08_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00038_38.0.tif	49081850	http://bia/Image	Starvation condition frames 08_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00039_-38.0.tif	59404176	http://bia/Image	Starvation condition frames 08_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00040_40.0.tif	47650660	http://bia/Image	Starvation condition frames 08_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00041_-40.0.tif	59049004	http://bia/Image	Starvation condition frames 08_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00042_42.0.tif	46158088	http://bia/Image	Starvation condition frames 08_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00043_-42.0.tif	58648020	http://bia/Image	Starvation condition frames 08_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00044_44.0.tif	44355582	http://bia/Image	Starvation condition frames 08_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00045_-44.0.tif	58153860	http://bia/Image	Starvation condition frames 08_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00046_46.0.tif	42354248	http://bia/Image	Starvation condition frames 08_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00047_-46.0.tif	57680436	http://bia/Image	Starvation condition frames 08_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00048_48.0.tif	40245928	http://bia/Image	Starvation condition frames 08_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00049_-48.0.tif	57130390	http://bia/Image	Starvation condition frames 08_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00050_50.0.tif	37683724	http://bia/Image	Starvation condition frames 08_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00051_-50.0.tif	56492542	http://bia/Image	Starvation condition frames 08_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00052_52.0.tif	34759760	http://bia/Image	Starvation condition frames 08_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00053_-52.0.tif	55851888	http://bia/Image	Starvation condition frames 08_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00054_54.0.tif	31534646	http://bia/Image	Starvation condition frames 08_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00055_-54.0.tif	55143054	http://bia/Image	Starvation condition frames 08_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00056_56.0.tif	28194218	http://bia/Image	Starvation condition frames 08_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00057_-56.0.tif	54358836	http://bia/Image	Starvation condition frames 08_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00058_58.0.tif	24421248	http://bia/Image	Starvation condition frames 08_00058_58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00059_-58.0.tif	53469502	http://bia/Image	Starvation condition frames 08_00059_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00060_60.0.tif	20265348	http://bia/Image	Starvation condition frames 08_00060_60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00061_-60.0.tif	52548204	http://bia/Image	Starvation condition frames 08_00061_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00062_-62.0.tif	51451106	http://bia/Image	Starvation condition frames 08_00062_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_008_00063_-64.0.tif	50153420	http://bia/Image	Starvation condition frames 08_00063_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00001_-0.0.tif	61208194	http://bia/Image	Starvation condition frames 10_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00002_2.0.tif	60871540	http://bia/Image	Starvation condition frames 10_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00003_-2.0.tif	61567270	http://bia/Image	Starvation condition frames 10_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00004_4.0.tif	60485542	http://bia/Image	Starvation condition frames 10_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00005_-4.0.tif	61829882	http://bia/Image	Starvation condition frames 10_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00006_6.0.tif	60010138	http://bia/Image	Starvation condition frames 10_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00007_-6.0.tif	62074832	http://bia/Image	Starvation condition frames 10_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00008_8.0.tif	59515130	http://bia/Image	Starvation condition frames 10_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00009_-8.0.tif	62281714	http://bia/Image	Starvation condition frames 10_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00010_10.0.tif	58999944	http://bia/Image	Starvation condition frames 10_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00011_-10.0.tif	62530586	http://bia/Image	Starvation condition frames 10_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00012_12.0.tif	58364634	http://bia/Image	Starvation condition frames 10_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00013_-12.0.tif	62665696	http://bia/Image	Starvation condition frames 10_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00014_14.0.tif	57678950	http://bia/Image	Starvation condition frames 10_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00015_-14.0.tif	62787226	http://bia/Image	Starvation condition frames 10_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00016_16.0.tif	56924124	http://bia/Image	Starvation condition frames 10_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00017_-16.0.tif	62916762	http://bia/Image	Starvation condition frames 10_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00018_18.0.tif	56107720	http://bia/Image	Starvation condition frames 10_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00019_-18.0.tif	63013790	http://bia/Image	Starvation condition frames 10_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00020_20.0.tif	55193534	http://bia/Image	Starvation condition frames 10_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00021_-20.0.tif	63084410	http://bia/Image	Starvation condition frames 10_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00022_22.0.tif	54260600	http://bia/Image	Starvation condition frames 10_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00023_-22.0.tif	63155424	http://bia/Image	Starvation condition frames 10_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00024_24.0.tif	53175942	http://bia/Image	Starvation condition frames 10_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00025_-24.0.tif	63179038	http://bia/Image	Starvation condition frames 10_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00026_26.0.tif	52004480	http://bia/Image	Starvation condition frames 10_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00027_-26.0.tif	63216144	http://bia/Image	Starvation condition frames 10_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00028_28.0.tif	50624468	http://bia/Image	Starvation condition frames 10_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00029_-28.0.tif	63178998	http://bia/Image	Starvation condition frames 10_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00030_30.0.tif	49299492	http://bia/Image	Starvation condition frames 10_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00031_-30.0.tif	63095182	http://bia/Image	Starvation condition frames 10_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00032_32.0.tif	47677970	http://bia/Image	Starvation condition frames 10_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00033_-32.0.tif	63057938	http://bia/Image	Starvation condition frames 10_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00034_34.0.tif	45926186	http://bia/Image	Starvation condition frames 10_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00035_-34.0.tif	62994922	http://bia/Image	Starvation condition frames 10_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00036_36.0.tif	44007534	http://bia/Image	Starvation condition frames 10_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00037_-36.0.tif	62898888	http://bia/Image	Starvation condition frames 10_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00038_38.0.tif	41905228	http://bia/Image	Starvation condition frames 10_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00039_-38.0.tif	62754820	http://bia/Image	Starvation condition frames 10_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00040_40.0.tif	39616526	http://bia/Image	Starvation condition frames 10_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00041_-40.0.tif	62591950	http://bia/Image	Starvation condition frames 10_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00042_42.0.tif	36818816	http://bia/Image	Starvation condition frames 10_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00043_-42.0.tif	62329588	http://bia/Image	Starvation condition frames 10_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00044_44.0.tif	34191166	http://bia/Image	Starvation condition frames 10_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00045_-44.0.tif	61154342	http://bia/Image	Starvation condition frames 10_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00046_46.0.tif	31753098	http://bia/Image	Starvation condition frames 10_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00047_-46.0.tif	58582144	http://bia/Image	Starvation condition frames 10_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_010_00048_48.0.tif	28897256	http://bia/Image	Starvation condition frames 10_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00001_-0.0.tif	65072564	http://bia/Image	Starvation condition frames 14_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00002_2.0.tif	64903548	http://bia/Image	Starvation condition frames 14_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00003_-2.0.tif	65254108	http://bia/Image	Starvation condition frames 14_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00004_4.0.tif	64708264	http://bia/Image	Starvation condition frames 14_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00005_-4.0.tif	65350250	http://bia/Image	Starvation condition frames 14_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00006_6.0.tif	64493964	http://bia/Image	Starvation condition frames 14_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00007_-6.0.tif	65460148	http://bia/Image	Starvation condition frames 14_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00008_8.0.tif	64264532	http://bia/Image	Starvation condition frames 14_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00009_-8.0.tif	65652030	http://bia/Image	Starvation condition frames 14_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00010_10.0.tif	64002154	http://bia/Image	Starvation condition frames 14_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00011_-10.0.tif	65603690	http://bia/Image	Starvation condition frames 14_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00012_12.0.tif	63486794	http://bia/Image	Starvation condition frames 14_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00013_-12.0.tif	65659590	http://bia/Image	Starvation condition frames 14_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00014_14.0.tif	63401536	http://bia/Image	Starvation condition frames 14_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00015_-14.0.tif	65708640	http://bia/Image	Starvation condition frames 14_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00016_16.0.tif	62824816	http://bia/Image	Starvation condition frames 14_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00017_-16.0.tif	65689068	http://bia/Image	Starvation condition frames 14_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00018_18.0.tif	62364296	http://bia/Image	Starvation condition frames 14_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00019_-18.0.tif	65842940	http://bia/Image	Starvation condition frames 14_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00020_20.0.tif	62033880	http://bia/Image	Starvation condition frames 14_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00021_-20.0.tif	65640370	http://bia/Image	Starvation condition frames 14_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00022_22.0.tif	61747204	http://bia/Image	Starvation condition frames 14_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00023_-22.0.tif	65597370	http://bia/Image	Starvation condition frames 14_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00024_24.0.tif	61243938	http://bia/Image	Starvation condition frames 14_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00025_-24.0.tif	65527488	http://bia/Image	Starvation condition frames 14_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00026_26.0.tif	60635240	http://bia/Image	Starvation condition frames 14_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00027_-26.0.tif	65404728	http://bia/Image	Starvation condition frames 14_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00028_28.0.tif	60154882	http://bia/Image	Starvation condition frames 14_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00029_-28.0.tif	65412616	http://bia/Image	Starvation condition frames 14_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00030_30.0.tif	59480932	http://bia/Image	Starvation condition frames 14_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00031_-30.0.tif	65324162	http://bia/Image	Starvation condition frames 14_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00032_32.0.tif	58770184	http://bia/Image	Starvation condition frames 14_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00033_-32.0.tif	65180128	http://bia/Image	Starvation condition frames 14_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00034_34.0.tif	57912396	http://bia/Image	Starvation condition frames 14_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00035_-34.0.tif	65027138	http://bia/Image	Starvation condition frames 14_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00036_36.0.tif	57033412	http://bia/Image	Starvation condition frames 14_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00037_-36.0.tif	64816872	http://bia/Image	Starvation condition frames 14_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00038_38.0.tif	56025650	http://bia/Image	Starvation condition frames 14_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00039_-38.0.tif	64605250	http://bia/Image	Starvation condition frames 14_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00040_40.0.tif	54861298	http://bia/Image	Starvation condition frames 14_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00041_-40.0.tif	64338426	http://bia/Image	Starvation condition frames 14_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00042_42.0.tif	53542202	http://bia/Image	Starvation condition frames 14_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00043_-42.0.tif	64024696	http://bia/Image	Starvation condition frames 14_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00044_44.0.tif	52125818	http://bia/Image	Starvation condition frames 14_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00045_-44.0.tif	63740998	http://bia/Image	Starvation condition frames 14_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00046_46.0.tif	50538976	http://bia/Image	Starvation condition frames 14_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00047_-46.0.tif	63389076	http://bia/Image	Starvation condition frames 14_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00048_48.0.tif	48706286	http://bia/Image	Starvation condition frames 14_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00049_-48.0.tif	63012232	http://bia/Image	Starvation condition frames 14_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00050_50.0.tif	46623018	http://bia/Image	Starvation condition frames 14_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00051_-50.0.tif	62583400	http://bia/Image	Starvation condition frames 14_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00052_52.0.tif	44317942	http://bia/Image	Starvation condition frames 14_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00053_-52.0.tif	62140348	http://bia/Image	Starvation condition frames 14_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00054_54.0.tif	41599878	http://bia/Image	Starvation condition frames 14_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00055_-54.0.tif	61628146	http://bia/Image	Starvation condition frames 14_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00056_56.0.tif	38360968	http://bia/Image	Starvation condition frames 14_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00057_-56.0.tif	61001834	http://bia/Image	Starvation condition frames 14_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00058_58.0.tif	34556016	http://bia/Image	Starvation condition frames 14_00058_58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00059_-58.0.tif	60428246	http://bia/Image	Starvation condition frames 14_00059_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00060_-60.0.tif	59716270	http://bia/Image	Starvation condition frames 14_00060_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00061_-62.0.tif	58888988	http://bia/Image	Starvation condition frames 14_00061_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_014_00062_-64.0.tif	57940114	http://bia/Image	Starvation condition frames 14_00062_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00001_-0.0.tif	63559466	http://bia/Image	Starvation condition frames 17_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00002_2.0.tif	63473282	http://bia/Image	Starvation condition frames 17_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00003_-2.0.tif	63689726	http://bia/Image	Starvation condition frames 17_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00004_4.0.tif	63347670	http://bia/Image	Starvation condition frames 17_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00005_-4.0.tif	63761690	http://bia/Image	Starvation condition frames 17_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00006_6.0.tif	63201126	http://bia/Image	Starvation condition frames 17_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00007_-6.0.tif	63826738	http://bia/Image	Starvation condition frames 17_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00008_8.0.tif	63039484	http://bia/Image	Starvation condition frames 17_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00009_-8.0.tif	63832118	http://bia/Image	Starvation condition frames 17_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00010_10.0.tif	62846712	http://bia/Image	Starvation condition frames 17_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00011_-10.0.tif	63855642	http://bia/Image	Starvation condition frames 17_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00012_12.0.tif	62592978	http://bia/Image	Starvation condition frames 17_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00013_-12.0.tif	63778988	http://bia/Image	Starvation condition frames 17_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00014_14.0.tif	62356050	http://bia/Image	Starvation condition frames 17_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00015_-14.0.tif	63761766	http://bia/Image	Starvation condition frames 17_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00016_16.0.tif	62104478	http://bia/Image	Starvation condition frames 17_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00017_-16.0.tif	63716958	http://bia/Image	Starvation condition frames 17_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00018_18.0.tif	61744668	http://bia/Image	Starvation condition frames 17_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00019_-18.0.tif	63634506	http://bia/Image	Starvation condition frames 17_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00020_20.0.tif	61415634	http://bia/Image	Starvation condition frames 17_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00021_-20.0.tif	63493300	http://bia/Image	Starvation condition frames 17_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00022_22.0.tif	61030262	http://bia/Image	Starvation condition frames 17_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00023_-22.0.tif	63332516	http://bia/Image	Starvation condition frames 17_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00024_24.0.tif	60609922	http://bia/Image	Starvation condition frames 17_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00025_-24.0.tif	63159778	http://bia/Image	Starvation condition frames 17_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00026_26.0.tif	60127522	http://bia/Image	Starvation condition frames 17_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00027_-26.0.tif	62934586	http://bia/Image	Starvation condition frames 17_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00028_28.0.tif	59628036	http://bia/Image	Starvation condition frames 17_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00029_-28.0.tif	62752704	http://bia/Image	Starvation condition frames 17_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00030_30.0.tif	59080926	http://bia/Image	Starvation condition frames 17_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00031_-30.0.tif	62466112	http://bia/Image	Starvation condition frames 17_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00032_32.0.tif	58397526	http://bia/Image	Starvation condition frames 17_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00033_-32.0.tif	62185800	http://bia/Image	Starvation condition frames 17_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00034_34.0.tif	57751378	http://bia/Image	Starvation condition frames 17_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00035_-34.0.tif	61838706	http://bia/Image	Starvation condition frames 17_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00036_36.0.tif	56940728	http://bia/Image	Starvation condition frames 17_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00037_-36.0.tif	61469908	http://bia/Image	Starvation condition frames 17_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00038_38.0.tif	56083660	http://bia/Image	Starvation condition frames 17_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00039_-38.0.tif	61073622	http://bia/Image	Starvation condition frames 17_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00040_40.0.tif	55123710	http://bia/Image	Starvation condition frames 17_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00041_-40.0.tif	60668246	http://bia/Image	Starvation condition frames 17_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00042_42.0.tif	54061152	http://bia/Image	Starvation condition frames 17_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00043_-42.0.tif	60121894	http://bia/Image	Starvation condition frames 17_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00044_44.0.tif	52885098	http://bia/Image	Starvation condition frames 17_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00045_-44.0.tif	59527974	http://bia/Image	Starvation condition frames 17_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00046_46.0.tif	51489066	http://bia/Image	Starvation condition frames 17_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00047_-46.0.tif	58815894	http://bia/Image	Starvation condition frames 17_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00048_48.0.tif	49988990	http://bia/Image	Starvation condition frames 17_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00049_-48.0.tif	58258974	http://bia/Image	Starvation condition frames 17_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00050_50.0.tif	48293578	http://bia/Image	Starvation condition frames 17_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00051_-50.0.tif	57463764	http://bia/Image	Starvation condition frames 17_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00052_52.0.tif	46176504	http://bia/Image	Starvation condition frames 17_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00053_-52.0.tif	56576458	http://bia/Image	Starvation condition frames 17_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00054_54.0.tif	38327584	http://bia/Image	Starvation condition frames 17_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00055_-54.0.tif	55618876	http://bia/Image	Starvation condition frames 17_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00056_56.0.tif	21307830	http://bia/Image	Starvation condition frames 17_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00057_-56.0.tif	54552630	http://bia/Image	Starvation condition frames 17_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00058_-58.0.tif	53454384	http://bia/Image	Starvation condition frames 17_00058_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00059_-60.0.tif	51967504	http://bia/Image	Starvation condition frames 17_00059_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00060_-62.0.tif	50545222	http://bia/Image	Starvation condition frames 17_00060_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_017_00061_-64.0.tif	48855636	http://bia/Image	Starvation condition frames 17_00061_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00001_-0.0.tif	60476040	http://bia/Image	Starvation condition frames 18_00001_-0.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00002_2.0.tif	60228170	http://bia/Image	Starvation condition frames 18_00002_2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00003_-2.0.tif	60621664	http://bia/Image	Starvation condition frames 18_00003_-2.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00004_4.0.tif	60097400	http://bia/Image	Starvation condition frames 18_00004_4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00005_-4.0.tif	60743550	http://bia/Image	Starvation condition frames 18_00005_-4.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00006_6.0.tif	59956336	http://bia/Image	Starvation condition frames 18_00006_6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00007_-6.0.tif	60760088	http://bia/Image	Starvation condition frames 18_00007_-6.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00008_8.0.tif	59679208	http://bia/Image	Starvation condition frames 18_00008_8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00009_-8.0.tif	60947276	http://bia/Image	Starvation condition frames 18_00009_-8.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00010_10.0.tif	59439046	http://bia/Image	Starvation condition frames 18_00010_10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00011_-10.0.tif	61021138	http://bia/Image	Starvation condition frames 18_00011_-10.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00012_12.0.tif	59238542	http://bia/Image	Starvation condition frames 18_00012_12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00013_-12.0.tif	61022554	http://bia/Image	Starvation condition frames 18_00013_-12.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00014_14.0.tif	58768488	http://bia/Image	Starvation condition frames 18_00014_14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00015_-14.0.tif	60989478	http://bia/Image	Starvation condition frames 18_00015_-14.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00016_16.0.tif	58429038	http://bia/Image	Starvation condition frames 18_00016_16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00017_-16.0.tif	60905934	http://bia/Image	Starvation condition frames 18_00017_-16.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00018_18.0.tif	57974636	http://bia/Image	Starvation condition frames 18_00018_18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00019_-18.0.tif	60343040	http://bia/Image	Starvation condition frames 18_00019_-18.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00020_20.0.tif	57509762	http://bia/Image	Starvation condition frames 18_00020_20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00021_-20.0.tif	61935816	http://bia/Image	Starvation condition frames 18_00021_-20.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00022_22.0.tif	57011480	http://bia/Image	Starvation condition frames 18_00022_22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00023_-22.0.tif	62120200	http://bia/Image	Starvation condition frames 18_00023_-22.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00024_24.0.tif	56552386	http://bia/Image	Starvation condition frames 18_00024_24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00025_-24.0.tif	60560762	http://bia/Image	Starvation condition frames 18_00025_-24.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00026_26.0.tif	55864214	http://bia/Image	Starvation condition frames 18_00026_26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00027_-26.0.tif	60437064	http://bia/Image	Starvation condition frames 18_00027_-26.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00028_28.0.tif	55273122	http://bia/Image	Starvation condition frames 18_00028_28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00029_-28.0.tif	60142126	http://bia/Image	Starvation condition frames 18_00029_-28.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00030_30.0.tif	54449638	http://bia/Image	Starvation condition frames 18_00030_30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00031_-30.0.tif	59881380	http://bia/Image	Starvation condition frames 18_00031_-30.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00032_32.0.tif	53548858	http://bia/Image	Starvation condition frames 18_00032_32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00033_-32.0.tif	59745036	http://bia/Image	Starvation condition frames 18_00033_-32.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00034_34.0.tif	52648016	http://bia/Image	Starvation condition frames 18_00034_34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00035_-34.0.tif	59369844	http://bia/Image	Starvation condition frames 18_00035_-34.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00036_36.0.tif	51649498	http://bia/Image	Starvation condition frames 18_00036_36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00037_-36.0.tif	59052098	http://bia/Image	Starvation condition frames 18_00037_-36.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00038_38.0.tif	52962236	http://bia/Image	Starvation condition frames 18_00038_38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00039_-38.0.tif	58677542	http://bia/Image	Starvation condition frames 18_00039_-38.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00040_40.0.tif	48948870	http://bia/Image	Starvation condition frames 18_00040_40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00041_-40.0.tif	58192472	http://bia/Image	Starvation condition frames 18_00041_-40.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00042_42.0.tif	47833588	http://bia/Image	Starvation condition frames 18_00042_42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00043_-42.0.tif	57729122	http://bia/Image	Starvation condition frames 18_00043_-42.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00044_44.0.tif	46210788	http://bia/Image	Starvation condition frames 18_00044_44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00045_-44.0.tif	57238444	http://bia/Image	Starvation condition frames 18_00045_-44.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00046_46.0.tif	44185978	http://bia/Image	Starvation condition frames 18_00046_46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00047_-46.0.tif	56092210	http://bia/Image	Starvation condition frames 18_00047_-46.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00048_48.0.tif	42337778	http://bia/Image	Starvation condition frames 18_00048_48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00049_-48.0.tif	55921154	http://bia/Image	Starvation condition frames 18_00049_-48.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00050_50.0.tif	34318482	http://bia/Image	Starvation condition frames 18_00050_50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00051_-50.0.tif	55529102	http://bia/Image	Starvation condition frames 18_00051_-50.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00052_52.0.tif	22321464	http://bia/Image	Starvation condition frames 18_00052_52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00053_-52.0.tif	54764734	http://bia/Image	Starvation condition frames 18_00053_-52.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00054_54.0.tif	26617154	http://bia/Image	Starvation condition frames 18_00054_54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00055_-54.0.tif	53817074	http://bia/Image	Starvation condition frames 18_00055_-54.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00056_56.0.tif	26849850	http://bia/Image	Starvation condition frames 18_00056_56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00057_-56.0.tif	52877090	http://bia/Image	Starvation condition frames 18_00057_-56.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00058_-58.0.tif	51741646	http://bia/Image	Starvation condition frames 18_00058_-58.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00059_-60.0.tif	50538244	http://bia/Image	Starvation condition frames 18_00059_-60.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00060_-62.0.tif	49432804	http://bia/Image	Starvation condition frames 18_00060_-62.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/TS_018_00061_-64.0.tif	47873910	http://bia/Image	Starvation condition frames 18_00061_-64.0			_:Glucose starvation condition
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_001.mrc.mdoc	52468					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_002.mrc.mdoc	19589					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_003.mrc.mdoc	51603					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_004.mrc.mdoc	53189					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_007.mrc.mdoc	51519					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_008.mrc.mdoc	53295					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_010.mrc.mdoc	40642					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_014.mrc.mdoc	52378					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_017.mrc.mdoc	50753					
-data/Acute_glucose_starvation/frames/mdocs_ori/TS_018.mrc.mdoc	51725					
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/Acute_glucose_starvation/frames/TS_001_00001_-0.0.tif	62089818	http://bia/Image	Starvation condition frames 01_00001_-0.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00002_2.0.tif	62033550	http://bia/Image	Starvation condition frames 01_00002_2.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00003_-2.0.tif	62335558	http://bia/Image	Starvation condition frames 01_00003_-2.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00004_4.0.tif	61761616	http://bia/Image	Starvation condition frames 01_00004_4.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00005_-4.0.tif	62439666	http://bia/Image	Starvation condition frames 01_00005_-4.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00006_6.0.tif	61587492	http://bia/Image	Starvation condition frames 01_00006_6.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00007_-6.0.tif	62528392	http://bia/Image	Starvation condition frames 01_00007_-6.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00008_8.0.tif	61154168	http://bia/Image	Starvation condition frames 01_00008_8.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00009_-8.0.tif	62645820	http://bia/Image	Starvation condition frames 01_00009_-8.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00010_10.0.tif	61008062	http://bia/Image	Starvation condition frames 01_00010_10.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00011_-10.0.tif	62675994	http://bia/Image	Starvation condition frames 01_00011_-10.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00012_12.0.tif	60480938	http://bia/Image	Starvation condition frames 01_00012_12.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00013_-12.0.tif	62727154	http://bia/Image	Starvation condition frames 01_00013_-12.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00014_14.0.tif	60313788	http://bia/Image	Starvation condition frames 01_00014_14.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00015_-14.0.tif	62669020	http://bia/Image	Starvation condition frames 01_00015_-14.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00016_16.0.tif	59921626	http://bia/Image	Starvation condition frames 01_00016_16.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00017_-16.0.tif	62464774	http://bia/Image	Starvation condition frames 01_00017_-16.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00018_18.0.tif	59591592	http://bia/Image	Starvation condition frames 01_00018_18.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00019_-18.0.tif	62518296	http://bia/Image	Starvation condition frames 01_00019_-18.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00020_20.0.tif	59130140	http://bia/Image	Starvation condition frames 01_00020_20.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00021_-20.0.tif	62614222	http://bia/Image	Starvation condition frames 01_00021_-20.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00022_22.0.tif	58248234	http://bia/Image	Starvation condition frames 01_00022_22.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00023_-22.0.tif	62353976	http://bia/Image	Starvation condition frames 01_00023_-22.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00024_24.0.tif	57742400	http://bia/Image	Starvation condition frames 01_00024_24.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00025_-24.0.tif	62256792	http://bia/Image	Starvation condition frames 01_00025_-24.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00026_26.0.tif	57289066	http://bia/Image	Starvation condition frames 01_00026_26.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00027_-26.0.tif	62102916	http://bia/Image	Starvation condition frames 01_00027_-26.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00028_28.0.tif	56396616	http://bia/Image	Starvation condition frames 01_00028_28.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00029_-28.0.tif	61926070	http://bia/Image	Starvation condition frames 01_00029_-28.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00030_30.0.tif	55699008	http://bia/Image	Starvation condition frames 01_00030_30.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00031_-30.0.tif	61803420	http://bia/Image	Starvation condition frames 01_00031_-30.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00032_32.0.tif	54521102	http://bia/Image	Starvation condition frames 01_00032_32.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00033_-32.0.tif	61640310	http://bia/Image	Starvation condition frames 01_00033_-32.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00034_34.0.tif	53956992	http://bia/Image	Starvation condition frames 01_00034_34.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00035_-34.0.tif	61413354	http://bia/Image	Starvation condition frames 01_00035_-34.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00036_36.0.tif	53030890	http://bia/Image	Starvation condition frames 01_00036_36.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00037_-36.0.tif	61079494	http://bia/Image	Starvation condition frames 01_00037_-36.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00038_38.0.tif	51828156	http://bia/Image	Starvation condition frames 01_00038_38.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00039_-38.0.tif	60761928	http://bia/Image	Starvation condition frames 01_00039_-38.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00040_40.0.tif	50197308	http://bia/Image	Starvation condition frames 01_00040_40.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00041_-40.0.tif	60292998	http://bia/Image	Starvation condition frames 01_00041_-40.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00042_42.0.tif	49222358	http://bia/Image	Starvation condition frames 01_00042_42.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00043_-42.0.tif	60025318	http://bia/Image	Starvation condition frames 01_00043_-42.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00044_44.0.tif	47593370	http://bia/Image	Starvation condition frames 01_00044_44.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00045_-44.0.tif	59574790	http://bia/Image	Starvation condition frames 01_00045_-44.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00046_46.0.tif	45710432	http://bia/Image	Starvation condition frames 01_00046_46.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00047_-46.0.tif	59146024	http://bia/Image	Starvation condition frames 01_00047_-46.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00048_48.0.tif	43833722	http://bia/Image	Starvation condition frames 01_00048_48.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00049_-48.0.tif	58308184	http://bia/Image	Starvation condition frames 01_00049_-48.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00050_50.0.tif	41656644	http://bia/Image	Starvation condition frames 01_00050_50.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00051_-50.0.tif	57979422	http://bia/Image	Starvation condition frames 01_00051_-50.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00052_52.0.tif	39153418	http://bia/Image	Starvation condition frames 01_00052_52.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00053_-52.0.tif	57404638	http://bia/Image	Starvation condition frames 01_00053_-52.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00054_54.0.tif	36214540	http://bia/Image	Starvation condition frames 01_00054_54.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00055_-54.0.tif	56649480	http://bia/Image	Starvation condition frames 01_00055_-54.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00056_56.0.tif	33267118	http://bia/Image	Starvation condition frames 01_00056_56.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00057_-56.0.tif	55910600	http://bia/Image	Starvation condition frames 01_00057_-56.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00058_58.0.tif	29726444	http://bia/Image	Starvation condition frames 01_00058_58.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00059_-58.0.tif	55012510	http://bia/Image	Starvation condition frames 01_00059_-58.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00060_-60.0.tif	53931004	http://bia/Image	Starvation condition frames 01_00060_-60.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00061_-62.0.tif	53060230	http://bia/Image	Starvation condition frames 01_00061_-62.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_001_00062_-64.0.tif	51851470	http://bia/Image	Starvation condition frames 01_00062_-64.0		_:Starved 01		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00001_-0.0.tif	60249722	http://bia/Image	Starvation condition frames 02_00001_-0.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00002_2.0.tif	60020500	http://bia/Image	Starvation condition frames 02_00002_2.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00003_-2.0.tif	60406838	http://bia/Image	Starvation condition frames 02_00003_-2.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00004_4.0.tif	59806288	http://bia/Image	Starvation condition frames 02_00004_4.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00005_-4.0.tif	60576474	http://bia/Image	Starvation condition frames 02_00005_-4.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00006_6.0.tif	59583360	http://bia/Image	Starvation condition frames 02_00006_6.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00007_-6.0.tif	60685506	http://bia/Image	Starvation condition frames 02_00007_-6.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00008_8.0.tif	59261710	http://bia/Image	Starvation condition frames 02_00008_8.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00009_-8.0.tif	60749074	http://bia/Image	Starvation condition frames 02_00009_-8.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00010_10.0.tif	58928470	http://bia/Image	Starvation condition frames 02_00010_10.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00011_-10.0.tif	60778586	http://bia/Image	Starvation condition frames 02_00011_-10.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00012_12.0.tif	58543354	http://bia/Image	Starvation condition frames 02_00012_12.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00013_-12.0.tif	60863796	http://bia/Image	Starvation condition frames 02_00013_-12.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00014_14.0.tif	58157974	http://bia/Image	Starvation condition frames 02_00014_14.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00015_-14.0.tif	60840844	http://bia/Image	Starvation condition frames 02_00015_-14.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00016_16.0.tif	57713022	http://bia/Image	Starvation condition frames 02_00016_16.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00017_-16.0.tif	60872496	http://bia/Image	Starvation condition frames 02_00017_-16.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00018_18.0.tif	57218184	http://bia/Image	Starvation condition frames 02_00018_18.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00019_-18.0.tif	60820718	http://bia/Image	Starvation condition frames 02_00019_-18.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00020_20.0.tif	56674296	http://bia/Image	Starvation condition frames 02_00020_20.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00021_-20.0.tif	60734692	http://bia/Image	Starvation condition frames 02_00021_-20.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00022_22.0.tif	56070874	http://bia/Image	Starvation condition frames 02_00022_22.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_002_00023_-22.0.tif	60630876	http://bia/Image	Starvation condition frames 02_00023_-22.0		_:Starved 02		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00001_-0.0.tif	62021290	http://bia/Image	Starvation condition frames 03_00001_-0.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00002_2.0.tif	61817518	http://bia/Image	Starvation condition frames 03_00002_2.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00003_-2.0.tif	62139242	http://bia/Image	Starvation condition frames 03_00003_-2.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00004_4.0.tif	61629954	http://bia/Image	Starvation condition frames 03_00004_4.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00005_-4.0.tif	62266548	http://bia/Image	Starvation condition frames 03_00005_-4.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00006_6.0.tif	61408266	http://bia/Image	Starvation condition frames 03_00006_6.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00007_-6.0.tif	62384014	http://bia/Image	Starvation condition frames 03_00007_-6.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00008_8.0.tif	61147168	http://bia/Image	Starvation condition frames 03_00008_8.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00009_-8.0.tif	62468708	http://bia/Image	Starvation condition frames 03_00009_-8.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00010_10.0.tif	60875588	http://bia/Image	Starvation condition frames 03_00010_10.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00011_-10.0.tif	62503296	http://bia/Image	Starvation condition frames 03_00011_-10.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00012_12.0.tif	60537288	http://bia/Image	Starvation condition frames 03_00012_12.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00013_-12.0.tif	62541056	http://bia/Image	Starvation condition frames 03_00013_-12.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00014_14.0.tif	60177342	http://bia/Image	Starvation condition frames 03_00014_14.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00015_-14.0.tif	62468460	http://bia/Image	Starvation condition frames 03_00015_-14.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00016_16.0.tif	59739290	http://bia/Image	Starvation condition frames 03_00016_16.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00017_-16.0.tif	62487420	http://bia/Image	Starvation condition frames 03_00017_-16.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00018_18.0.tif	59329068	http://bia/Image	Starvation condition frames 03_00018_18.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00019_-18.0.tif	62454238	http://bia/Image	Starvation condition frames 03_00019_-18.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00020_20.0.tif	58854166	http://bia/Image	Starvation condition frames 03_00020_20.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00021_-20.0.tif	62402808	http://bia/Image	Starvation condition frames 03_00021_-20.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00022_22.0.tif	58329414	http://bia/Image	Starvation condition frames 03_00022_22.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00023_-22.0.tif	62324752	http://bia/Image	Starvation condition frames 03_00023_-22.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00024_24.0.tif	57676948	http://bia/Image	Starvation condition frames 03_00024_24.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00025_-24.0.tif	62197236	http://bia/Image	Starvation condition frames 03_00025_-24.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00026_26.0.tif	56984304	http://bia/Image	Starvation condition frames 03_00026_26.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00027_-26.0.tif	62053190	http://bia/Image	Starvation condition frames 03_00027_-26.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00028_28.0.tif	56333460	http://bia/Image	Starvation condition frames 03_00028_28.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00029_-28.0.tif	61879010	http://bia/Image	Starvation condition frames 03_00029_-28.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00030_30.0.tif	55568524	http://bia/Image	Starvation condition frames 03_00030_30.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00031_-30.0.tif	61699576	http://bia/Image	Starvation condition frames 03_00031_-30.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00032_32.0.tif	54719162	http://bia/Image	Starvation condition frames 03_00032_32.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00033_-32.0.tif	61416658	http://bia/Image	Starvation condition frames 03_00033_-32.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00034_34.0.tif	53725450	http://bia/Image	Starvation condition frames 03_00034_34.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00035_-34.0.tif	61261004	http://bia/Image	Starvation condition frames 03_00035_-34.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00036_36.0.tif	52653910	http://bia/Image	Starvation condition frames 03_00036_36.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00037_-36.0.tif	60950690	http://bia/Image	Starvation condition frames 03_00037_-36.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00038_38.0.tif	51541236	http://bia/Image	Starvation condition frames 03_00038_38.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00039_-38.0.tif	60644596	http://bia/Image	Starvation condition frames 03_00039_-38.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00040_40.0.tif	50076766	http://bia/Image	Starvation condition frames 03_00040_40.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00041_-40.0.tif	60296534	http://bia/Image	Starvation condition frames 03_00041_-40.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00042_42.0.tif	48704988	http://bia/Image	Starvation condition frames 03_00042_42.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00043_-42.0.tif	59864494	http://bia/Image	Starvation condition frames 03_00043_-42.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00044_44.0.tif	47019370	http://bia/Image	Starvation condition frames 03_00044_44.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00045_-44.0.tif	59471080	http://bia/Image	Starvation condition frames 03_00045_-44.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00046_46.0.tif	45284922	http://bia/Image	Starvation condition frames 03_00046_46.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00047_-46.0.tif	58912582	http://bia/Image	Starvation condition frames 03_00047_-46.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00048_48.0.tif	43106876	http://bia/Image	Starvation condition frames 03_00048_48.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00049_-48.0.tif	58389158	http://bia/Image	Starvation condition frames 03_00049_-48.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00050_50.0.tif	40942540	http://bia/Image	Starvation condition frames 03_00050_50.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00051_-50.0.tif	57811924	http://bia/Image	Starvation condition frames 03_00051_-50.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00052_52.0.tif	38314230	http://bia/Image	Starvation condition frames 03_00052_52.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00053_-52.0.tif	57064678	http://bia/Image	Starvation condition frames 03_00053_-52.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00054_54.0.tif	35515444	http://bia/Image	Starvation condition frames 03_00054_54.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00055_-54.0.tif	56434718	http://bia/Image	Starvation condition frames 03_00055_-54.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00056_56.0.tif	32352694	http://bia/Image	Starvation condition frames 03_00056_56.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00057_-56.0.tif	55653128	http://bia/Image	Starvation condition frames 03_00057_-56.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00058_-58.0.tif	54737964	http://bia/Image	Starvation condition frames 03_00058_-58.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00059_-60.0.tif	53760994	http://bia/Image	Starvation condition frames 03_00059_-60.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00060_-62.0.tif	52708840	http://bia/Image	Starvation condition frames 03_00060_-62.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_003_00061_-64.0.tif	51505698	http://bia/Image	Starvation condition frames 03_00061_-64.0		_:Starved 03		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00001_-0.0.tif	62930966	http://bia/Image	Starvation condition frames 04_00001_-0.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00002_2.0.tif	62747802	http://bia/Image	Starvation condition frames 04_00002_2.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00003_-2.0.tif	63062744	http://bia/Image	Starvation condition frames 04_00003_-2.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00004_4.0.tif	62565794	http://bia/Image	Starvation condition frames 04_00004_4.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00005_-4.0.tif	63207426	http://bia/Image	Starvation condition frames 04_00005_-4.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00006_6.0.tif	62370948	http://bia/Image	Starvation condition frames 04_00006_6.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00007_-6.0.tif	63329106	http://bia/Image	Starvation condition frames 04_00007_-6.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00008_8.0.tif	62137294	http://bia/Image	Starvation condition frames 04_00008_8.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00009_-8.0.tif	63365808	http://bia/Image	Starvation condition frames 04_00009_-8.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00010_10.0.tif	61859818	http://bia/Image	Starvation condition frames 04_00010_10.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00011_-10.0.tif	63477312	http://bia/Image	Starvation condition frames 04_00011_-10.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00012_12.0.tif	61608612	http://bia/Image	Starvation condition frames 04_00012_12.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00013_-12.0.tif	63482552	http://bia/Image	Starvation condition frames 04_00013_-12.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00014_14.0.tif	61233500	http://bia/Image	Starvation condition frames 04_00014_14.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00015_-14.0.tif	63478580	http://bia/Image	Starvation condition frames 04_00015_-14.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00016_16.0.tif	60869004	http://bia/Image	Starvation condition frames 04_00016_16.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00017_-16.0.tif	63442012	http://bia/Image	Starvation condition frames 04_00017_-16.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00018_18.0.tif	60422820	http://bia/Image	Starvation condition frames 04_00018_18.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00019_-18.0.tif	63377902	http://bia/Image	Starvation condition frames 04_00019_-18.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00020_20.0.tif	59979510	http://bia/Image	Starvation condition frames 04_00020_20.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00021_-20.0.tif	63343592	http://bia/Image	Starvation condition frames 04_00021_-20.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00022_22.0.tif	59461918	http://bia/Image	Starvation condition frames 04_00022_22.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00023_-22.0.tif	63234804	http://bia/Image	Starvation condition frames 04_00023_-22.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00024_24.0.tif	58875834	http://bia/Image	Starvation condition frames 04_00024_24.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00025_-24.0.tif	63134636	http://bia/Image	Starvation condition frames 04_00025_-24.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00026_26.0.tif	58313268	http://bia/Image	Starvation condition frames 04_00026_26.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00027_-26.0.tif	62971190	http://bia/Image	Starvation condition frames 04_00027_-26.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00028_28.0.tif	57574150	http://bia/Image	Starvation condition frames 04_00028_28.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00029_-28.0.tif	62826418	http://bia/Image	Starvation condition frames 04_00029_-28.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00030_30.0.tif	56805560	http://bia/Image	Starvation condition frames 04_00030_30.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00031_-30.0.tif	62635424	http://bia/Image	Starvation condition frames 04_00031_-30.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00032_32.0.tif	55999962	http://bia/Image	Starvation condition frames 04_00032_32.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00033_-32.0.tif	62409128	http://bia/Image	Starvation condition frames 04_00033_-32.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00034_34.0.tif	55032330	http://bia/Image	Starvation condition frames 04_00034_34.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00035_-34.0.tif	62175544	http://bia/Image	Starvation condition frames 04_00035_-34.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00036_36.0.tif	54024566	http://bia/Image	Starvation condition frames 04_00036_36.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00037_-36.0.tif	61902610	http://bia/Image	Starvation condition frames 04_00037_-36.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00038_38.0.tif	52880184	http://bia/Image	Starvation condition frames 04_00038_38.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00039_-38.0.tif	61576872	http://bia/Image	Starvation condition frames 04_00039_-38.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00040_40.0.tif	51595950	http://bia/Image	Starvation condition frames 04_00040_40.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00041_-40.0.tif	61237580	http://bia/Image	Starvation condition frames 04_00041_-40.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00042_42.0.tif	50223984	http://bia/Image	Starvation condition frames 04_00042_42.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00043_-42.0.tif	60854696	http://bia/Image	Starvation condition frames 04_00043_-42.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00044_44.0.tif	48631668	http://bia/Image	Starvation condition frames 04_00044_44.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00045_-44.0.tif	60445624	http://bia/Image	Starvation condition frames 04_00045_-44.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00046_46.0.tif	46876048	http://bia/Image	Starvation condition frames 04_00046_46.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00047_-46.0.tif	59975022	http://bia/Image	Starvation condition frames 04_00047_-46.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00048_48.0.tif	44863136	http://bia/Image	Starvation condition frames 04_00048_48.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00049_-48.0.tif	59512390	http://bia/Image	Starvation condition frames 04_00049_-48.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00050_50.0.tif	42596206	http://bia/Image	Starvation condition frames 04_00050_50.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00051_-50.0.tif	58944124	http://bia/Image	Starvation condition frames 04_00051_-50.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00052_52.0.tif	39997248	http://bia/Image	Starvation condition frames 04_00052_52.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00053_-52.0.tif	58320068	http://bia/Image	Starvation condition frames 04_00053_-52.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00054_54.0.tif	36908688	http://bia/Image	Starvation condition frames 04_00054_54.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00055_-54.0.tif	57628430	http://bia/Image	Starvation condition frames 04_00055_-54.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00056_56.0.tif	33466570	http://bia/Image	Starvation condition frames 04_00056_56.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00057_-56.0.tif	56911588	http://bia/Image	Starvation condition frames 04_00057_-56.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00058_58.0.tif	29693006	http://bia/Image	Starvation condition frames 04_00058_58.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00059_-58.0.tif	56137470	http://bia/Image	Starvation condition frames 04_00059_-58.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00060_60.0.tif	25420090	http://bia/Image	Starvation condition frames 04_00060_60.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00061_-60.0.tif	55314858	http://bia/Image	Starvation condition frames 04_00061_-60.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00062_-62.0.tif	54300592	http://bia/Image	Starvation condition frames 04_00062_-62.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_004_00063_-64.0.tif	53128296	http://bia/Image	Starvation condition frames 04_00063_-64.0		_:Starved 04		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00001_-0.0.tif	58287646	http://bia/Image	Starvation condition frames 07_00001_-0.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00002_2.0.tif	58061448	http://bia/Image	Starvation condition frames 07_00002_2.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00003_-2.0.tif	58450194	http://bia/Image	Starvation condition frames 07_00003_-2.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00004_4.0.tif	57773936	http://bia/Image	Starvation condition frames 07_00004_4.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00005_-4.0.tif	58618202	http://bia/Image	Starvation condition frames 07_00005_-4.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00006_6.0.tif	57556122	http://bia/Image	Starvation condition frames 07_00006_6.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00007_-6.0.tif	58734424	http://bia/Image	Starvation condition frames 07_00007_-6.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00008_8.0.tif	57226484	http://bia/Image	Starvation condition frames 07_00008_8.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00009_-8.0.tif	58843270	http://bia/Image	Starvation condition frames 07_00009_-8.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00010_10.0.tif	56868008	http://bia/Image	Starvation condition frames 07_00010_10.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00011_-10.0.tif	58925176	http://bia/Image	Starvation condition frames 07_00011_-10.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00012_12.0.tif	56437694	http://bia/Image	Starvation condition frames 07_00012_12.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00013_-12.0.tif	58964870	http://bia/Image	Starvation condition frames 07_00013_-12.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00014_14.0.tif	56019288	http://bia/Image	Starvation condition frames 07_00014_14.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00015_-14.0.tif	58999166	http://bia/Image	Starvation condition frames 07_00015_-14.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00016_16.0.tif	55515302	http://bia/Image	Starvation condition frames 07_00016_16.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00017_-16.0.tif	58992476	http://bia/Image	Starvation condition frames 07_00017_-16.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00018_18.0.tif	54942972	http://bia/Image	Starvation condition frames 07_00018_18.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00019_-18.0.tif	58911468	http://bia/Image	Starvation condition frames 07_00019_-18.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00020_20.0.tif	54382566	http://bia/Image	Starvation condition frames 07_00020_20.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00021_-20.0.tif	58905586	http://bia/Image	Starvation condition frames 07_00021_-20.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00022_22.0.tif	53678592	http://bia/Image	Starvation condition frames 07_00022_22.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00023_-22.0.tif	58828898	http://bia/Image	Starvation condition frames 07_00023_-22.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00024_24.0.tif	52969136	http://bia/Image	Starvation condition frames 07_00024_24.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00025_-24.0.tif	58682504	http://bia/Image	Starvation condition frames 07_00025_-24.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00026_26.0.tif	52158152	http://bia/Image	Starvation condition frames 07_00026_26.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00027_-26.0.tif	58528846	http://bia/Image	Starvation condition frames 07_00027_-26.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00028_28.0.tif	51323016	http://bia/Image	Starvation condition frames 07_00028_28.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00029_-28.0.tif	58370060	http://bia/Image	Starvation condition frames 07_00029_-28.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00030_30.0.tif	50357458	http://bia/Image	Starvation condition frames 07_00030_30.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00031_-30.0.tif	58171438	http://bia/Image	Starvation condition frames 07_00031_-30.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00032_32.0.tif	49302924	http://bia/Image	Starvation condition frames 07_00032_32.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00033_-32.0.tif	57939024	http://bia/Image	Starvation condition frames 07_00033_-32.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00034_34.0.tif	48214018	http://bia/Image	Starvation condition frames 07_00034_34.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00035_-34.0.tif	57696954	http://bia/Image	Starvation condition frames 07_00035_-34.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00036_36.0.tif	46891856	http://bia/Image	Starvation condition frames 07_00036_36.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00037_-36.0.tif	57338790	http://bia/Image	Starvation condition frames 07_00037_-36.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00038_38.0.tif	45448054	http://bia/Image	Starvation condition frames 07_00038_38.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00039_-38.0.tif	57004882	http://bia/Image	Starvation condition frames 07_00039_-38.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00040_40.0.tif	43927022	http://bia/Image	Starvation condition frames 07_00040_40.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00041_-40.0.tif	56593760	http://bia/Image	Starvation condition frames 07_00041_-40.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00042_42.0.tif	42189374	http://bia/Image	Starvation condition frames 07_00042_42.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00043_-42.0.tif	56096994	http://bia/Image	Starvation condition frames 07_00043_-42.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00044_44.0.tif	40311914	http://bia/Image	Starvation condition frames 07_00044_44.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00045_-44.0.tif	55683474	http://bia/Image	Starvation condition frames 07_00045_-44.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00046_46.0.tif	38239470	http://bia/Image	Starvation condition frames 07_00046_46.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00047_-46.0.tif	55165360	http://bia/Image	Starvation condition frames 07_00047_-46.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00048_48.0.tif	35955840	http://bia/Image	Starvation condition frames 07_00048_48.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00049_-48.0.tif	54584112	http://bia/Image	Starvation condition frames 07_00049_-48.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00050_50.0.tif	33592336	http://bia/Image	Starvation condition frames 07_00050_50.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00051_-50.0.tif	53949644	http://bia/Image	Starvation condition frames 07_00051_-50.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00052_52.0.tif	31139304	http://bia/Image	Starvation condition frames 07_00052_52.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00053_-52.0.tif	53212040	http://bia/Image	Starvation condition frames 07_00053_-52.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00054_54.0.tif	28389046	http://bia/Image	Starvation condition frames 07_00054_54.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00055_-54.0.tif	52366682	http://bia/Image	Starvation condition frames 07_00055_-54.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00056_56.0.tif	25527706	http://bia/Image	Starvation condition frames 07_00056_56.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00057_-56.0.tif	51466714	http://bia/Image	Starvation condition frames 07_00057_-56.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00058_-58.0.tif	50468204	http://bia/Image	Starvation condition frames 07_00058_-58.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00059_-60.0.tif	49445752	http://bia/Image	Starvation condition frames 07_00059_-60.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00060_-62.0.tif	48198532	http://bia/Image	Starvation condition frames 07_00060_-62.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_007_00061_-64.0.tif	44574512	http://bia/Image	Starvation condition frames 07_00061_-64.0		_:Starved 07		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00001_-0.0.tif	60620680	http://bia/Image	Starvation condition frames 08_00001_-0.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00002_2.0.tif	60409990	http://bia/Image	Starvation condition frames 08_00002_2.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00003_-2.0.tif	60812150	http://bia/Image	Starvation condition frames 08_00003_-2.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00004_4.0.tif	60165522	http://bia/Image	Starvation condition frames 08_00004_4.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00005_-4.0.tif	60949378	http://bia/Image	Starvation condition frames 08_00005_-4.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00006_6.0.tif	59952288	http://bia/Image	Starvation condition frames 08_00006_6.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00007_-6.0.tif	61077622	http://bia/Image	Starvation condition frames 08_00007_-6.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00008_8.0.tif	59691110	http://bia/Image	Starvation condition frames 08_00008_8.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00009_-8.0.tif	61158948	http://bia/Image	Starvation condition frames 08_00009_-8.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00010_10.0.tif	59346996	http://bia/Image	Starvation condition frames 08_00010_10.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00011_-10.0.tif	61267906	http://bia/Image	Starvation condition frames 08_00011_-10.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00012_12.0.tif	58988258	http://bia/Image	Starvation condition frames 08_00012_12.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00013_-12.0.tif	61297682	http://bia/Image	Starvation condition frames 08_00013_-12.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00014_14.0.tif	58577032	http://bia/Image	Starvation condition frames 08_00014_14.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00015_-14.0.tif	61325080	http://bia/Image	Starvation condition frames 08_00015_-14.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00016_16.0.tif	58177056	http://bia/Image	Starvation condition frames 08_00016_16.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00017_-16.0.tif	61280620	http://bia/Image	Starvation condition frames 08_00017_-16.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00018_18.0.tif	57633170	http://bia/Image	Starvation condition frames 08_00018_18.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00019_-18.0.tif	61293014	http://bia/Image	Starvation condition frames 08_00019_-18.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00020_20.0.tif	57141694	http://bia/Image	Starvation condition frames 08_00020_20.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00021_-20.0.tif	61209442	http://bia/Image	Starvation condition frames 08_00021_-20.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00022_22.0.tif	56539512	http://bia/Image	Starvation condition frames 08_00022_22.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00023_-22.0.tif	61091006	http://bia/Image	Starvation condition frames 08_00023_-22.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00024_24.0.tif	55903356	http://bia/Image	Starvation condition frames 08_00024_24.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00025_-24.0.tif	60986736	http://bia/Image	Starvation condition frames 08_00025_-24.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00026_26.0.tif	55167934	http://bia/Image	Starvation condition frames 08_00026_26.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00027_-26.0.tif	60867404	http://bia/Image	Starvation condition frames 08_00027_-26.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00028_28.0.tif	54418770	http://bia/Image	Starvation condition frames 08_00028_28.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00029_-28.0.tif	60725938	http://bia/Image	Starvation condition frames 08_00029_-28.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00030_30.0.tif	53525536	http://bia/Image	Starvation condition frames 08_00030_30.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00031_-30.0.tif	60505732	http://bia/Image	Starvation condition frames 08_00031_-30.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00032_32.0.tif	52547200	http://bia/Image	Starvation condition frames 08_00032_32.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00033_-32.0.tif	60244282	http://bia/Image	Starvation condition frames 08_00033_-32.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00034_34.0.tif	51579322	http://bia/Image	Starvation condition frames 08_00034_34.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00035_-34.0.tif	60030796	http://bia/Image	Starvation condition frames 08_00035_-34.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00036_36.0.tif	50416086	http://bia/Image	Starvation condition frames 08_00036_36.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00037_-36.0.tif	59723496	http://bia/Image	Starvation condition frames 08_00037_-36.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00038_38.0.tif	49081850	http://bia/Image	Starvation condition frames 08_00038_38.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00039_-38.0.tif	59404176	http://bia/Image	Starvation condition frames 08_00039_-38.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00040_40.0.tif	47650660	http://bia/Image	Starvation condition frames 08_00040_40.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00041_-40.0.tif	59049004	http://bia/Image	Starvation condition frames 08_00041_-40.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00042_42.0.tif	46158088	http://bia/Image	Starvation condition frames 08_00042_42.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00043_-42.0.tif	58648020	http://bia/Image	Starvation condition frames 08_00043_-42.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00044_44.0.tif	44355582	http://bia/Image	Starvation condition frames 08_00044_44.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00045_-44.0.tif	58153860	http://bia/Image	Starvation condition frames 08_00045_-44.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00046_46.0.tif	42354248	http://bia/Image	Starvation condition frames 08_00046_46.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00047_-46.0.tif	57680436	http://bia/Image	Starvation condition frames 08_00047_-46.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00048_48.0.tif	40245928	http://bia/Image	Starvation condition frames 08_00048_48.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00049_-48.0.tif	57130390	http://bia/Image	Starvation condition frames 08_00049_-48.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00050_50.0.tif	37683724	http://bia/Image	Starvation condition frames 08_00050_50.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00051_-50.0.tif	56492542	http://bia/Image	Starvation condition frames 08_00051_-50.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00052_52.0.tif	34759760	http://bia/Image	Starvation condition frames 08_00052_52.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00053_-52.0.tif	55851888	http://bia/Image	Starvation condition frames 08_00053_-52.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00054_54.0.tif	31534646	http://bia/Image	Starvation condition frames 08_00054_54.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00055_-54.0.tif	55143054	http://bia/Image	Starvation condition frames 08_00055_-54.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00056_56.0.tif	28194218	http://bia/Image	Starvation condition frames 08_00056_56.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00057_-56.0.tif	54358836	http://bia/Image	Starvation condition frames 08_00057_-56.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00058_58.0.tif	24421248	http://bia/Image	Starvation condition frames 08_00058_58.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00059_-58.0.tif	53469502	http://bia/Image	Starvation condition frames 08_00059_-58.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00060_60.0.tif	20265348	http://bia/Image	Starvation condition frames 08_00060_60.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00061_-60.0.tif	52548204	http://bia/Image	Starvation condition frames 08_00061_-60.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00062_-62.0.tif	51451106	http://bia/Image	Starvation condition frames 08_00062_-62.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_008_00063_-64.0.tif	50153420	http://bia/Image	Starvation condition frames 08_00063_-64.0		_:Starved 08		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00001_-0.0.tif	61208194	http://bia/Image	Starvation condition frames 10_00001_-0.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00002_2.0.tif	60871540	http://bia/Image	Starvation condition frames 10_00002_2.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00003_-2.0.tif	61567270	http://bia/Image	Starvation condition frames 10_00003_-2.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00004_4.0.tif	60485542	http://bia/Image	Starvation condition frames 10_00004_4.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00005_-4.0.tif	61829882	http://bia/Image	Starvation condition frames 10_00005_-4.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00006_6.0.tif	60010138	http://bia/Image	Starvation condition frames 10_00006_6.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00007_-6.0.tif	62074832	http://bia/Image	Starvation condition frames 10_00007_-6.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00008_8.0.tif	59515130	http://bia/Image	Starvation condition frames 10_00008_8.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00009_-8.0.tif	62281714	http://bia/Image	Starvation condition frames 10_00009_-8.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00010_10.0.tif	58999944	http://bia/Image	Starvation condition frames 10_00010_10.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00011_-10.0.tif	62530586	http://bia/Image	Starvation condition frames 10_00011_-10.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00012_12.0.tif	58364634	http://bia/Image	Starvation condition frames 10_00012_12.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00013_-12.0.tif	62665696	http://bia/Image	Starvation condition frames 10_00013_-12.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00014_14.0.tif	57678950	http://bia/Image	Starvation condition frames 10_00014_14.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00015_-14.0.tif	62787226	http://bia/Image	Starvation condition frames 10_00015_-14.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00016_16.0.tif	56924124	http://bia/Image	Starvation condition frames 10_00016_16.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00017_-16.0.tif	62916762	http://bia/Image	Starvation condition frames 10_00017_-16.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00018_18.0.tif	56107720	http://bia/Image	Starvation condition frames 10_00018_18.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00019_-18.0.tif	63013790	http://bia/Image	Starvation condition frames 10_00019_-18.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00020_20.0.tif	55193534	http://bia/Image	Starvation condition frames 10_00020_20.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00021_-20.0.tif	63084410	http://bia/Image	Starvation condition frames 10_00021_-20.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00022_22.0.tif	54260600	http://bia/Image	Starvation condition frames 10_00022_22.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00023_-22.0.tif	63155424	http://bia/Image	Starvation condition frames 10_00023_-22.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00024_24.0.tif	53175942	http://bia/Image	Starvation condition frames 10_00024_24.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00025_-24.0.tif	63179038	http://bia/Image	Starvation condition frames 10_00025_-24.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00026_26.0.tif	52004480	http://bia/Image	Starvation condition frames 10_00026_26.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00027_-26.0.tif	63216144	http://bia/Image	Starvation condition frames 10_00027_-26.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00028_28.0.tif	50624468	http://bia/Image	Starvation condition frames 10_00028_28.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00029_-28.0.tif	63178998	http://bia/Image	Starvation condition frames 10_00029_-28.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00030_30.0.tif	49299492	http://bia/Image	Starvation condition frames 10_00030_30.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00031_-30.0.tif	63095182	http://bia/Image	Starvation condition frames 10_00031_-30.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00032_32.0.tif	47677970	http://bia/Image	Starvation condition frames 10_00032_32.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00033_-32.0.tif	63057938	http://bia/Image	Starvation condition frames 10_00033_-32.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00034_34.0.tif	45926186	http://bia/Image	Starvation condition frames 10_00034_34.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00035_-34.0.tif	62994922	http://bia/Image	Starvation condition frames 10_00035_-34.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00036_36.0.tif	44007534	http://bia/Image	Starvation condition frames 10_00036_36.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00037_-36.0.tif	62898888	http://bia/Image	Starvation condition frames 10_00037_-36.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00038_38.0.tif	41905228	http://bia/Image	Starvation condition frames 10_00038_38.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00039_-38.0.tif	62754820	http://bia/Image	Starvation condition frames 10_00039_-38.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00040_40.0.tif	39616526	http://bia/Image	Starvation condition frames 10_00040_40.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00041_-40.0.tif	62591950	http://bia/Image	Starvation condition frames 10_00041_-40.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00042_42.0.tif	36818816	http://bia/Image	Starvation condition frames 10_00042_42.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00043_-42.0.tif	62329588	http://bia/Image	Starvation condition frames 10_00043_-42.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00044_44.0.tif	34191166	http://bia/Image	Starvation condition frames 10_00044_44.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00045_-44.0.tif	61154342	http://bia/Image	Starvation condition frames 10_00045_-44.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00046_46.0.tif	31753098	http://bia/Image	Starvation condition frames 10_00046_46.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00047_-46.0.tif	58582144	http://bia/Image	Starvation condition frames 10_00047_-46.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_010_00048_48.0.tif	28897256	http://bia/Image	Starvation condition frames 10_00048_48.0		_:Starved 10		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00001_-0.0.tif	65072564	http://bia/Image	Starvation condition frames 14_00001_-0.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00002_2.0.tif	64903548	http://bia/Image	Starvation condition frames 14_00002_2.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00003_-2.0.tif	65254108	http://bia/Image	Starvation condition frames 14_00003_-2.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00004_4.0.tif	64708264	http://bia/Image	Starvation condition frames 14_00004_4.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00005_-4.0.tif	65350250	http://bia/Image	Starvation condition frames 14_00005_-4.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00006_6.0.tif	64493964	http://bia/Image	Starvation condition frames 14_00006_6.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00007_-6.0.tif	65460148	http://bia/Image	Starvation condition frames 14_00007_-6.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00008_8.0.tif	64264532	http://bia/Image	Starvation condition frames 14_00008_8.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00009_-8.0.tif	65652030	http://bia/Image	Starvation condition frames 14_00009_-8.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00010_10.0.tif	64002154	http://bia/Image	Starvation condition frames 14_00010_10.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00011_-10.0.tif	65603690	http://bia/Image	Starvation condition frames 14_00011_-10.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00012_12.0.tif	63486794	http://bia/Image	Starvation condition frames 14_00012_12.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00013_-12.0.tif	65659590	http://bia/Image	Starvation condition frames 14_00013_-12.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00014_14.0.tif	63401536	http://bia/Image	Starvation condition frames 14_00014_14.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00015_-14.0.tif	65708640	http://bia/Image	Starvation condition frames 14_00015_-14.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00016_16.0.tif	62824816	http://bia/Image	Starvation condition frames 14_00016_16.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00017_-16.0.tif	65689068	http://bia/Image	Starvation condition frames 14_00017_-16.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00018_18.0.tif	62364296	http://bia/Image	Starvation condition frames 14_00018_18.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00019_-18.0.tif	65842940	http://bia/Image	Starvation condition frames 14_00019_-18.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00020_20.0.tif	62033880	http://bia/Image	Starvation condition frames 14_00020_20.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00021_-20.0.tif	65640370	http://bia/Image	Starvation condition frames 14_00021_-20.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00022_22.0.tif	61747204	http://bia/Image	Starvation condition frames 14_00022_22.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00023_-22.0.tif	65597370	http://bia/Image	Starvation condition frames 14_00023_-22.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00024_24.0.tif	61243938	http://bia/Image	Starvation condition frames 14_00024_24.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00025_-24.0.tif	65527488	http://bia/Image	Starvation condition frames 14_00025_-24.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00026_26.0.tif	60635240	http://bia/Image	Starvation condition frames 14_00026_26.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00027_-26.0.tif	65404728	http://bia/Image	Starvation condition frames 14_00027_-26.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00028_28.0.tif	60154882	http://bia/Image	Starvation condition frames 14_00028_28.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00029_-28.0.tif	65412616	http://bia/Image	Starvation condition frames 14_00029_-28.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00030_30.0.tif	59480932	http://bia/Image	Starvation condition frames 14_00030_30.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00031_-30.0.tif	65324162	http://bia/Image	Starvation condition frames 14_00031_-30.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00032_32.0.tif	58770184	http://bia/Image	Starvation condition frames 14_00032_32.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00033_-32.0.tif	65180128	http://bia/Image	Starvation condition frames 14_00033_-32.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00034_34.0.tif	57912396	http://bia/Image	Starvation condition frames 14_00034_34.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00035_-34.0.tif	65027138	http://bia/Image	Starvation condition frames 14_00035_-34.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00036_36.0.tif	57033412	http://bia/Image	Starvation condition frames 14_00036_36.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00037_-36.0.tif	64816872	http://bia/Image	Starvation condition frames 14_00037_-36.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00038_38.0.tif	56025650	http://bia/Image	Starvation condition frames 14_00038_38.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00039_-38.0.tif	64605250	http://bia/Image	Starvation condition frames 14_00039_-38.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00040_40.0.tif	54861298	http://bia/Image	Starvation condition frames 14_00040_40.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00041_-40.0.tif	64338426	http://bia/Image	Starvation condition frames 14_00041_-40.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00042_42.0.tif	53542202	http://bia/Image	Starvation condition frames 14_00042_42.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00043_-42.0.tif	64024696	http://bia/Image	Starvation condition frames 14_00043_-42.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00044_44.0.tif	52125818	http://bia/Image	Starvation condition frames 14_00044_44.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00045_-44.0.tif	63740998	http://bia/Image	Starvation condition frames 14_00045_-44.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00046_46.0.tif	50538976	http://bia/Image	Starvation condition frames 14_00046_46.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00047_-46.0.tif	63389076	http://bia/Image	Starvation condition frames 14_00047_-46.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00048_48.0.tif	48706286	http://bia/Image	Starvation condition frames 14_00048_48.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00049_-48.0.tif	63012232	http://bia/Image	Starvation condition frames 14_00049_-48.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00050_50.0.tif	46623018	http://bia/Image	Starvation condition frames 14_00050_50.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00051_-50.0.tif	62583400	http://bia/Image	Starvation condition frames 14_00051_-50.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00052_52.0.tif	44317942	http://bia/Image	Starvation condition frames 14_00052_52.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00053_-52.0.tif	62140348	http://bia/Image	Starvation condition frames 14_00053_-52.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00054_54.0.tif	41599878	http://bia/Image	Starvation condition frames 14_00054_54.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00055_-54.0.tif	61628146	http://bia/Image	Starvation condition frames 14_00055_-54.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00056_56.0.tif	38360968	http://bia/Image	Starvation condition frames 14_00056_56.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00057_-56.0.tif	61001834	http://bia/Image	Starvation condition frames 14_00057_-56.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00058_58.0.tif	34556016	http://bia/Image	Starvation condition frames 14_00058_58.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00059_-58.0.tif	60428246	http://bia/Image	Starvation condition frames 14_00059_-58.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00060_-60.0.tif	59716270	http://bia/Image	Starvation condition frames 14_00060_-60.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00061_-62.0.tif	58888988	http://bia/Image	Starvation condition frames 14_00061_-62.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_014_00062_-64.0.tif	57940114	http://bia/Image	Starvation condition frames 14_00062_-64.0		_:Starved 14		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00001_-0.0.tif	63559466	http://bia/Image	Starvation condition frames 17_00001_-0.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00002_2.0.tif	63473282	http://bia/Image	Starvation condition frames 17_00002_2.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00003_-2.0.tif	63689726	http://bia/Image	Starvation condition frames 17_00003_-2.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00004_4.0.tif	63347670	http://bia/Image	Starvation condition frames 17_00004_4.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00005_-4.0.tif	63761690	http://bia/Image	Starvation condition frames 17_00005_-4.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00006_6.0.tif	63201126	http://bia/Image	Starvation condition frames 17_00006_6.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00007_-6.0.tif	63826738	http://bia/Image	Starvation condition frames 17_00007_-6.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00008_8.0.tif	63039484	http://bia/Image	Starvation condition frames 17_00008_8.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00009_-8.0.tif	63832118	http://bia/Image	Starvation condition frames 17_00009_-8.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00010_10.0.tif	62846712	http://bia/Image	Starvation condition frames 17_00010_10.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00011_-10.0.tif	63855642	http://bia/Image	Starvation condition frames 17_00011_-10.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00012_12.0.tif	62592978	http://bia/Image	Starvation condition frames 17_00012_12.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00013_-12.0.tif	63778988	http://bia/Image	Starvation condition frames 17_00013_-12.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00014_14.0.tif	62356050	http://bia/Image	Starvation condition frames 17_00014_14.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00015_-14.0.tif	63761766	http://bia/Image	Starvation condition frames 17_00015_-14.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00016_16.0.tif	62104478	http://bia/Image	Starvation condition frames 17_00016_16.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00017_-16.0.tif	63716958	http://bia/Image	Starvation condition frames 17_00017_-16.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00018_18.0.tif	61744668	http://bia/Image	Starvation condition frames 17_00018_18.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00019_-18.0.tif	63634506	http://bia/Image	Starvation condition frames 17_00019_-18.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00020_20.0.tif	61415634	http://bia/Image	Starvation condition frames 17_00020_20.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00021_-20.0.tif	63493300	http://bia/Image	Starvation condition frames 17_00021_-20.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00022_22.0.tif	61030262	http://bia/Image	Starvation condition frames 17_00022_22.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00023_-22.0.tif	63332516	http://bia/Image	Starvation condition frames 17_00023_-22.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00024_24.0.tif	60609922	http://bia/Image	Starvation condition frames 17_00024_24.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00025_-24.0.tif	63159778	http://bia/Image	Starvation condition frames 17_00025_-24.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00026_26.0.tif	60127522	http://bia/Image	Starvation condition frames 17_00026_26.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00027_-26.0.tif	62934586	http://bia/Image	Starvation condition frames 17_00027_-26.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00028_28.0.tif	59628036	http://bia/Image	Starvation condition frames 17_00028_28.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00029_-28.0.tif	62752704	http://bia/Image	Starvation condition frames 17_00029_-28.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00030_30.0.tif	59080926	http://bia/Image	Starvation condition frames 17_00030_30.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00031_-30.0.tif	62466112	http://bia/Image	Starvation condition frames 17_00031_-30.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00032_32.0.tif	58397526	http://bia/Image	Starvation condition frames 17_00032_32.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00033_-32.0.tif	62185800	http://bia/Image	Starvation condition frames 17_00033_-32.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00034_34.0.tif	57751378	http://bia/Image	Starvation condition frames 17_00034_34.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00035_-34.0.tif	61838706	http://bia/Image	Starvation condition frames 17_00035_-34.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00036_36.0.tif	56940728	http://bia/Image	Starvation condition frames 17_00036_36.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00037_-36.0.tif	61469908	http://bia/Image	Starvation condition frames 17_00037_-36.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00038_38.0.tif	56083660	http://bia/Image	Starvation condition frames 17_00038_38.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00039_-38.0.tif	61073622	http://bia/Image	Starvation condition frames 17_00039_-38.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00040_40.0.tif	55123710	http://bia/Image	Starvation condition frames 17_00040_40.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00041_-40.0.tif	60668246	http://bia/Image	Starvation condition frames 17_00041_-40.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00042_42.0.tif	54061152	http://bia/Image	Starvation condition frames 17_00042_42.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00043_-42.0.tif	60121894	http://bia/Image	Starvation condition frames 17_00043_-42.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00044_44.0.tif	52885098	http://bia/Image	Starvation condition frames 17_00044_44.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00045_-44.0.tif	59527974	http://bia/Image	Starvation condition frames 17_00045_-44.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00046_46.0.tif	51489066	http://bia/Image	Starvation condition frames 17_00046_46.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00047_-46.0.tif	58815894	http://bia/Image	Starvation condition frames 17_00047_-46.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00048_48.0.tif	49988990	http://bia/Image	Starvation condition frames 17_00048_48.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00049_-48.0.tif	58258974	http://bia/Image	Starvation condition frames 17_00049_-48.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00050_50.0.tif	48293578	http://bia/Image	Starvation condition frames 17_00050_50.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00051_-50.0.tif	57463764	http://bia/Image	Starvation condition frames 17_00051_-50.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00052_52.0.tif	46176504	http://bia/Image	Starvation condition frames 17_00052_52.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00053_-52.0.tif	56576458	http://bia/Image	Starvation condition frames 17_00053_-52.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00054_54.0.tif	38327584	http://bia/Image	Starvation condition frames 17_00054_54.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00055_-54.0.tif	55618876	http://bia/Image	Starvation condition frames 17_00055_-54.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00056_56.0.tif	21307830	http://bia/Image	Starvation condition frames 17_00056_56.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00057_-56.0.tif	54552630	http://bia/Image	Starvation condition frames 17_00057_-56.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00058_-58.0.tif	53454384	http://bia/Image	Starvation condition frames 17_00058_-58.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00059_-60.0.tif	51967504	http://bia/Image	Starvation condition frames 17_00059_-60.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00060_-62.0.tif	50545222	http://bia/Image	Starvation condition frames 17_00060_-62.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_017_00061_-64.0.tif	48855636	http://bia/Image	Starvation condition frames 17_00061_-64.0		_:Starved 17		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00001_-0.0.tif	60476040	http://bia/Image	Starvation condition frames 18_00001_-0.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00002_2.0.tif	60228170	http://bia/Image	Starvation condition frames 18_00002_2.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00003_-2.0.tif	60621664	http://bia/Image	Starvation condition frames 18_00003_-2.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00004_4.0.tif	60097400	http://bia/Image	Starvation condition frames 18_00004_4.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00005_-4.0.tif	60743550	http://bia/Image	Starvation condition frames 18_00005_-4.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00006_6.0.tif	59956336	http://bia/Image	Starvation condition frames 18_00006_6.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00007_-6.0.tif	60760088	http://bia/Image	Starvation condition frames 18_00007_-6.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00008_8.0.tif	59679208	http://bia/Image	Starvation condition frames 18_00008_8.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00009_-8.0.tif	60947276	http://bia/Image	Starvation condition frames 18_00009_-8.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00010_10.0.tif	59439046	http://bia/Image	Starvation condition frames 18_00010_10.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00011_-10.0.tif	61021138	http://bia/Image	Starvation condition frames 18_00011_-10.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00012_12.0.tif	59238542	http://bia/Image	Starvation condition frames 18_00012_12.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00013_-12.0.tif	61022554	http://bia/Image	Starvation condition frames 18_00013_-12.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00014_14.0.tif	58768488	http://bia/Image	Starvation condition frames 18_00014_14.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00015_-14.0.tif	60989478	http://bia/Image	Starvation condition frames 18_00015_-14.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00016_16.0.tif	58429038	http://bia/Image	Starvation condition frames 18_00016_16.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00017_-16.0.tif	60905934	http://bia/Image	Starvation condition frames 18_00017_-16.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00018_18.0.tif	57974636	http://bia/Image	Starvation condition frames 18_00018_18.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00019_-18.0.tif	60343040	http://bia/Image	Starvation condition frames 18_00019_-18.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00020_20.0.tif	57509762	http://bia/Image	Starvation condition frames 18_00020_20.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00021_-20.0.tif	61935816	http://bia/Image	Starvation condition frames 18_00021_-20.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00022_22.0.tif	57011480	http://bia/Image	Starvation condition frames 18_00022_22.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00023_-22.0.tif	62120200	http://bia/Image	Starvation condition frames 18_00023_-22.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00024_24.0.tif	56552386	http://bia/Image	Starvation condition frames 18_00024_24.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00025_-24.0.tif	60560762	http://bia/Image	Starvation condition frames 18_00025_-24.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00026_26.0.tif	55864214	http://bia/Image	Starvation condition frames 18_00026_26.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00027_-26.0.tif	60437064	http://bia/Image	Starvation condition frames 18_00027_-26.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00028_28.0.tif	55273122	http://bia/Image	Starvation condition frames 18_00028_28.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00029_-28.0.tif	60142126	http://bia/Image	Starvation condition frames 18_00029_-28.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00030_30.0.tif	54449638	http://bia/Image	Starvation condition frames 18_00030_30.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00031_-30.0.tif	59881380	http://bia/Image	Starvation condition frames 18_00031_-30.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00032_32.0.tif	53548858	http://bia/Image	Starvation condition frames 18_00032_32.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00033_-32.0.tif	59745036	http://bia/Image	Starvation condition frames 18_00033_-32.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00034_34.0.tif	52648016	http://bia/Image	Starvation condition frames 18_00034_34.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00035_-34.0.tif	59369844	http://bia/Image	Starvation condition frames 18_00035_-34.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00036_36.0.tif	51649498	http://bia/Image	Starvation condition frames 18_00036_36.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00037_-36.0.tif	59052098	http://bia/Image	Starvation condition frames 18_00037_-36.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00038_38.0.tif	52962236	http://bia/Image	Starvation condition frames 18_00038_38.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00039_-38.0.tif	58677542	http://bia/Image	Starvation condition frames 18_00039_-38.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00040_40.0.tif	48948870	http://bia/Image	Starvation condition frames 18_00040_40.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00041_-40.0.tif	58192472	http://bia/Image	Starvation condition frames 18_00041_-40.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00042_42.0.tif	47833588	http://bia/Image	Starvation condition frames 18_00042_42.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00043_-42.0.tif	57729122	http://bia/Image	Starvation condition frames 18_00043_-42.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00044_44.0.tif	46210788	http://bia/Image	Starvation condition frames 18_00044_44.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00045_-44.0.tif	57238444	http://bia/Image	Starvation condition frames 18_00045_-44.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00046_46.0.tif	44185978	http://bia/Image	Starvation condition frames 18_00046_46.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00047_-46.0.tif	56092210	http://bia/Image	Starvation condition frames 18_00047_-46.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00048_48.0.tif	42337778	http://bia/Image	Starvation condition frames 18_00048_48.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00049_-48.0.tif	55921154	http://bia/Image	Starvation condition frames 18_00049_-48.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00050_50.0.tif	34318482	http://bia/Image	Starvation condition frames 18_00050_50.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00051_-50.0.tif	55529102	http://bia/Image	Starvation condition frames 18_00051_-50.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00052_52.0.tif	22321464	http://bia/Image	Starvation condition frames 18_00052_52.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00053_-52.0.tif	54764734	http://bia/Image	Starvation condition frames 18_00053_-52.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00054_54.0.tif	26617154	http://bia/Image	Starvation condition frames 18_00054_54.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00055_-54.0.tif	53817074	http://bia/Image	Starvation condition frames 18_00055_-54.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00056_56.0.tif	26849850	http://bia/Image	Starvation condition frames 18_00056_56.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00057_-56.0.tif	52877090	http://bia/Image	Starvation condition frames 18_00057_-56.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00058_-58.0.tif	51741646	http://bia/Image	Starvation condition frames 18_00058_-58.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00059_-60.0.tif	50538244	http://bia/Image	Starvation condition frames 18_00059_-60.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00060_-62.0.tif	49432804	http://bia/Image	Starvation condition frames 18_00060_-62.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/TS_018_00061_-64.0.tif	47873910	http://bia/Image	Starvation condition frames 18_00061_-64.0		_:Starved 18		_:Glucose starvation condition
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_001.mrc.mdoc	52468						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_002.mrc.mdoc	19589						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_003.mrc.mdoc	51603						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_004.mrc.mdoc	53189						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_007.mrc.mdoc	51519						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_008.mrc.mdoc	53295						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_010.mrc.mdoc	40642						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_014.mrc.mdoc	52378						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_017.mrc.mdoc	50753						
+data/Acute_glucose_starvation/frames/mdocs_ori/TS_018.mrc.mdoc	51725						

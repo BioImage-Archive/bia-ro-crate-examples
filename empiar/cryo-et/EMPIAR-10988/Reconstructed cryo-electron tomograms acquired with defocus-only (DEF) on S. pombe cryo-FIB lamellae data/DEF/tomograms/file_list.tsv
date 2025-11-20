@@ -1,31 +1,31 @@
-file_path	size_in_bytes	type	label	source_image_label	associated_annotation_method	associated_protocol
-data/DEF/particle_lists/TS_026_cyto_ribosomes.csv	10794	http://bia/AnnotationData	Defocus-only ribosome annotations 26	Tomogram 26	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_026_fas.csv	208	http://bia/AnnotationData	Defocus-only FAS annotations 26	Tomogram 26	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_027_cyto_ribosomes.csv	21510	http://bia/AnnotationData	Defocus-only ribosome annotations 27	Tomogram 27	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_027_fas.csv	723	http://bia/AnnotationData	Defocus-only FAS annotations 27	Tomogram 27	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_028_cyto_ribosomes.csv	68168	http://bia/AnnotationData	Defocus-only ribosome annotations 28	Tomogram 28	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_028_fas.csv	972	http://bia/AnnotationData	Defocus-only FAS annotations 28	Tomogram 28	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_029_cyto_ribosomes.csv	37282	http://bia/AnnotationData	Defocus-only ribosome annotations 29	Tomogram 29	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_029_fas.csv	536	http://bia/AnnotationData	Defocus-only FAS annotations 29	Tomogram 29	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_030_cyto_ribosomes.csv	35734	http://bia/AnnotationData	Defocus-only ribosome annotations 30	Tomogram 30	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_030_fas.csv	827	http://bia/AnnotationData	Defocus-only FAS annotations 30	Tomogram 30	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_034_cyto_ribosomes.csv	48647	http://bia/AnnotationData	Defocus-only ribosome annotations 34	Tomogram 34	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_034_fas.csv	471	http://bia/AnnotationData	Defocus-only FAS annotations 34	Tomogram 34	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_037_cyto_ribosomes.csv	21293	http://bia/AnnotationData	Defocus-only ribosome annotations 37	Tomogram 37	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_037_fas.csv	284	http://bia/AnnotationData	Defocus-only FAS annotations 37	Tomogram 37	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_041_cyto_ribosomes.csv	36376	http://bia/AnnotationData	Defocus-only ribosome annotations 41	Tomogram 41	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_041_fas.csv	233	http://bia/AnnotationData	Defocus-only FAS annotations 41	Tomogram 41	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_043_cyto_ribosomes.csv	23195	http://bia/AnnotationData	Defocus-only ribosome annotations 43	Tomogram 43	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_043_fas.csv	219	http://bia/AnnotationData	Defocus-only FAS annotations 43	Tomogram 43	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_045_cyto_ribosomes.csv	29879	http://bia/AnnotationData	Defocus-only ribosome annotations 45	Tomogram 45	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/particle_lists/TS_045_fas.csv	229	http://bia/AnnotationData	Defocus-only FAS annotations 45	Tomogram 45	_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
-data/DEF/tomograms/TS_026.rec	1781761024	http://bia/Image	Tomogram 26	Tilt series 26		_:Tomographic reconstruction
-data/DEF/tomograms/TS_027.rec	1781761024	http://bia/Image	Tomogram 27	Tilt series 27		_:Tomographic reconstruction
-data/DEF/tomograms/TS_028.rec	890881024	http://bia/Image	Tomogram 28	Tilt series 28		_:Tomographic reconstruction
-data/DEF/tomograms/TS_029.rec	1781761024	http://bia/Image	Tomogram 29	Tilt series 29		_:Tomographic reconstruction
-data/DEF/tomograms/TS_030.rec	890881024	http://bia/Image	Tomogram 30	Tilt series 30		_:Tomographic reconstruction
-data/DEF/tomograms/TS_034.rec	890881024	http://bia/Image	Tomogram 34	Tilt series 34		_:Tomographic reconstruction
-data/DEF/tomograms/TS_037.rec	890881024	http://bia/Image	Tomogram 37	Tilt series 37		_:Tomographic reconstruction
-data/DEF/tomograms/TS_041.rec	890881024	http://bia/Image	Tomogram 41	Tilt series 41		_:Tomographic reconstruction
-data/DEF/tomograms/TS_043.rec	890881024	http://bia/Image	Tomogram 43	Tilt series 43		_:Tomographic reconstruction
-data/DEF/tomograms/TS_045.rec	890881024	http://bia/Image	Tomogram 45	Tilt series 45		_:Tomographic reconstruction
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/DEF/particle_lists/TS_026_cyto_ribosomes.csv	10794	http://bia/AnnotationData	Defocus-only ribosome annotations 26	Tomogram 26		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_026_fas.csv	208	http://bia/AnnotationData	Defocus-only FAS annotations 26	Tomogram 26		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_027_cyto_ribosomes.csv	21510	http://bia/AnnotationData	Defocus-only ribosome annotations 27	Tomogram 27		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_027_fas.csv	723	http://bia/AnnotationData	Defocus-only FAS annotations 27	Tomogram 27		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_028_cyto_ribosomes.csv	68168	http://bia/AnnotationData	Defocus-only ribosome annotations 28	Tomogram 28		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_028_fas.csv	972	http://bia/AnnotationData	Defocus-only FAS annotations 28	Tomogram 28		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_029_cyto_ribosomes.csv	37282	http://bia/AnnotationData	Defocus-only ribosome annotations 29	Tomogram 29		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_029_fas.csv	536	http://bia/AnnotationData	Defocus-only FAS annotations 29	Tomogram 29		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_030_cyto_ribosomes.csv	35734	http://bia/AnnotationData	Defocus-only ribosome annotations 30	Tomogram 30		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_030_fas.csv	827	http://bia/AnnotationData	Defocus-only FAS annotations 30	Tomogram 30		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_034_cyto_ribosomes.csv	48647	http://bia/AnnotationData	Defocus-only ribosome annotations 34	Tomogram 34		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_034_fas.csv	471	http://bia/AnnotationData	Defocus-only FAS annotations 34	Tomogram 34		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_037_cyto_ribosomes.csv	21293	http://bia/AnnotationData	Defocus-only ribosome annotations 37	Tomogram 37		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_037_fas.csv	284	http://bia/AnnotationData	Defocus-only FAS annotations 37	Tomogram 37		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_041_cyto_ribosomes.csv	36376	http://bia/AnnotationData	Defocus-only ribosome annotations 41	Tomogram 41		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_041_fas.csv	233	http://bia/AnnotationData	Defocus-only FAS annotations 41	Tomogram 41		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_043_cyto_ribosomes.csv	23195	http://bia/AnnotationData	Defocus-only ribosome annotations 43	Tomogram 43		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_043_fas.csv	219	http://bia/AnnotationData	Defocus-only FAS annotations 43	Tomogram 43		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_045_cyto_ribosomes.csv	29879	http://bia/AnnotationData	Defocus-only ribosome annotations 45	Tomogram 45		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/particle_lists/TS_045_fas.csv	229	http://bia/AnnotationData	Defocus-only FAS annotations 45	Tomogram 45		_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data	
+data/DEF/tomograms/TS_026.rec	1781761024	http://bia/Image	Tomogram 26	Tilt series 26			_:Tomographic reconstruction
+data/DEF/tomograms/TS_027.rec	1781761024	http://bia/Image	Tomogram 27	Tilt series 27			_:Tomographic reconstruction
+data/DEF/tomograms/TS_028.rec	890881024	http://bia/Image	Tomogram 28	Tilt series 28			_:Tomographic reconstruction
+data/DEF/tomograms/TS_029.rec	1781761024	http://bia/Image	Tomogram 29	Tilt series 29			_:Tomographic reconstruction
+data/DEF/tomograms/TS_030.rec	890881024	http://bia/Image	Tomogram 30	Tilt series 30			_:Tomographic reconstruction
+data/DEF/tomograms/TS_034.rec	890881024	http://bia/Image	Tomogram 34	Tilt series 34			_:Tomographic reconstruction
+data/DEF/tomograms/TS_037.rec	890881024	http://bia/Image	Tomogram 37	Tilt series 37			_:Tomographic reconstruction
+data/DEF/tomograms/TS_041.rec	890881024	http://bia/Image	Tomogram 41	Tilt series 41			_:Tomographic reconstruction
+data/DEF/tomograms/TS_043.rec	890881024	http://bia/Image	Tomogram 43	Tilt series 43			_:Tomographic reconstruction
+data/DEF/tomograms/TS_045.rec	890881024	http://bia/Image	Tomogram 45	Tilt series 45			_:Tomographic reconstruction

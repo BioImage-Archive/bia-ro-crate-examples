@@ -1,0 +1,4 @@
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/211206/tomograms/211206.star	814	http://bia/AnnotationData	Coordinates from subtomogram averaging of GEM2 particles	['Tomogram 16', 'Tomogram 19']		['_:Manual particle picking', '_:Deep learning-based GEM particle detection with iterative refinement']	_:Subtomogram averaging
+data/211206/tomograms/TS_016.mrc_aretomo.mrc	2943425024	http://bia/Image	Tomogram 16	Tilt series 16			_:Tomographic reconstruction
+data/211206/tomograms/TS_019.mrc_aretomo.mrc	2943425024	http://bia/Image	Tomogram 19	Tilt series 16			_:Tomographic reconstruction
