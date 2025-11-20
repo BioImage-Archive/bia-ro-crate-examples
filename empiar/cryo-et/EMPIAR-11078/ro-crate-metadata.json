@@ -1,0 +1,1299 @@
+{
+    "@context": [
+        "https://w3id.org/ro/crate/1.1/context",
+        {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "schema": "http://schema.org/",
+            "dc": "http://purl.org/dc/terms/",
+            "bia": "http://bia/",
+            "csvw": "http://www.w3.org/ns/csvw#",
+            "displayName": {
+                "@id": "schema:name"
+            },
+            "address": {
+                "@id": "schema:address"
+            },
+            "website": {
+                "@id": "bia:website"
+            },
+            "resultOf": {
+                "@id": "bia:resultOf"
+            },
+            "label": {
+                "@id": "schema:name"
+            },
+            "title": {
+                "@id": "schema:name"
+            },
+            "protocolDescription": {
+                "@id": "schema:description"
+            },
+            "annotationCriteria": {
+                "@id": "bia:annotationCriteria"
+            },
+            "annotationCoverage": {
+                "@id": "bia:annotationCoverage"
+            },
+            "transformationDescription": {
+                "@id": "bia:transformationDescription"
+            },
+            "spatialInformation": {
+                "@id": "bia:spatialInformation"
+            },
+            "methodType": {
+                "@id": "bia:annotationMethodType"
+            },
+            "annotationSourceIndicator": {
+                "@id": "bia:annotationSourceIndicator"
+            },
+            "biologicalEntityDescription": {
+                "@id": "bia:biologicalEntityDescription"
+            },
+            "experimentalVariableDescription": {
+                "@id": "bia:experimentalVariableDescription"
+            },
+            "extrinsicVariableDescription": {
+                "@id": "bia:extrinsicVariableDescription"
+            },
+            "intrinsicVariableDescription": {
+                "@id": "bia:intrinsicVariableDescription"
+            },
+            "organismClassification": {
+                "@id": "bia:organismClassification"
+            },
+            "growthProtocol": {
+                "@id": "bia:growthProtocol"
+            },
+            "columnName": {
+                "@id": "csvw:name"
+            },
+            "propertyUrl": {
+                "@id": "csvw:propertyUrl"
+            },
+            "affiliation": {
+                "@id": "schema:memberOf"
+            },
+            "role": {
+                "@id": "bia:role"
+            },
+            "contactEmail": {
+                "@id": "schema:email"
+            },
+            "imageAcquisitionProtocol": {
+                "@id": "bia:imageAcquisitionProtocol"
+            },
+            "subject": {
+                "@id": "bia:subject"
+            },
+            "protocol": {
+                "@id": "bia:protocol"
+            },
+            "annotationMethod": {
+                "@id": "bia:annotationMethod"
+            },
+            "inputImage": {
+                "@id": "bia:inputImage"
+            },
+            "description": {
+                "@id": "schema:description"
+            },
+            "associatedBiologicalEntity": {
+                "@id": "bia:associatedBiologicalEntity"
+            },
+            "associatedSpecimenImagingPreparationProtocol": {
+                "@id": "bia:associatedImagingPreparationProtocol"
+            },
+            "associatedSpecimen": {
+                "@id": "bia:associatedSubject"
+            },
+            "associatedImageAcquisitionProtocol": {
+                "@id": "bia:associatedImageAcquisitionProtocol"
+            },
+            "associatedAnnotationMethod": {
+                "@id": "bia:associatedAnnotationMethod"
+            },
+            "associatedImageAnalysisMethod": {
+                "@id": "bia:associatedAnalysisMethod"
+            },
+            "associatedImageCorrelationMethod": {
+                "@id": "bia:associatedCorrelationMethod"
+            },
+            "associatedProtocol": {
+                "@id": "bia:associatedProtocol"
+            },
+            "hasPart": {
+                "@id": "schema:hasPart"
+            },
+            "associationFileMetadata": {
+                "@id": "bia:associationFileMetadata"
+            },
+            "link": {
+                "@id": "schema:url"
+            },
+            "linkDescription": {
+                "@id": "schema:description"
+            },
+            "tableSchema": {
+                "@id": "csvw:tableSchema"
+            },
+            "imagingInstrumentDescription": {
+                "@id": "bia:imagingInstrumentDescription"
+            },
+            "imagingMethodName": {
+                "@id": "bia:imagingMethodName"
+            },
+            "fbbiId": {
+                "@id": "bia:fbbiId"
+            },
+            "featuresAnalysed": {
+                "@id": "bia:featuresAnalysed"
+            },
+            "fiducialsUsed": {
+                "@id": "bia:fiducialsUsed"
+            },
+            "transformationMatrix": {
+                "@id": "bia:transformationMatrix"
+            },
+            "authorNames": {
+                "@id": "bia:authorNames"
+            },
+            "signalContrastMechanismDescription": {
+                "@id": "bia:signalContrastMechanismDescription"
+            },
+            "channelContentDescription": {
+                "@id": "bia:channelContentDescription"
+            },
+            "channelBiologicalEntity": {
+                "@id": "bia:channelBiologicalEntity"
+            },
+            "channelLabel": {
+                "@id": "dc:identifier"
+            },
+            "biologicalEntity": {
+                "@id": "bia:sampleOf"
+            },
+            "imagingPreparationProtocol": {
+                "@id": "bia:imagingPreparationProtocol"
+            },
+            "signalChannelInformation": {
+                "@id": "bia:signalChannelInformation"
+            },
+            "contributor": {
+                "@id": "schema:author"
+            },
+            "licence": {
+                "@id": "schema:license"
+            },
+            "datePublished": {
+                "@id": "schema:datePublished"
+            },
+            "keyword": {
+                "@id": "schema:keywords"
+            },
+            "acknowledgement": {
+                "@id": "bia:acknowledgement"
+            },
+            "accessionId": {
+                "@id": "schema:identifier"
+            },
+            "column": {
+                "@id": "csvw:column"
+            },
+            "commonName": {
+                "@id": "bia:commonName"
+            },
+            "scientificName": {
+                "@id": "bia:scientificName"
+            }
+        }
+    ],
+    "@graph": [
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "about": {
+                "@id": "./"
+            }
+        },
+        {
+            "@id": "./",
+            "@type": [
+                "Dataset",
+                "bia:Study"
+            ],
+            "title": "In situ cryo-electron tomography of the C. reinhardtii ciliary transition zone",
+            "contributor": [
+                {
+                    "@id": "https://orcid.org/0000-0003-4978-8516"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-2631-2294"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-6248-8863"
+                },
+                {
+                    "@id": "_:c0"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-4247-4303"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-8748-1748"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-8289-9133"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-2497-3010"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-6095-9721"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-6402-8315"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-8154-8809"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-2295-9568"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-5092-2343"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-0363-1049"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-0941-4387"
+                }
+            ],
+            "description": "",
+            "licence": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "datePublished": "2022-08-12",
+            "keyword": [],
+            "acknowledgement": null,
+            "hasPart": [
+                {
+                    "@id": "Unaligned%20tilt%20series%20raw%20frames%20data/Tomo1/raw_data/raw_frames/"
+                },
+                {
+                    "@id": "Aligned%20tilt%20series%20stacks%20data/Tomo1/"
+                },
+                {
+                    "@id": "CTF-corrected%20bin2%20tomograms%20data/bin2_CTFcorrected_tomos_usedinalignments/"
+                },
+                {
+                    "@id": "CTF-corrected%20bin4%20tomograms%20data/bin4_CTFcorrected_tomos_usedinalignments/"
+                },
+                {
+                    "@id": "Subtomograms%20at%20bin2%20data/subtomograms_bin2/"
+                },
+                {
+                    "@id": "Deconvoluted%20bin4%20tomograms%20for%20visualization%20data/bin4_deconvoluted_tomos_forvisualisation/"
+                }
+            ],
+            "accessionId": "EMPIAR-11078"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-0941-4387",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Engel BD",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-0363-1049",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Guichard P",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-5092-2343",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Hamel V",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-2295-9568",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Pigino G",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-8154-8809",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Baumeister W",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-6402-8315",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Plitzko JM",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-6095-9721",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Geimer S",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-2497-3010",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Wan W",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-8289-9133",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Erdmann PS",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-8748-1748",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Schaffer M",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-4247-4303",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Righetto RD",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "_:c0",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Alvarez Viar G",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-6248-8863",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Jordan MA",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-2631-2294",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Klena N",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-4978-8516",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "van den Hoek H",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "Subtomograms%20at%20bin2%20data/subtomograms_bin2/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "Unaligned%20tilt%20series%20raw%20frames%20data/Tomo1/raw_data/raw_frames/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "Deconvoluted%20bin4%20tomograms%20for%20visualization%20data/bin4_deconvoluted_tomos_forvisualisation/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "CTF-corrected%20bin4%20tomograms%20data/bin4_CTFcorrected_tomos_usedinalignments/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "CTF-corrected%20bin2%20tomograms%20data/bin2_CTFcorrected_tomos_usedinalignments/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "Aligned%20tilt%20series%20stacks%20data/Tomo1/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "_:col7",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_protocol",
+            "propertyUrl": "http://bia/associatedProtocol"
+        },
+        {
+            "@id": "_:col6",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_annotation_method",
+            "propertyUrl": "http://bia/associatedAnnotationMethod"
+        },
+        {
+            "@id": "_:col5",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_specimen",
+            "propertyUrl": "http://bia/associatedSubject"
+        },
+        {
+            "@id": "_:col4",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "source_image_label",
+            "propertyUrl": "http://bia/sourceImageLabel"
+        },
+        {
+            "@id": "_:col3",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "label",
+            "propertyUrl": "http://schema.org/name"
+        },
+        {
+            "@id": "_:col2",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "type",
+            "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        {
+            "@id": "_:col1",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "size_in_bytes",
+            "propertyUrl": "http://bia/sizeInBytes"
+        },
+        {
+            "@id": "_:col0",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "file_path",
+            "propertyUrl": "http://bia/filePath"
+        },
+        {
+            "@id": "_:ts0",
+            "@type": [
+                "csvw:Schema"
+            ],
+            "column": [
+                {
+                    "@id": "_:col0"
+                },
+                {
+                    "@id": "_:col1"
+                },
+                {
+                    "@id": "_:col2"
+                },
+                {
+                    "@id": "_:col3"
+                },
+                {
+                    "@id": "_:col4"
+                },
+                {
+                    "@id": "_:col5"
+                },
+                {
+                    "@id": "_:col6"
+                },
+                {
+                    "@id": "_:col7"
+                }
+            ]
+        },
+        {
+            "@id": "Deconvoluted%20bin4%20tomograms%20for%20visualization%20data/bin4_deconvoluted_tomos_forvisualisation/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "title": "Deconvoluted bin4 tomograms for visualization",
+            "description": "Volumes reconstructed in IMOD were deconvoluted using tom_deconv.m:\nhttps://github.com/dtegunov/tom_deconv/blob/master/tom_deconv.m",
+            "associatedBiologicalEntity": [],
+            "associatedSpecimenImagingPreparationProtocol": [],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tomogram binning and deconvolution filtering"
+                },
+                {
+                    "@id": "_:Tomogram contrast enhancement"
+                }
+            ],
+            "hasPart": [
+                {
+                    "@id": "Deconvoluted%20bin4%20tomograms%20for%20visualization%20data/bin4_deconvoluted_tomos_forvisualisation/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Deconvoluted%20bin4%20tomograms%20for%20visualization%20data/bin4_deconvoluted_tomos_forvisualisation/file_list.tsv"
+            }
+        },
+        {
+            "@id": "Subtomograms%20at%20bin2%20data/subtomograms_bin2/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "title": "Subtomograms at bin2",
+            "description": "Subtomograms extracted from bin2 tomograms used in alignments and averaging. Each sub-directory contains the particles for a specific structure, namely:\nA/ (IFT-A)\nB/ (IFT-B)\nD/ (IFT-Dynein 1b)\nMTD-MIP/\nSleeve/\nStellate/\nY-link/",
+            "associatedBiologicalEntity": [],
+            "associatedSpecimenImagingPreparationProtocol": [],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Subtomogram averaging"
+                }
+            ],
+            "hasPart": [
+                {
+                    "@id": "Subtomograms%20at%20bin2%20data/subtomograms_bin2/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Subtomograms%20at%20bin2%20data/subtomograms_bin2/file_list.tsv"
+            }
+        },
+        {
+            "@id": "CTF-corrected%20bin4%20tomograms%20data/bin4_CTFcorrected_tomos_usedinalignments/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "title": "CTF-corrected bin4 tomograms",
+            "description": "Volumes reconstructed in IMOD at bin4 using phase-flipping for CTF correction.",
+            "associatedBiologicalEntity": [],
+            "associatedSpecimenImagingPreparationProtocol": [],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tomogram reconstruction"
+                },
+                {
+                    "@id": "_:Tomogram binning and deconvolution filtering"
+                }
+            ],
+            "hasPart": [
+                {
+                    "@id": "CTF-corrected%20bin4%20tomograms%20data/bin4_CTFcorrected_tomos_usedinalignments/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "CTF-corrected%20bin4%20tomograms%20data/bin4_CTFcorrected_tomos_usedinalignments/file_list.tsv"
+            }
+        },
+        {
+            "@id": "CTF-corrected%20bin2%20tomograms%20data/bin2_CTFcorrected_tomos_usedinalignments/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "title": "CTF-corrected bin2 tomograms",
+            "description": "Volumes reconstructed in IMOD at bin2 using phase-flipping for CTF correction.",
+            "associatedBiologicalEntity": [],
+            "associatedSpecimenImagingPreparationProtocol": [],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [],
+            "associatedAnnotationMethod": [
+                {
+                    "@id": "_:Manual particle picking"
+                },
+                {
+                    "@id": "_:Particle refinement"
+                }
+            ],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tomogram reconstruction"
+                },
+                {
+                    "@id": "_:Tomogram binning and deconvolution filtering"
+                }
+            ],
+            "hasPart": [
+                {
+                    "@id": "CTF-corrected%20bin2%20tomograms%20data/bin2_CTFcorrected_tomos_usedinalignments/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "CTF-corrected%20bin2%20tomograms%20data/bin2_CTFcorrected_tomos_usedinalignments/file_list.tsv"
+            }
+        },
+        {
+            "@id": "Aligned%20tilt%20series%20stacks%20data/Tomo1/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "title": "Aligned tilt series stacks",
+            "description": "Drift-corrected, aligned tilt series for each tomogram in a single stack (.ali extension from IMOD)",
+            "associatedBiologicalEntity": [],
+            "associatedSpecimenImagingPreparationProtocol": [],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tilt series preprocessing"
+                }
+            ],
+            "hasPart": [
+                {
+                    "@id": "Aligned%20tilt%20series%20stacks%20data/Tomo1/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Aligned%20tilt%20series%20stacks%20data/Tomo1/file_list.tsv"
+            }
+        },
+        {
+            "@id": "Unaligned%20tilt%20series%20raw%20frames%20data/Tomo1/raw_data/raw_frames/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "title": "Unaligned tilt series raw frames",
+            "description": "Raw frames from Titan Krios (300 kV, Cs 2.7 mm) equipped with K2 direct electron detector in counting mode and energy filter. The number of frames is variable. In each of the 20 tomogram folders (Tomo1-Tomo20), there is:\nAligned tilt series (.ali file)\nraw_data/imod_metadata/ (.defocus, .tlt and .xf metadata files for reconstruction in IMOD)\nraw_data/mdocs/ (.mdoc files from SerialEM with data collection information)\nraw_data/raw_frames/ (raw frames for individual tilts in MRC format, compressed with bzip2)",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:Cryo-electron tomography"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "Unaligned%20tilt%20series%20raw%20frames%20data/Tomo1/raw_data/raw_frames/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Unaligned%20tilt%20series%20raw%20frames%20data/Tomo1/raw_data/raw_frames/file_list.tsv"
+            }
+        },
+        {
+            "@id": "_:Subtomogram averaging",
+            "@type": [
+                "bia:Protocol"
+            ],
+            "title": "Subtomogram averaging",
+            "protocolDescription": "Subtomogram alignment and averaging was performed using STOPGAP (v0.3.1). Initial positions for each particle type were twice oversampled and extracted along an interpolated line through the filament's corresponding particle positions in CTF-corrected, dose-filtered tomograms. Particles were aligned to their own initial average, generated using randomized rotations along the filament's longitudinal axis, to obtain bias-free de novo averages. Averages were low-pass filtered to 40 \u00c5 and iteratively realigned using cylindrical masks with varying tolerances and Euler angle sampling cones. Particles with aberrant orientations were removed based on cross correlation (CC) score thresholds, and overlapping redundant particles from oversampling were discarded. Final alignment and averaging was performed with bin2 dose-filtered, CTF-corrected subvolumes (6.84 \u00c5 pixel size), using a wide cylindrical mask, tight cross correlation mask, and narrow Euler angle sampling cone. Resolution was estimated using mask-corrected Fourier shell correlation with even/odd particle half-sets."
+        },
+        {
+            "@id": "_:Tomogram contrast enhancement",
+            "@type": [
+                "bia:Protocol"
+            ],
+            "title": "Tomogram contrast enhancement",
+            "protocolDescription": "Contrast enhancement for display purposes and distance measurements was achieved using the tom_deconv deconvolution filter (https://github.com/dtegunov/tom_deconv)."
+        },
+        {
+            "@id": "_:Tomogram binning and deconvolution filtering",
+            "@type": [
+                "bia:Protocol"
+            ],
+            "title": "Tomogram binning and deconvolution filtering",
+            "protocolDescription": "Deconvolution-filtered and CTF-corrected tomograms were binned by factors of 4 and 2 (13.68 \u00c5 and 6.84 \u00c5 pixel size, respectively)."
+        },
+        {
+            "@id": "_:Tomogram reconstruction",
+            "@type": [
+                "bia:Protocol"
+            ],
+            "title": "Tomogram reconstruction",
+            "protocolDescription": "After alignment, tomographic volumes were reconstructed with weighted back-projection. We applied quality control criteria including tilt-series alignment scores and the power spectra of individual tilts to omit poor tilts from tomograms."
+        },
+        {
+            "@id": "_:Tilt series preprocessing",
+            "@type": [
+                "bia:Protocol"
+            ],
+            "title": "Tilt series preprocessing",
+            "protocolDescription": "Frames from the K2 detector were drift-corrected with MotionCor2 software using 3 \u00d7 3 patches, after which tilt-series stacks were assembled using the TOMOMAN pipeline (https://doi.org/10.5281/zenodo.4110737). The defocus of each tilt was estimated using Gctf, tilt images were low-pass filtered proportional to the accumulated dose (\u201cdose-filtering\u201d in TOMOMAN), and then CTF-correction was applied using the CTFphaseflip tool in IMOD software. Using IMOD, the tilt-series were aligned with patch tracking."
+        },
+        {
+            "@id": "_:Particle refinement",
+            "@type": [
+                "bia:AnnotationMethod"
+            ],
+            "title": "Particle refinement",
+            "protocolDescription": "Subtomogram alignment and averaging was performed using STOPGAP (v0.3.1). Initial positions for each particle type were twice oversampled and extracted along an interpolated line through the filament's corresponding particle positions in CTF-corrected, dose-filtered tomograms. Particles were aligned to their own initial average, generated using randomized rotations along the filament's longitudinal axis, to obtain bias-free de novo averages. Averages were low-pass filtered to 40 \u00c5 and iteratively realigned using cylindrical masks with varying tolerances and Euler angle sampling cones. Particles with aberrant orientations were removed based on cross correlation (CC) score thresholds, and overlapping redundant particles from oversampling were discarded. Final alignment and averaging was performed with bin2 dose-filtered, CTF-corrected subvolumes (6.84 \u00c5 pixel size), using a wide cylindrical mask, tight cross correlation mask, and narrow Euler angle sampling cone. Resolution was estimated using mask-corrected Fourier shell correlation with even/odd particle half-sets.",
+            "annotationCriteria": null,
+            "annotationCoverage": null,
+            "transformationDescription": null,
+            "spatialInformation": null,
+            "methodType": [
+                "point_annotations"
+            ],
+            "annotationSourceIndicator": null
+        },
+        {
+            "@id": "_:Manual particle picking",
+            "@type": [
+                "bia:AnnotationMethod"
+            ],
+            "title": "Manual particle picking",
+            "protocolDescription": "IFT-A, IFT-B, and dynein-1b positions on each IFT train, as well as the stellate fibers, Y-links, and MTD sleeve, were manually picked along the train or MTD in a consistent distal-to-proximal fashion, in deconvolution-filtered bin4 tomograms (13.68 \u00c5 pixel size) using IMOD's 3dmod viewer.",
+            "annotationCriteria": null,
+            "annotationCoverage": null,
+            "transformationDescription": null,
+            "spatialInformation": null,
+            "methodType": [
+                "point_annotations"
+            ],
+            "annotationSourceIndicator": null
+        },
+        {
+            "@id": "_:Specimen 20",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 19",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 18",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 17",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 16",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 15",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 14",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 13",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 12",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 11",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 10",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 09",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 08",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 07",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 06",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 05",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 04",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 03",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 02",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 01",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Chlamydomonas reinhardtii"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling",
+            "@type": [
+                "bia:SpecimenImagingPreparationProtocol"
+            ],
+            "title": "Cryo-ET sample preparation and focused ion beam (FIB) milling",
+            "protocolDescription": "Cells were induced to form gametes by nitrogen starvation in order to reduce the size of the cell body. Ciliary abscission occurred spontaneously during blotting (no deciliation treatment was used), only seconds before cryo-immobilization by plunge freezing. Both vitrification and FIB milling protocols were performed as described in (14, 16). Grids were glow discharged for 30 seconds with normal air in a Harick PDC-32G plasma cleaner. Using a Vitrobot Mark 4 (FEI Thermo Fisher), 4 \u03bcL of cell culture (mid-log phase cells with steady-state length cilia, diluted to \u223c1,000 cells per \u03bcL) was blotted (10 seconds, 80% humidity, blot force 10) onto holey carbon-coated 200-mesh copper EM grids (Quantifoil Micro Tools) and plunge-frozen using a liquid ethane/propane mixture. CC-3994 and CC-4533 cells were blotted onto R2/1 and R3.5/1 grids, respectively. Cryo-FIB sample preparation was performed using either a Quanta or Scios dual-beam FIB/SEM instrument (FEI, Thermo Fisher Scientific). Mounted in an Autogrid support, the grids were first coated with an organometallic platinum layer using a gas injection system. Subsequently, the cells were milled with a gallium ion beam to produce \u223c70- to 200-nm-thick lamellae, exposing the cellular interior.",
+            "signalChannelInformation": []
+        },
+        {
+            "@id": "_:Cryo-electron tomography",
+            "@type": [
+                "bia:ImageAcquisitionProtocol"
+            ],
+            "title": "Cryo-electron tomography",
+            "protocolDescription": "EM grids with FIB-thinned cells were transferred to a 300 kV Titan Krios microscope (FEI, Thermo Fisher Scientific), equipped with a post-column energy filter (Gatan) and a K2 Summit direct detector camera (Gatan). Using SerialEM software, tilt-series were acquired from \u221260\u00b0 to +60\u00b0, with 2\u00b0 increments (bidirectional, separated at \u22120\u00b0 or \u221220\u00b0). A subset was collected using a dose-symmetrical tilt scheme. Images were recorded in movie mode at 12 frames per second, with an object pixel size of 3.42 \u00c5 (magnification of 42,000x) and a defocus of \u22124 to \u22126 \u03bcm. The total accumulated dose for each tilt-series was \u223c100 e\u2212/\u00c52. Each tomogram was acquired from a separate cell and therefore can be considered a biological replicate. Several different cell cultures and >10 imaging sessions were used to produce the dataset of 20 tomograms.",
+            "imagingInstrumentDescription": "300 kV Titan Krios microscope (FEI, Thermo Fisher Scientific), equipped with a post-column energy filter (Gatan) and a K2 Summit direct detector camera (Gatan).",
+            "imagingMethodName": [
+                "cryo-electron tomography"
+            ],
+            "fbbiId": [
+                "obo:FBbi_00000256"
+            ]
+        },
+        {
+            "@id": "NCBI:txid3055",
+            "@type": [
+                "bia:Taxon"
+            ],
+            "commonName": "Chlamydomonas reinhardtii",
+            "scientificName": "Chlamydomonas reinhardtii"
+        },
+        {
+            "@id": "_:Chlamydomonas reinhardtii",
+            "@type": [
+                "bia:BioSample"
+            ],
+            "title": "Chlamydomonas reinhardtii",
+            "biologicalEntityDescription": "C. reinhardtii cells, obtained from the Chlamydomonas Resource Center (University of Minnesota, Minneapolis, MN USA). For in situ cryo-ET, we used strain CC-3994 (mat3-4 mt+). This strain has smaller cells, which is beneficial for vitrification during plunge freezing and also increases the chances of hitting a transition zone region by FIB milling. For cryo-ET of basal bodies following ciliary abscission, we used strain CC-4533 (cw15 mt-; Jonikas CMJ030). This strain lacks a cell wall and thus easily ruptures during blotting onto EM grids, enabling cryo-ET of basal bodies in thin ice without FIB milling.",
+            "experimentalVariableDescription": [],
+            "extrinsicVariableDescription": [],
+            "intrinsicVariableDescription": [],
+            "organismClassification": [
+                {
+                    "@id": "NCBI:txid3055"
+                }
+            ],
+            "growthProtocol": null
+        }
+    ]
+}

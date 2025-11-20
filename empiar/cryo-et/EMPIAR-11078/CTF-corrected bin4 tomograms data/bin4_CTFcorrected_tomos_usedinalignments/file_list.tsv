@@ -1,0 +1,82 @@
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/bin4_CTFcorrected_tomos_usedinalignments/1.rec	799179776	http://bia/Image	Tomogram 01, bin4, CTF-corrected	Tilt series 01			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/10.rec	799179776	http://bia/Image	Tomogram 10, bin4, CTF-corrected	Tilt series 10			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/11.rec	799179776	http://bia/Image	Tomogram 11, bin4, CTF-corrected	Tilt series 11			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/12.rec	799179776	http://bia/Image	Tomogram 12, bin4, CTF-corrected	Tilt series 12			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/13.rec	799179776	http://bia/Image	Tomogram 13, bin4, CTF-corrected	Tilt series 13			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/14.rec	799179776	http://bia/Image	Tomogram 14, bin4, CTF-corrected	Tilt series 14			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/15.rec	799179776	http://bia/Image	Tomogram 15, bin4, CTF-corrected	Tilt series 15			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/16.rec	799179776	http://bia/Image	Tomogram 16, bin4, CTF-corrected	Tilt series 16			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/17.rec	799179776	http://bia/Image	Tomogram 17, bin4, CTF-corrected	Tilt series 17			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/18.rec	799179776	http://bia/Image	Tomogram 18, bin4, CTF-corrected	Tilt series 18			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/19.rec	799179776	http://bia/Image	Tomogram 19, bin4, CTF-corrected	Tilt series 19			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/2.rec	799179776	http://bia/Image	Tomogram 02, bin4, CTF-corrected	Tilt series 02			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/20.rec	799179776	http://bia/Image	Tomogram 20, bin4, CTF-corrected	Tilt series 20			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/3.rec	799179776	http://bia/Image	Tomogram 03, bin4, CTF-corrected	Tilt series 03			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/4.rec	799179776	http://bia/Image	Tomogram 04, bin4, CTF-corrected	Tilt series 04			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/5.rec	799179776	http://bia/Image	Tomogram 05, bin4, CTF-corrected	Tilt series 05			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/6.rec	799179776	http://bia/Image	Tomogram 06, bin4, CTF-corrected	Tilt series 06			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/7.rec	799179776	http://bia/Image	Tomogram 07, bin4, CTF-corrected	Tilt series 07			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/8.rec	799179776	http://bia/Image	Tomogram 08, bin4, CTF-corrected	Tilt series 08			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/9.rec	799179776	http://bia/Image	Tomogram 09, bin4, CTF-corrected	Tilt series 09			['_:Tomogram reconstruction', '_:Tomogram binning and deconvolution filtering']
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/10_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/10_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/10_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/11_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/11_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/11_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/12_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/12_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/12_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/13_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/13_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/13_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/15_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/15_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/15_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/16_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/16_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/16_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/17_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/17_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/17_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/18_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/18_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/18_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/19_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/19_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/19_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/1_bmask.mod	1727						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/1_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/1_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/1_bmask.txt~	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/20_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/20_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/20_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/2_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/2_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/2_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/3_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/3_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/3_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/4_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/4_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/4_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/5_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/5_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/5_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/6_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/6_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/6_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/7_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/7_bmask.mod~	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/7_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/7_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/7_bmask.txt~	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/8_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/8_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/8_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/9_bmask.mod	1123						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/9_bmask.mrc	799179776						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/9_bmask.txt	444						
+data/bin4_CTFcorrected_tomos_usedinalignments/boundary_masks/create_boundary_masks.py	278						

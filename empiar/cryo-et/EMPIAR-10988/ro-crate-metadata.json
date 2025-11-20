@@ -353,7 +353,7 @@
             }
         },
         {
-            "@id": "_:col6",
+            "@id": "_:col7",
             "@type": [
                 "csvw:Column"
             ],
@@ -361,12 +361,20 @@
             "propertyUrl": "http://bia/associatedProtocol"
         },
         {
-            "@id": "_:col5",
+            "@id": "_:col6",
             "@type": [
                 "csvw:Column"
             ],
             "columnName": "associated_annotation_method",
             "propertyUrl": "http://bia/associatedAnnotationMethod"
+        },
+        {
+            "@id": "_:col5",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_specimen",
+            "propertyUrl": "http://bia/associatedSubject"
         },
         {
             "@id": "_:col4",
@@ -434,6 +442,9 @@
                 },
                 {
                     "@id": "_:col6"
+                },
+                {
+                    "@id": "_:col7"
                 }
             ]
         },
@@ -452,68 +463,15 @@
             "associatedAnnotationMethod": [
                 {
                     "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in VPP data"
                 }
             ],
             "associatedImageAnalysisMethod": [],
             "associatedImageCorrelationMethod": [],
-            "associatedProtocol": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tomographic reconstruction"
+                }
+            ],
             "hasPart": [
                 {
                     "@id": "Reconstructed%20cryo-electron%20tomograms%20acquired%20with%20a%20Volta%20potential%20phase%20plate%20%28VPP%29%20and%20defocus%20on%20S.%20pombe%20cryo-FIB%20lamellae%20data/VPP/tomograms/file_list.tsv"
@@ -538,7 +496,11 @@
             "associatedAnnotationMethod": [],
             "associatedImageAnalysisMethod": [],
             "associatedImageCorrelationMethod": [],
-            "associatedProtocol": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tilt series preprocessing"
+                }
+            ],
             "hasPart": [
                 {
                     "@id": "Tilt%20series%20stacks%20and%20metadata%20of%20cryo-electron%20tomograms%20acquired%20with%20a%20Volta%20potential%20phase%20plate%20%28VPP%29%20and%20defocus%20on%20S.%20pombe%20cryo-FIB%20lamellae%20data/VPP/metadata/file_list.tsv"
@@ -600,68 +562,15 @@
             "associatedAnnotationMethod": [
                 {
                     "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
-                },
-                {
-                    "@id": "_:Annotation of ribosomes and fatty acid synthase (FAS) in defocus-only data"
                 }
             ],
             "associatedImageAnalysisMethod": [],
             "associatedImageCorrelationMethod": [],
-            "associatedProtocol": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tomographic reconstruction"
+                }
+            ],
             "hasPart": [
                 {
                     "@id": "Reconstructed%20cryo-electron%20tomograms%20acquired%20with%20defocus-only%20%28DEF%29%20on%20S.%20pombe%20cryo-FIB%20lamellae%20data/DEF/tomograms/file_list.tsv"
@@ -686,7 +595,11 @@
             "associatedAnnotationMethod": [],
             "associatedImageAnalysisMethod": [],
             "associatedImageCorrelationMethod": [],
-            "associatedProtocol": [],
+            "associatedProtocol": [
+                {
+                    "@id": "_:Tilt series preprocessing"
+                }
+            ],
             "hasPart": [
                 {
                     "@id": "Tilt%20series%20stacks%20and%20metadata%20of%20cryo-electron%20tomograms%20acquired%20with%20defocus-only%20%28DEF%29%20on%20S.%20pombe%20cryo-FIB%20lamellae%20data/DEF/metadata/file_list.tsv"
@@ -760,7 +673,9 @@
             "annotationCoverage": null,
             "transformationDescription": null,
             "spatialInformation": null,
-            "methodType": [],
+            "methodType": [
+                "point_annotations"
+            ],
             "annotationSourceIndicator": null
         },
         {
@@ -774,8 +689,330 @@
             "annotationCoverage": null,
             "transformationDescription": null,
             "spatialInformation": null,
-            "methodType": [],
+            "methodType": [
+                "point_annotations"
+            ],
             "annotationSourceIndicator": null
+        },
+        {
+            "@id": "_:Specimen 10",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 9",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 8",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 7",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 6",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 5",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 4",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 3",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 2",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 1",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 45",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 43",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 41",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 37",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 34",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 30",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 29",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 28",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 27",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
+        },
+        {
+            "@id": "_:Specimen 26",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:S. pombe wild-type cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling"
+                }
+            ]
         },
         {
             "@id": "_:Cryo-ET sample preparation and focused ion beam (FIB) milling",

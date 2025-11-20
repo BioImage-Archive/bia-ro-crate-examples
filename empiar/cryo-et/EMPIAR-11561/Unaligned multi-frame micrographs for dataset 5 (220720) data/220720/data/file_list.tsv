@@ -1,0 +1,349 @@
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
+data/220720/data/CountRef.mrc	94240768						
+data/220720/data/defects.tif	1036290						
+data/220720/data/frames/TS_001_35_001_13.0.tif	55580770	http://bia/Image	Frames 1_001_13.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_002_15.0.tif	55632512	http://bia/Image	Frames 1_002_15.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_003_17.0.tif	55604452	http://bia/Image	Frames 1_003_17.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_004_11.0.tif	55563760	http://bia/Image	Frames 1_004_11.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_005_9.0.tif	55505304	http://bia/Image	Frames 1_005_9.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_006_19.0.tif	55546788	http://bia/Image	Frames 1_006_19.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_007_21.0.tif	55494536	http://bia/Image	Frames 1_007_21.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_008_7.0.tif	55401914	http://bia/Image	Frames 1_008_7.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_009_5.0.tif	55281872	http://bia/Image	Frames 1_009_5.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_010_23.0.tif	55385168	http://bia/Image	Frames 1_010_23.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_011_25.0.tif	55235078	http://bia/Image	Frames 1_011_25.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_012_3.0.tif	55173070	http://bia/Image	Frames 1_012_3.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_013_1.0.tif	54933258	http://bia/Image	Frames 1_013_1.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_014_27.0.tif	55094398	http://bia/Image	Frames 1_014_27.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_015_29.0.tif	54895418	http://bia/Image	Frames 1_015_29.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_016_-1.0.tif	54765180	http://bia/Image	Frames 1_016_-1.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_017_-3.0.tif	54481946	http://bia/Image	Frames 1_017_-3.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_018_31.0.tif	54663038	http://bia/Image	Frames 1_018_31.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_019_33.0.tif	54427616	http://bia/Image	Frames 1_019_33.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_020_-5.0.tif	54204412	http://bia/Image	Frames 1_020_-5.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_021_-7.0.tif	53895404	http://bia/Image	Frames 1_021_-7.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_022_35.0.tif	54124460	http://bia/Image	Frames 1_022_35.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_023_37.0.tif	53781530	http://bia/Image	Frames 1_023_37.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_024_-9.0.tif	53562550	http://bia/Image	Frames 1_024_-9.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_025_-11.0.tif	53114538	http://bia/Image	Frames 1_025_-11.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_026_39.0.tif	53452412	http://bia/Image	Frames 1_026_39.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_027_41.0.tif	53055430	http://bia/Image	Frames 1_027_41.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_028_-13.0.tif	52701974	http://bia/Image	Frames 1_028_-13.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_029_-15.0.tif	52185038	http://bia/Image	Frames 1_029_-15.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_030_43.0.tif	52606738	http://bia/Image	Frames 1_030_43.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_031_45.0.tif	52142942	http://bia/Image	Frames 1_031_45.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_032_-17.0.tif	51743236	http://bia/Image	Frames 1_032_-17.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_033_-19.0.tif	51149876	http://bia/Image	Frames 1_033_-19.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_034_47.0.tif	51519802	http://bia/Image	Frames 1_034_47.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_035_49.0.tif	50938320	http://bia/Image	Frames 1_035_49.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_036_-21.0.tif	50503190	http://bia/Image	Frames 1_036_-21.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_037_-23.0.tif	49749782	http://bia/Image	Frames 1_037_-23.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_038_51.0.tif	50265884	http://bia/Image	Frames 1_038_51.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_039_53.0.tif	49559902	http://bia/Image	Frames 1_039_53.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_040_-25.0.tif	49022052	http://bia/Image	Frames 1_040_-25.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_041_-27.0.tif	48154820	http://bia/Image	Frames 1_041_-27.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_042_55.0.tif	48723298	http://bia/Image	Frames 1_042_55.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_043_57.0.tif	47880406	http://bia/Image	Frames 1_043_57.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_044_-29.0.tif	47255930	http://bia/Image	Frames 1_044_-29.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_045_-31.0.tif	46238260	http://bia/Image	Frames 1_045_-31.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_046_59.0.tif	46872826	http://bia/Image	Frames 1_046_59.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_047_61.0.tif	45816110	http://bia/Image	Frames 1_047_61.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_048_-33.0.tif	45108770	http://bia/Image	Frames 1_048_-33.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_049_-35.0.tif	43867972	http://bia/Image	Frames 1_049_-35.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_050_63.0.tif	44621474	http://bia/Image	Frames 1_050_63.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_051_65.0.tif	43399232	http://bia/Image	Frames 1_051_65.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_052_-37.0.tif	42534444	http://bia/Image	Frames 1_052_-37.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_053_-39.0.tif	41009342	http://bia/Image	Frames 1_053_-39.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_054_67.0.tif	41933596	http://bia/Image	Frames 1_054_67.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_055_-41.0.tif	39398118	http://bia/Image	Frames 1_055_-41.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_056_-43.0.tif	37527494	http://bia/Image	Frames 1_056_-43.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_057_-45.0.tif	35635360	http://bia/Image	Frames 1_057_-45.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_058_-47.0.tif	33531320	http://bia/Image	Frames 1_058_-47.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_059_-49.0.tif	31406724	http://bia/Image	Frames 1_059_-49.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_060_-51.0.tif	29159442	http://bia/Image	Frames 1_060_-51.0		_:Specimen 1		
+data/220720/data/frames/TS_001_35_061_-53.0.tif	26843462	http://bia/Image	Frames 1_061_-53.0		_:Specimen 1		
+data/220720/data/frames/TS_002_37_001_13.0.tif	52328874	http://bia/Image	Frames 2_001_13.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_002_15.0.tif	52295572	http://bia/Image	Frames 2_002_15.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_003_17.0.tif	52233504	http://bia/Image	Frames 2_003_17.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_004_11.0.tif	52327606	http://bia/Image	Frames 2_004_11.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_005_9.0.tif	52314726	http://bia/Image	Frames 2_005_9.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_006_19.0.tif	52153084	http://bia/Image	Frames 2_006_19.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_007_21.0.tif	52031002	http://bia/Image	Frames 2_007_21.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_008_7.0.tif	52259248	http://bia/Image	Frames 2_008_7.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_009_5.0.tif	52152318	http://bia/Image	Frames 2_009_5.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_010_23.0.tif	51887594	http://bia/Image	Frames 2_010_23.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_011_25.0.tif	51669510	http://bia/Image	Frames 2_011_25.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_012_3.0.tif	52018454	http://bia/Image	Frames 2_012_3.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_013_1.0.tif	51848574	http://bia/Image	Frames 2_013_1.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_014_27.0.tif	51453690	http://bia/Image	Frames 2_014_27.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_015_29.0.tif	51158624	http://bia/Image	Frames 2_015_29.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_016_-1.0.tif	51700276	http://bia/Image	Frames 2_016_-1.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_017_-3.0.tif	51444518	http://bia/Image	Frames 2_017_-3.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_018_31.0.tif	50911108	http://bia/Image	Frames 2_018_31.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_019_33.0.tif	50534680	http://bia/Image	Frames 2_019_33.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_020_-5.0.tif	51198314	http://bia/Image	Frames 2_020_-5.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_021_-7.0.tif	50874870	http://bia/Image	Frames 2_021_-7.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_022_35.0.tif	50149314	http://bia/Image	Frames 2_022_35.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_023_37.0.tif	49725716	http://bia/Image	Frames 2_023_37.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_024_-9.0.tif	50523936	http://bia/Image	Frames 2_024_-9.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_025_-11.0.tif	50111432	http://bia/Image	Frames 2_025_-11.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_026_39.0.tif	49213370	http://bia/Image	Frames 2_026_39.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_027_41.0.tif	48649654	http://bia/Image	Frames 2_027_41.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_028_-13.0.tif	49723900	http://bia/Image	Frames 2_028_-13.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_029_-15.0.tif	49215694	http://bia/Image	Frames 2_029_-15.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_030_43.0.tif	48069568	http://bia/Image	Frames 2_030_43.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_031_45.0.tif	47435626	http://bia/Image	Frames 2_031_45.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_032_-17.0.tif	48716650	http://bia/Image	Frames 2_032_-17.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_033_-19.0.tif	48099716	http://bia/Image	Frames 2_033_-19.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_034_47.0.tif	46711548	http://bia/Image	Frames 2_034_47.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_035_49.0.tif	45944016	http://bia/Image	Frames 2_035_49.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_036_-21.0.tif	47500920	http://bia/Image	Frames 2_036_-21.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_037_-23.0.tif	46794130	http://bia/Image	Frames 2_037_-23.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_038_51.0.tif	45076014	http://bia/Image	Frames 2_038_51.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_039_53.0.tif	44134704	http://bia/Image	Frames 2_039_53.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_040_-25.0.tif	46065848	http://bia/Image	Frames 2_040_-25.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_041_-27.0.tif	45234502	http://bia/Image	Frames 2_041_-27.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_042_55.0.tif	43116930	http://bia/Image	Frames 2_042_55.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_043_57.0.tif	42008964	http://bia/Image	Frames 2_043_57.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_044_-29.0.tif	44385032	http://bia/Image	Frames 2_044_-29.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_045_-31.0.tif	43352398	http://bia/Image	Frames 2_045_-31.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_046_59.0.tif	40773444	http://bia/Image	Frames 2_046_59.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_047_61.0.tif	39440280	http://bia/Image	Frames 2_047_61.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_048_-33.0.tif	42355366	http://bia/Image	Frames 2_048_-33.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_049_-35.0.tif	41172042	http://bia/Image	Frames 2_049_-35.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_050_63.0.tif	37985714	http://bia/Image	Frames 2_050_63.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_051_65.0.tif	36490140	http://bia/Image	Frames 2_051_65.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_052_-37.0.tif	39964000	http://bia/Image	Frames 2_052_-37.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_053_-39.0.tif	38575322	http://bia/Image	Frames 2_053_-39.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_054_67.0.tif	34993806	http://bia/Image	Frames 2_054_67.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_055_-41.0.tif	37177000	http://bia/Image	Frames 2_055_-41.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_056_-43.0.tif	35460010	http://bia/Image	Frames 2_056_-43.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_057_-45.0.tif	33587026	http://bia/Image	Frames 2_057_-45.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_058_-47.0.tif	31543952	http://bia/Image	Frames 2_058_-47.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_059_-49.0.tif	29453204	http://bia/Image	Frames 2_059_-49.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_060_-51.0.tif	27314472	http://bia/Image	Frames 2_060_-51.0		_:Specimen 2		
+data/220720/data/frames/TS_002_37_061_-53.0.tif	25213044	http://bia/Image	Frames 2_061_-53.0		_:Specimen 2		
+data/220720/data/frames/TS_006_46_001_13.0.tif	55749066	http://bia/Image	Frames 6_001_13.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_002_15.0.tif	55818206	http://bia/Image	Frames 6_002_15.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_003_17.0.tif	55809922	http://bia/Image	Frames 6_003_17.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_004_11.0.tif	55761250	http://bia/Image	Frames 6_004_11.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_005_9.0.tif	55685628	http://bia/Image	Frames 6_005_9.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_006_19.0.tif	55769430	http://bia/Image	Frames 6_006_19.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_007_21.0.tif	55696118	http://bia/Image	Frames 6_007_21.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_008_7.0.tif	55602246	http://bia/Image	Frames 6_008_7.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_009_5.0.tif	55463126	http://bia/Image	Frames 6_009_5.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_010_23.0.tif	55581730	http://bia/Image	Frames 6_010_23.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_011_25.0.tif	55467990	http://bia/Image	Frames 6_011_25.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_012_3.0.tif	55324286	http://bia/Image	Frames 6_012_3.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_013_1.0.tif	55138390	http://bia/Image	Frames 6_013_1.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_014_27.0.tif	55334154	http://bia/Image	Frames 6_014_27.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_015_29.0.tif	55105712	http://bia/Image	Frames 6_015_29.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_016_-1.0.tif	54953616	http://bia/Image	Frames 6_016_-1.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_017_-3.0.tif	54705870	http://bia/Image	Frames 6_017_-3.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_018_31.0.tif	54921158	http://bia/Image	Frames 6_018_31.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_019_33.0.tif	54633516	http://bia/Image	Frames 6_019_33.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_020_-5.0.tif	54452254	http://bia/Image	Frames 6_020_-5.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_021_-7.0.tif	54144574	http://bia/Image	Frames 6_021_-7.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_022_35.0.tif	54365298	http://bia/Image	Frames 6_022_35.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_023_37.0.tif	54057770	http://bia/Image	Frames 6_023_37.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_024_-9.0.tif	53818228	http://bia/Image	Frames 6_024_-9.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_025_-11.0.tif	53366066	http://bia/Image	Frames 6_025_-11.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_026_39.0.tif	53707514	http://bia/Image	Frames 6_026_39.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_027_41.0.tif	53298554	http://bia/Image	Frames 6_027_41.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_028_-13.0.tif	52976526	http://bia/Image	Frames 6_028_-13.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_029_-15.0.tif	52456900	http://bia/Image	Frames 6_029_-15.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_030_43.0.tif	52837414	http://bia/Image	Frames 6_030_43.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_031_45.0.tif	52369834	http://bia/Image	Frames 6_031_45.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_032_-17.0.tif	51948438	http://bia/Image	Frames 6_032_-17.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_033_-19.0.tif	51337142	http://bia/Image	Frames 6_033_-19.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_034_47.0.tif	51814272	http://bia/Image	Frames 6_034_47.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_035_49.0.tif	51241166	http://bia/Image	Frames 6_035_49.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_036_-21.0.tif	50723416	http://bia/Image	Frames 6_036_-21.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_037_-23.0.tif	49962722	http://bia/Image	Frames 6_037_-23.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_038_51.0.tif	50593348	http://bia/Image	Frames 6_038_51.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_039_53.0.tif	48920166	http://bia/Image	Frames 6_039_53.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_040_-25.0.tif	49263264	http://bia/Image	Frames 6_040_-25.0		_:Specimen 6		
+data/220720/data/frames/TS_006_46_041_-27.0.tif	48325374	http://bia/Image	Frames 6_041_-27.0		_:Specimen 6		
+data/220720/data/frames/TS_007_48_001_13.0.tif	55641010	http://bia/Image	Frames 7_001_13.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_002_15.0.tif	55647114	http://bia/Image	Frames 7_002_15.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_003_17.0.tif	55601564	http://bia/Image	Frames 7_003_17.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_004_11.0.tif	55536644	http://bia/Image	Frames 7_004_11.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_005_9.0.tif	55502680	http://bia/Image	Frames 7_005_9.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_006_19.0.tif	55585896	http://bia/Image	Frames 7_006_19.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_007_21.0.tif	55534606	http://bia/Image	Frames 7_007_21.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_008_7.0.tif	55380692	http://bia/Image	Frames 7_008_7.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_009_5.0.tif	55255224	http://bia/Image	Frames 7_009_5.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_010_23.0.tif	55442094	http://bia/Image	Frames 7_010_23.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_011_25.0.tif	55333874	http://bia/Image	Frames 7_011_25.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_012_3.0.tif	55146820	http://bia/Image	Frames 7_012_3.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_013_1.0.tif	54972056	http://bia/Image	Frames 7_013_1.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_014_27.0.tif	55189816	http://bia/Image	Frames 7_014_27.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_015_29.0.tif	55022726	http://bia/Image	Frames 7_015_29.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_016_-1.0.tif	54731182	http://bia/Image	Frames 7_016_-1.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_017_-3.0.tif	54471684	http://bia/Image	Frames 7_017_-3.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_018_31.0.tif	54790314	http://bia/Image	Frames 7_018_31.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_019_33.0.tif	54535570	http://bia/Image	Frames 7_019_33.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_020_-5.0.tif	54198706	http://bia/Image	Frames 7_020_-5.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_021_-7.0.tif	53889646	http://bia/Image	Frames 7_021_-7.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_022_35.0.tif	54278592	http://bia/Image	Frames 7_022_35.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_023_37.0.tif	53942100	http://bia/Image	Frames 7_023_37.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_024_-9.0.tif	53485928	http://bia/Image	Frames 7_024_-9.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_025_-11.0.tif	53089620	http://bia/Image	Frames 7_025_-11.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_026_39.0.tif	53589142	http://bia/Image	Frames 7_026_39.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_027_41.0.tif	53190322	http://bia/Image	Frames 7_027_41.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_028_-13.0.tif	52673890	http://bia/Image	Frames 7_028_-13.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_029_-15.0.tif	52158446	http://bia/Image	Frames 7_029_-15.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_030_43.0.tif	52773450	http://bia/Image	Frames 7_030_43.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_031_45.0.tif	52294396	http://bia/Image	Frames 7_031_45.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_032_-17.0.tif	51648856	http://bia/Image	Frames 7_032_-17.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_033_-19.0.tif	51039158	http://bia/Image	Frames 7_033_-19.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_034_47.0.tif	51724636	http://bia/Image	Frames 7_034_47.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_035_49.0.tif	51160318	http://bia/Image	Frames 7_035_49.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_036_-21.0.tif	50404730	http://bia/Image	Frames 7_036_-21.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_037_-23.0.tif	49655026	http://bia/Image	Frames 7_037_-23.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_038_51.0.tif	50515794	http://bia/Image	Frames 7_038_51.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_039_53.0.tif	49823652	http://bia/Image	Frames 7_039_53.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_040_-25.0.tif	48904858	http://bia/Image	Frames 7_040_-25.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_041_-27.0.tif	47994746	http://bia/Image	Frames 7_041_-27.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_042_55.0.tif	49039576	http://bia/Image	Frames 7_042_55.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_043_57.0.tif	48190290	http://bia/Image	Frames 7_043_57.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_044_-29.0.tif	47083572	http://bia/Image	Frames 7_044_-29.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_045_-31.0.tif	46000092	http://bia/Image	Frames 7_045_-31.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_046_59.0.tif	47281458	http://bia/Image	Frames 7_046_59.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_047_61.0.tif	46277870	http://bia/Image	Frames 7_047_61.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_048_-33.0.tif	44863186	http://bia/Image	Frames 7_048_-33.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_049_-35.0.tif	43580090	http://bia/Image	Frames 7_049_-35.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_050_-37.0.tif	42135960	http://bia/Image	Frames 7_050_-37.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_051_-39.0.tif	40571450	http://bia/Image	Frames 7_051_-39.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_052_-41.0.tif	38885694	http://bia/Image	Frames 7_052_-41.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_053_-43.0.tif	36982828	http://bia/Image	Frames 7_053_-43.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_054_-45.0.tif	34875924	http://bia/Image	Frames 7_054_-45.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_055_-47.0.tif	32573172	http://bia/Image	Frames 7_055_-47.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_056_-49.0.tif	30237626	http://bia/Image	Frames 7_056_-49.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_057_-51.0.tif	27698296	http://bia/Image	Frames 7_057_-51.0		_:Specimen 7		
+data/220720/data/frames/TS_007_48_058_-53.0.tif	24883296	http://bia/Image	Frames 7_058_-53.0		_:Specimen 7		
+data/220720/data/frames/TS_008_50_001_13.0.tif	56338910	http://bia/Image	Frames 8 (dataset 5)_001_13.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_002_15.0.tif	56307614	http://bia/Image	Frames 8 (dataset 5)_002_15.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_003_17.0.tif	56307940	http://bia/Image	Frames 8 (dataset 5)_003_17.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_004_11.0.tif	56291088	http://bia/Image	Frames 8 (dataset 5)_004_11.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_005_9.0.tif	56274290	http://bia/Image	Frames 8 (dataset 5)_005_9.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_006_19.0.tif	56301916	http://bia/Image	Frames 8 (dataset 5)_006_19.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_007_21.0.tif	56220198	http://bia/Image	Frames 8 (dataset 5)_007_21.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_008_7.0.tif	56156782	http://bia/Image	Frames 8 (dataset 5)_008_7.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_009_5.0.tif	56041906	http://bia/Image	Frames 8 (dataset 5)_009_5.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_010_23.0.tif	56143300	http://bia/Image	Frames 8 (dataset 5)_010_23.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_011_25.0.tif	55978416	http://bia/Image	Frames 8 (dataset 5)_011_25.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_012_3.0.tif	55887770	http://bia/Image	Frames 8 (dataset 5)_012_3.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_013_1.0.tif	55668250	http://bia/Image	Frames 8 (dataset 5)_013_1.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_014_27.0.tif	55831616	http://bia/Image	Frames 8 (dataset 5)_014_27.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_015_29.0.tif	55660906	http://bia/Image	Frames 8 (dataset 5)_015_29.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_016_-1.0.tif	55501528	http://bia/Image	Frames 8 (dataset 5)_016_-1.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_017_-3.0.tif	55256186	http://bia/Image	Frames 8 (dataset 5)_017_-3.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_018_31.0.tif	55397244	http://bia/Image	Frames 8 (dataset 5)_018_31.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_019_33.0.tif	55157110	http://bia/Image	Frames 8 (dataset 5)_019_33.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_020_-5.0.tif	54988254	http://bia/Image	Frames 8 (dataset 5)_020_-5.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_021_-7.0.tif	54660178	http://bia/Image	Frames 8 (dataset 5)_021_-7.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_022_35.0.tif	54902472	http://bia/Image	Frames 8 (dataset 5)_022_35.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_023_37.0.tif	54578138	http://bia/Image	Frames 8 (dataset 5)_023_37.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_024_-9.0.tif	54343734	http://bia/Image	Frames 8 (dataset 5)_024_-9.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_025_-11.0.tif	53960322	http://bia/Image	Frames 8 (dataset 5)_025_-11.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_026_39.0.tif	54238250	http://bia/Image	Frames 8 (dataset 5)_026_39.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_027_41.0.tif	53842988	http://bia/Image	Frames 8 (dataset 5)_027_41.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_028_-13.0.tif	53533402	http://bia/Image	Frames 8 (dataset 5)_028_-13.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_029_-15.0.tif	53060898	http://bia/Image	Frames 8 (dataset 5)_029_-15.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_030_43.0.tif	53429204	http://bia/Image	Frames 8 (dataset 5)_030_43.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_031_45.0.tif	52889502	http://bia/Image	Frames 8 (dataset 5)_031_45.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_032_-17.0.tif	52544764	http://bia/Image	Frames 8 (dataset 5)_032_-17.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_033_-19.0.tif	51906238	http://bia/Image	Frames 8 (dataset 5)_033_-19.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_034_47.0.tif	52365744	http://bia/Image	Frames 8 (dataset 5)_034_47.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_035_49.0.tif	51763432	http://bia/Image	Frames 8 (dataset 5)_035_49.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_036_-21.0.tif	51335180	http://bia/Image	Frames 8 (dataset 5)_036_-21.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_037_-23.0.tif	50585492	http://bia/Image	Frames 8 (dataset 5)_037_-23.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_038_51.0.tif	51134110	http://bia/Image	Frames 8 (dataset 5)_038_51.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_039_53.0.tif	50392988	http://bia/Image	Frames 8 (dataset 5)_039_53.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_040_-25.0.tif	49850038	http://bia/Image	Frames 8 (dataset 5)_040_-25.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_041_-27.0.tif	48971226	http://bia/Image	Frames 8 (dataset 5)_041_-27.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_042_55.0.tif	49582774	http://bia/Image	Frames 8 (dataset 5)_042_55.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_043_57.0.tif	48744732	http://bia/Image	Frames 8 (dataset 5)_043_57.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_044_-29.0.tif	48094948	http://bia/Image	Frames 8 (dataset 5)_044_-29.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_045_-31.0.tif	47019988	http://bia/Image	Frames 8 (dataset 5)_045_-31.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_046_59.0.tif	47787268	http://bia/Image	Frames 8 (dataset 5)_046_59.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_047_61.0.tif	46755012	http://bia/Image	Frames 8 (dataset 5)_047_61.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_048_-33.0.tif	45935134	http://bia/Image	Frames 8 (dataset 5)_048_-33.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_049_-35.0.tif	44680904	http://bia/Image	Frames 8 (dataset 5)_049_-35.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_050_-37.0.tif	43307458	http://bia/Image	Frames 8 (dataset 5)_050_-37.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_051_-39.0.tif	41809698	http://bia/Image	Frames 8 (dataset 5)_051_-39.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_052_-41.0.tif	40132778	http://bia/Image	Frames 8 (dataset 5)_052_-41.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_053_-43.0.tif	38276482	http://bia/Image	Frames 8 (dataset 5)_053_-43.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_054_-45.0.tif	36279722	http://bia/Image	Frames 8 (dataset 5)_054_-45.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_055_-47.0.tif	33969768	http://bia/Image	Frames 8 (dataset 5)_055_-47.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_056_-49.0.tif	31537422	http://bia/Image	Frames 8 (dataset 5)_056_-49.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_057_-51.0.tif	28967806	http://bia/Image	Frames 8 (dataset 5)_057_-51.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_008_50_058_-53.0.tif	26275060	http://bia/Image	Frames 8 (dataset 5)_058_-53.0		_:Specimen 8(5)		
+data/220720/data/frames/TS_017_33_001_13.0.tif	48933764	http://bia/Image	Frames 17 (dataset 5)_001_13.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_002_15.0.tif	49013710	http://bia/Image	Frames 17 (dataset 5)_002_15.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_003_17.0.tif	49011684	http://bia/Image	Frames 17 (dataset 5)_003_17.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_004_11.0.tif	48847202	http://bia/Image	Frames 17 (dataset 5)_004_11.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_005_9.0.tif	48768110	http://bia/Image	Frames 17 (dataset 5)_005_9.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_006_19.0.tif	48993050	http://bia/Image	Frames 17 (dataset 5)_006_19.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_007_21.0.tif	48941962	http://bia/Image	Frames 17 (dataset 5)_007_21.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_008_7.0.tif	48604504	http://bia/Image	Frames 17 (dataset 5)_008_7.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_009_5.0.tif	48424024	http://bia/Image	Frames 17 (dataset 5)_009_5.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_010_23.0.tif	48842588	http://bia/Image	Frames 17 (dataset 5)_010_23.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_011_25.0.tif	48725696	http://bia/Image	Frames 17 (dataset 5)_011_25.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_012_3.0.tif	48137286	http://bia/Image	Frames 17 (dataset 5)_012_3.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_013_1.0.tif	47896572	http://bia/Image	Frames 17 (dataset 5)_013_1.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_014_27.0.tif	48605670	http://bia/Image	Frames 17 (dataset 5)_014_27.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_015_29.0.tif	48416604	http://bia/Image	Frames 17 (dataset 5)_015_29.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_016_-1.0.tif	47559770	http://bia/Image	Frames 17 (dataset 5)_016_-1.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_017_-3.0.tif	47208044	http://bia/Image	Frames 17 (dataset 5)_017_-3.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_018_31.0.tif	48144486	http://bia/Image	Frames 17 (dataset 5)_018_31.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_019_33.0.tif	47873160	http://bia/Image	Frames 17 (dataset 5)_019_33.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_020_-5.0.tif	46750262	http://bia/Image	Frames 17 (dataset 5)_020_-5.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_021_-7.0.tif	46349602	http://bia/Image	Frames 17 (dataset 5)_021_-7.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_022_35.0.tif	47596132	http://bia/Image	Frames 17 (dataset 5)_022_35.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_023_37.0.tif	47195866	http://bia/Image	Frames 17 (dataset 5)_023_37.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_024_-9.0.tif	45822476	http://bia/Image	Frames 17 (dataset 5)_024_-9.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_025_-11.0.tif	45289048	http://bia/Image	Frames 17 (dataset 5)_025_-11.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_026_39.0.tif	46804052	http://bia/Image	Frames 17 (dataset 5)_026_39.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_027_41.0.tif	46361528	http://bia/Image	Frames 17 (dataset 5)_027_41.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_028_-13.0.tif	44678180	http://bia/Image	Frames 17 (dataset 5)_028_-13.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_029_-15.0.tif	44051714	http://bia/Image	Frames 17 (dataset 5)_029_-15.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_030_43.0.tif	45899940	http://bia/Image	Frames 17 (dataset 5)_030_43.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_031_45.0.tif	45337092	http://bia/Image	Frames 17 (dataset 5)_031_45.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_032_-17.0.tif	43293314	http://bia/Image	Frames 17 (dataset 5)_032_-17.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_033_-19.0.tif	42520396	http://bia/Image	Frames 17 (dataset 5)_033_-19.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_034_47.0.tif	44768068	http://bia/Image	Frames 17 (dataset 5)_034_47.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_035_49.0.tif	44082174	http://bia/Image	Frames 17 (dataset 5)_035_49.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_036_-21.0.tif	41612924	http://bia/Image	Frames 17 (dataset 5)_036_-21.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_037_-23.0.tif	40728158	http://bia/Image	Frames 17 (dataset 5)_037_-23.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_038_51.0.tif	43366268	http://bia/Image	Frames 17 (dataset 5)_038_51.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_039_53.0.tif	42556318	http://bia/Image	Frames 17 (dataset 5)_039_53.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_040_-25.0.tif	39725082	http://bia/Image	Frames 17 (dataset 5)_040_-25.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_041_-27.0.tif	38676636	http://bia/Image	Frames 17 (dataset 5)_041_-27.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_042_55.0.tif	41696604	http://bia/Image	Frames 17 (dataset 5)_042_55.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_043_57.0.tif	40728424	http://bia/Image	Frames 17 (dataset 5)_043_57.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_044_-29.0.tif	37411346	http://bia/Image	Frames 17 (dataset 5)_044_-29.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_045_-31.0.tif	36130274	http://bia/Image	Frames 17 (dataset 5)_045_-31.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_046_59.0.tif	39717072	http://bia/Image	Frames 17 (dataset 5)_046_59.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_047_61.0.tif	38614210	http://bia/Image	Frames 17 (dataset 5)_047_61.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_048_-33.0.tif	34665584	http://bia/Image	Frames 17 (dataset 5)_048_-33.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_049_-35.0.tif	33204002	http://bia/Image	Frames 17 (dataset 5)_049_-35.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_050_63.0.tif	37423582	http://bia/Image	Frames 17 (dataset 5)_050_63.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_051_65.0.tif	36072964	http://bia/Image	Frames 17 (dataset 5)_051_65.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_052_-37.0.tif	31640274	http://bia/Image	Frames 17 (dataset 5)_052_-37.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_053_-39.0.tif	30013234	http://bia/Image	Frames 17 (dataset 5)_053_-39.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_054_67.0.tif	34676698	http://bia/Image	Frames 17 (dataset 5)_054_67.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_055_-41.0.tif	28170268	http://bia/Image	Frames 17 (dataset 5)_055_-41.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_056_-43.0.tif	26283404	http://bia/Image	Frames 17 (dataset 5)_056_-43.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_057_-45.0.tif	24215772	http://bia/Image	Frames 17 (dataset 5)_057_-45.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_058_-47.0.tif	22108308	http://bia/Image	Frames 17 (dataset 5)_058_-47.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_059_-49.0.tif	19886640	http://bia/Image	Frames 17 (dataset 5)_059_-49.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_060_-51.0.tif	17520980	http://bia/Image	Frames 17 (dataset 5)_060_-51.0		_:Specimen 17(5)		
+data/220720/data/frames/TS_017_33_061_-53.0.tif	15142598	http://bia/Image	Frames 17 (dataset 5)_061_-53.0		_:Specimen 17(5)		
+data/220720/data/mdoc/TS_001.mrc.mdoc	47219						
+data/220720/data/mdoc/TS_002.mrc.mdoc	47083						
+data/220720/data/mdoc/TS_006.mrc.mdoc	31815						
+data/220720/data/mdoc/TS_007.mrc.mdoc	44876						
+data/220720/data/mdoc/TS_008.mrc.mdoc	44760						
+data/220720/data/mdoc/TS_017.mrc.mdoc	47311						
