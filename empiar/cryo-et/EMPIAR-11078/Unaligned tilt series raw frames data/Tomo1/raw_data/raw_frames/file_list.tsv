@@ -1,66 +1,66 @@
 file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
-data/Tomo1/raw_data/raw_frames/Sep14_14.33.40.mrc.bz2	77870468	http://bia/Image	Frames 01_14_33_40		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.35.25.mrc.bz2	67210184	http://bia/Image	Frames 01_14_35_25		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.36.13.mrc.bz2	57081749	http://bia/Image	Frames 01_14_36_13		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.37.24.mrc.bz2	67459720	http://bia/Image	Frames 01_14_37_24		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.38.06.mrc.bz2	57123128	http://bia/Image	Frames 01_14_38_06		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.38.40.mrc.bz2	67830164	http://bia/Image	Frames 01_14_38_40		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.39.22.mrc.bz2	57017300	http://bia/Image	Frames 01_14_39_22		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.40.08.mrc.bz2	67436002	http://bia/Image	Frames 01_14_40_08		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.40.50.mrc.bz2	56754303	http://bia/Image	Frames 01_14_40_50		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.41.36.mrc.bz2	67306992	http://bia/Image	Frames 01_14_41_36		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.42.19.mrc.bz2	67236071	http://bia/Image	Frames 01_14_42_19		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.43.01.mrc.bz2	66511099	http://bia/Image	Frames 01_14_43_01		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.43.43.mrc.bz2	66017881	http://bia/Image	Frames 01_14_43_43		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.44.38.mrc.bz2	66097816	http://bia/Image	Frames 01_14_44_38		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.45.20.mrc.bz2	65820312	http://bia/Image	Frames 01_14_45_20		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.46.15.mrc.bz2	65482940	http://bia/Image	Frames 01_14_46_15		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.46.57.mrc.bz2	49930344	http://bia/Image	Frames 01_14_46_57		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.47.38.mrc.bz2	54497195	http://bia/Image	Frames 01_14_47_38		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.48.22.mrc.bz2	64087887	http://bia/Image	Frames 01_14_48_22		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.49.05.mrc.bz2	53505569	http://bia/Image	Frames 01_14_49_05		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.49.53.mrc.bz2	62581350	http://bia/Image	Frames 01_14_49_53		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.50.38.mrc.bz2	52485152	http://bia/Image	Frames 01_14_50_38		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.51.20.mrc.bz2	61490557	http://bia/Image	Frames 01_14_51_20		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.51.54.mrc.bz2	51239261	http://bia/Image	Frames 01_14_51_54		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.52.35.mrc.bz2	59401924	http://bia/Image	Frames 01_14_52_35		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.53.18.mrc.bz2	58216491	http://bia/Image	Frames 01_14_53_18		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.54.05.mrc.bz2	61722199	http://bia/Image	Frames 01_14_54_05		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.54.52.mrc.bz2	60418045	http://bia/Image	Frames 01_14_54_52		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.55.39.mrc.bz2	58975406	http://bia/Image	Frames 01_14_55_39		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_14.56.27.mrc.bz2	61428793	http://bia/Image	Frames 01_14_56_27		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.04.33.mrc.bz2	77899709	http://bia/Image	Frames 01_15_04_33		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.05.07.mrc.bz2	67507173	http://bia/Image	Frames 01_15_05_07		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.05.41.mrc.bz2	56988314	http://bia/Image	Frames 01_15_05_41		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.06.23.mrc.bz2	67051311	http://bia/Image	Frames 01_15_06_23		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.07.05.mrc.bz2	66886903	http://bia/Image	Frames 01_15_07_05		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.07.47.mrc.bz2	66491551	http://bia/Image	Frames 01_15_07_47		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.08.21.mrc.bz2	66247732	http://bia/Image	Frames 01_15_08_21		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.09.04.mrc.bz2	65707770	http://bia/Image	Frames 01_15_09_04		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.09.48.mrc.bz2	65501346	http://bia/Image	Frames 01_15_09_48		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.10.22.mrc.bz2	65062350	http://bia/Image	Frames 01_15_10_22		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.11.10.mrc.bz2	64570823	http://bia/Image	Frames 01_15_11_10		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.11.45.mrc.bz2	64185303	http://bia/Image	Frames 01_15_11_45		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.12.20.mrc.bz2	63316899	http://bia/Image	Frames 01_15_12_20		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.13.04.mrc.bz2	62716956	http://bia/Image	Frames 01_15_13_04		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.13.48.mrc.bz2	67196211	http://bia/Image	Frames 01_15_13_48		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.14.35.mrc.bz2	66467146	http://bia/Image	Frames 01_15_14_35		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.15.11.mrc.bz2	65258737	http://bia/Image	Frames 01_15_15_11		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.16.15.mrc.bz2	68786773	http://bia/Image	Frames 01_15_16_15		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.16.59.mrc.bz2	59018918	http://bia/Image	Frames 01_15_16_59		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.17.43.mrc.bz2	58815641	http://bia/Image	Frames 01_15_17_43		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.18.29.mrc.bz2	55579570	http://bia/Image	Frames 01_15_18_29		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.19.14.mrc.bz2	60188927	http://bia/Image	Frames 01_15_19_14		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.20.02.mrc.bz2	58294842	http://bia/Image	Frames 01_15_20_02		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.20.46.mrc.bz2	60690952	http://bia/Image	Frames 01_15_20_46		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.21.31.mrc.bz2	62739746	http://bia/Image	Frames 01_15_21_31		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.22.18.mrc.bz2	68104738	http://bia/Image	Frames 01_15_22_18		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.22.56.mrc.bz2	64196188	http://bia/Image	Frames 01_15_22_56		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.23.43.mrc.bz2	62219787	http://bia/Image	Frames 01_15_23_43		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.24.30.mrc.bz2	68693964	http://bia/Image	Frames 01_15_24_30		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.25.24.mrc.bz2	62964078	http://bia/Image	Frames 01_15_25_24		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.26.16.mrc.bz2	73272614	http://bia/Image	Frames 01_15_26_16		_:Specimen 01		
-data/Tomo1/raw_data/raw_frames/Sep14_15.27.15.mrc.bz2	50394176	http://bia/Image	Frames 01_15_27_15		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.33.40.mrc.bz2	77870468	http://bia/Image	Frames_01_14_33_40		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.35.25.mrc.bz2	67210184	http://bia/Image	Frames_01_14_35_25		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.36.13.mrc.bz2	57081749	http://bia/Image	Frames_01_14_36_13		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.37.24.mrc.bz2	67459720	http://bia/Image	Frames_01_14_37_24		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.38.06.mrc.bz2	57123128	http://bia/Image	Frames_01_14_38_06		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.38.40.mrc.bz2	67830164	http://bia/Image	Frames_01_14_38_40		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.39.22.mrc.bz2	57017300	http://bia/Image	Frames_01_14_39_22		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.40.08.mrc.bz2	67436002	http://bia/Image	Frames_01_14_40_08		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.40.50.mrc.bz2	56754303	http://bia/Image	Frames_01_14_40_50		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.41.36.mrc.bz2	67306992	http://bia/Image	Frames_01_14_41_36		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.42.19.mrc.bz2	67236071	http://bia/Image	Frames_01_14_42_19		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.43.01.mrc.bz2	66511099	http://bia/Image	Frames_01_14_43_01		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.43.43.mrc.bz2	66017881	http://bia/Image	Frames_01_14_43_43		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.44.38.mrc.bz2	66097816	http://bia/Image	Frames_01_14_44_38		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.45.20.mrc.bz2	65820312	http://bia/Image	Frames_01_14_45_20		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.46.15.mrc.bz2	65482940	http://bia/Image	Frames_01_14_46_15		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.46.57.mrc.bz2	49930344	http://bia/Image	Frames_01_14_46_57		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.47.38.mrc.bz2	54497195	http://bia/Image	Frames_01_14_47_38		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.48.22.mrc.bz2	64087887	http://bia/Image	Frames_01_14_48_22		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.49.05.mrc.bz2	53505569	http://bia/Image	Frames_01_14_49_05		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.49.53.mrc.bz2	62581350	http://bia/Image	Frames_01_14_49_53		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.50.38.mrc.bz2	52485152	http://bia/Image	Frames_01_14_50_38		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.51.20.mrc.bz2	61490557	http://bia/Image	Frames_01_14_51_20		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.51.54.mrc.bz2	51239261	http://bia/Image	Frames_01_14_51_54		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.52.35.mrc.bz2	59401924	http://bia/Image	Frames_01_14_52_35		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.53.18.mrc.bz2	58216491	http://bia/Image	Frames_01_14_53_18		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.54.05.mrc.bz2	61722199	http://bia/Image	Frames_01_14_54_05		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.54.52.mrc.bz2	60418045	http://bia/Image	Frames_01_14_54_52		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.55.39.mrc.bz2	58975406	http://bia/Image	Frames_01_14_55_39		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_14.56.27.mrc.bz2	61428793	http://bia/Image	Frames_01_14_56_27		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.04.33.mrc.bz2	77899709	http://bia/Image	Frames_01_15_04_33		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.05.07.mrc.bz2	67507173	http://bia/Image	Frames_01_15_05_07		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.05.41.mrc.bz2	56988314	http://bia/Image	Frames_01_15_05_41		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.06.23.mrc.bz2	67051311	http://bia/Image	Frames_01_15_06_23		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.07.05.mrc.bz2	66886903	http://bia/Image	Frames_01_15_07_05		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.07.47.mrc.bz2	66491551	http://bia/Image	Frames_01_15_07_47		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.08.21.mrc.bz2	66247732	http://bia/Image	Frames_01_15_08_21		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.09.04.mrc.bz2	65707770	http://bia/Image	Frames_01_15_09_04		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.09.48.mrc.bz2	65501346	http://bia/Image	Frames_01_15_09_48		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.10.22.mrc.bz2	65062350	http://bia/Image	Frames_01_15_10_22		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.11.10.mrc.bz2	64570823	http://bia/Image	Frames_01_15_11_10		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.11.45.mrc.bz2	64185303	http://bia/Image	Frames_01_15_11_45		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.12.20.mrc.bz2	63316899	http://bia/Image	Frames_01_15_12_20		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.13.04.mrc.bz2	62716956	http://bia/Image	Frames_01_15_13_04		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.13.48.mrc.bz2	67196211	http://bia/Image	Frames_01_15_13_48		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.14.35.mrc.bz2	66467146	http://bia/Image	Frames_01_15_14_35		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.15.11.mrc.bz2	65258737	http://bia/Image	Frames_01_15_15_11		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.16.15.mrc.bz2	68786773	http://bia/Image	Frames_01_15_16_15		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.16.59.mrc.bz2	59018918	http://bia/Image	Frames_01_15_16_59		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.17.43.mrc.bz2	58815641	http://bia/Image	Frames_01_15_17_43		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.18.29.mrc.bz2	55579570	http://bia/Image	Frames_01_15_18_29		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.19.14.mrc.bz2	60188927	http://bia/Image	Frames_01_15_19_14		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.20.02.mrc.bz2	58294842	http://bia/Image	Frames_01_15_20_02		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.20.46.mrc.bz2	60690952	http://bia/Image	Frames_01_15_20_46		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.21.31.mrc.bz2	62739746	http://bia/Image	Frames_01_15_21_31		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.22.18.mrc.bz2	68104738	http://bia/Image	Frames_01_15_22_18		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.22.56.mrc.bz2	64196188	http://bia/Image	Frames_01_15_22_56		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.23.43.mrc.bz2	62219787	http://bia/Image	Frames_01_15_23_43		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.24.30.mrc.bz2	68693964	http://bia/Image	Frames_01_15_24_30		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.25.24.mrc.bz2	62964078	http://bia/Image	Frames_01_15_25_24		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.26.16.mrc.bz2	73272614	http://bia/Image	Frames_01_15_26_16		_:Specimen 01		
+data/Tomo1/raw_data/raw_frames/Sep14_15.27.15.mrc.bz2	50394176	http://bia/Image	Frames_01_15_27_15		_:Specimen 01		
 data/Tomo10/raw_data/raw_frames/Jul30_14.08.40.mrc.bz2	33505848	http://bia/Image	Frames_10_14_08_40		_:Specimen 10		
 data/Tomo10/raw_data/raw_frames/Jul30_14.10.56.mrc.bz2	50506643	http://bia/Image	Frames_10_14_10_56		_:Specimen 10		
 data/Tomo10/raw_data/raw_frames/Jul30_14.11.29.mrc.bz2	50145724	http://bia/Image	Frames_10_14_11_29		_:Specimen 10		
