@@ -1,13 +1,13 @@
 file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol
 data/Acute_glucose_starvation/particle_lists/all_ribo_cleaned.star	16507456	http://bia/AnnotationData	Starvation condition aggregated cleaned ribosome particle coordinates	['Starvation condition tomogram 01', 'Starvation condition tomogram 02', 'Starvation condition tomogram 03', 'Starvation condition tomogram 04', 'Starvation condition tomogram 07', 'Starvation condition tomogram 08', 'Starvation condition tomogram 10', 'Starvation condition tomogram 14', 'Starvation condition tomogram 17', 'Starvation condition tomogram 18']		_:Ribosome particle picking	
 data/Acute_glucose_starvation/particle_lists/all_ribo_refined.star	22541785	http://bia/AnnotationData	Starvation condition aggregated refined ribosome particle coordinates	['Starvation condition tomogram 01', 'Starvation condition tomogram 02', 'Starvation condition tomogram 03', 'Starvation condition tomogram 04', 'Starvation condition tomogram 07', 'Starvation condition tomogram 08', 'Starvation condition tomogram 10', 'Starvation condition tomogram 14', 'Starvation condition tomogram 17', 'Starvation condition tomogram 18']		_:Ribosome particle picking	
-data/Acute_glucose_starvation/tomograms/TS_001.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 01				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_002.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 02				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_003.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 03				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_004.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 04				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_007.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 07				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_008.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 08				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_010.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 10				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_014.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 14				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_017.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 17				_:Tomogram reconstruction
-data/Acute_glucose_starvation/tomograms/TS_018.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 18				_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_001.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 01	Starvation condition tilt series 01			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_002.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 02	Starvation condition tilt series 02			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_003.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 03	Starvation condition tilt series 03			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_004.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 04	Starvation condition tilt series 04			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_007.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 07	Starvation condition tilt series 07			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_008.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 08	Starvation condition tilt series 08			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_010.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 10	Starvation condition tilt series 10			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_014.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 14	Starvation condition tilt series 14			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_017.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 17	Starvation condition tilt series 17			_:Tomogram reconstruction
+data/Acute_glucose_starvation/tomograms/TS_018.mrc_aretomo.mrc	2943425024	http://bia/Image	Starvation condition tomogram 18	Starvation condition tilt series 18			_:Tomogram reconstruction
