@@ -1,0 +1,902 @@
+{
+    "@context": [
+        "https://w3id.org/ro/crate/1.1/context",
+        {
+            "accessionId": {
+                "@id": "schema:identifier"
+            },
+            "acknowledgement": {
+                "@id": "bia:acknowledgement"
+            },
+            "address": {
+                "@id": "schema:address"
+            },
+            "affiliation": {
+                "@id": "schema:memberOf"
+            },
+            "annotationCoverage": {
+                "@id": "bia:annotationCoverage"
+            },
+            "annotationCriteria": {
+                "@id": "bia:annotationCriteria"
+            },
+            "annotationMethod": {
+                "@id": "bia:annotationMethod"
+            },
+            "annotationSourceIndicator": {
+                "@id": "bia:annotationSourceIndicator"
+            },
+            "associatedAnnotationMethod": {
+                "@id": "bia:associatedAnnotationMethod"
+            },
+            "associatedBiologicalEntity": {
+                "@id": "bia:associatedBiologicalEntity"
+            },
+            "associatedImageAcquisitionProtocol": {
+                "@id": "bia:associatedImageAcquisitionProtocol"
+            },
+            "associatedImageAnalysisMethod": {
+                "@id": "bia:associatedAnalysisMethod"
+            },
+            "associatedImageCorrelationMethod": {
+                "@id": "bia:associatedCorrelationMethod"
+            },
+            "associatedProtocol": {
+                "@id": "bia:associatedProtocol"
+            },
+            "associatedSpecimen": {
+                "@id": "bia:associatedSubject"
+            },
+            "associatedSpecimenImagingPreparationProtocol": {
+                "@id": "bia:associatedImagingPreparationProtocol"
+            },
+            "associationFileMetadata": {
+                "@id": "bia:associationFileMetadata"
+            },
+            "authorNames": {
+                "@id": "bia:authorNames"
+            },
+            "bia": "http://bia/",
+            "biologicalEntity": {
+                "@id": "bia:sampleOf"
+            },
+            "biologicalEntityDescription": {
+                "@id": "bia:biologicalEntityDescription"
+            },
+            "channelBiologicalEntity": {
+                "@id": "bia:channelBiologicalEntity"
+            },
+            "channelContentDescription": {
+                "@id": "bia:channelContentDescription"
+            },
+            "channelLabel": {
+                "@id": "dc:identifier"
+            },
+            "column": {
+                "@id": "csvw:column"
+            },
+            "columnName": {
+                "@id": "csvw:name"
+            },
+            "commonName": {
+                "@id": "bia:commonName"
+            },
+            "contactEmail": {
+                "@id": "schema:email"
+            },
+            "contributor": {
+                "@id": "schema:author"
+            },
+            "csvw": "http://www.w3.org/ns/csvw#",
+            "datePublished": {
+                "@id": "schema:datePublished"
+            },
+            "dc": "http://purl.org/dc/terms/",
+            "description": {
+                "@id": "schema:description"
+            },
+            "displayName": {
+                "@id": "schema:name"
+            },
+            "experimentalVariableDescription": {
+                "@id": "bia:experimentalVariableDescription"
+            },
+            "extrinsicVariableDescription": {
+                "@id": "bia:extrinsicVariableDescription"
+            },
+            "fbbiId": {
+                "@id": "bia:fbbiId"
+            },
+            "featuresAnalysed": {
+                "@id": "bia:featuresAnalysed"
+            },
+            "fiducialsUsed": {
+                "@id": "bia:fiducialsUsed"
+            },
+            "growthProtocol": {
+                "@id": "bia:growthProtocol"
+            },
+            "hasPart": {
+                "@id": "schema:hasPart"
+            },
+            "imageAcquisitionProtocol": {
+                "@id": "bia:imageAcquisitionProtocol"
+            },
+            "imagingInstrumentDescription": {
+                "@id": "bia:imagingInstrumentDescription"
+            },
+            "imagingMethodName": {
+                "@id": "bia:imagingMethodName"
+            },
+            "imagingPreparationProtocol": {
+                "@id": "bia:imagingPreparationProtocol"
+            },
+            "inputImage": {
+                "@id": "bia:inputImage"
+            },
+            "intrinsicVariableDescription": {
+                "@id": "bia:intrinsicVariableDescription"
+            },
+            "keyword": {
+                "@id": "schema:keywords"
+            },
+            "label": {
+                "@id": "schema:name"
+            },
+            "license": {
+                "@id": "schema:license"
+            },
+            "link": {
+                "@id": "schema:url"
+            },
+            "linkDescription": {
+                "@id": "schema:description"
+            },
+            "methodType": {
+                "@id": "bia:annotationMethodType"
+            },
+            "name": {
+                "@id": "schema:name"
+            },
+            "organismClassification": {
+                "@id": "bia:organismClassification"
+            },
+            "propertyUrl": {
+                "@id": "csvw:propertyUrl"
+            },
+            "protocol": {
+                "@id": "bia:protocol"
+            },
+            "protocolDescription": {
+                "@id": "schema:description"
+            },
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "resultOf": {
+                "@id": "bia:resultOf"
+            },
+            "role": {
+                "@id": "bia:role"
+            },
+            "schema": "http://schema.org/",
+            "scientificName": {
+                "@id": "bia:scientificName"
+            },
+            "signalChannelInformation": {
+                "@id": "bia:signalChannelInformation"
+            },
+            "signalContrastMechanismDescription": {
+                "@id": "bia:signalContrastMechanismDescription"
+            },
+            "spatialInformation": {
+                "@id": "bia:spatialInformation"
+            },
+            "subject": {
+                "@id": "bia:subject"
+            },
+            "tableSchema": {
+                "@id": "csvw:tableSchema"
+            },
+            "title": {
+                "@id": "schema:name"
+            },
+            "transformationDescription": {
+                "@id": "bia:transformationDescription"
+            },
+            "transformationMatrix": {
+                "@id": "bia:transformationMatrix"
+            },
+            "website": {
+                "@id": "bia:website"
+            }
+        }
+    ],
+    "@graph": [
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "about": {
+                "@id": "./"
+            }
+        },
+        {
+            "@id": "./",
+            "@type": [
+                "Dataset",
+                "bia:Study"
+            ],
+            "name": "Rules of engagement for cohesin and condensin complexes during mitotic chromosome formation",
+            "contributor": [
+                {
+                    "@id": "https://orcid.org/0000-0003-1120-1695"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-8816-1524"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-6736-9203"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-1889-8635"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-0851-7560"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-5631-0698"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-1262-1560"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-7025-2671"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-4055-5161"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-8377-325X"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-7191-0621"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-1860-5772"
+                },
+                {
+                    "@id": "_:c0"
+                },
+                {
+                    "@id": "https://orcid.org/0009-0007-9994-9556"
+                },
+                {
+                    "@id": "_:c1"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-2210-8616"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-7460-2771"
+                }
+            ],
+            "description": "",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "datePublished": "2024-10-25",
+            "keyword": [],
+            "acknowledgement": null,
+            "hasPart": [
+                {
+                    "@id": "SMC3%20Sections%20data/SMC3/"
+                },
+                {
+                    "@id": "SMC3CAPH%20Sections%20data/SMC3CAPH/"
+                },
+                {
+                    "@id": "SMC3CAPH2%20Sections%20data/SMC3CAPH2/"
+                },
+                {
+                    "@id": "WT%20-%20Sections%20data/WT/"
+                }
+            ],
+            "accessionId": "EMPIAR-11919"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-7460-2771",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Abraham S",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-2210-8616",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Goloborodko A",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "_:c1",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Minry L",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0009-0007-9994-9556",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Pucekova N",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "_:c0",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Samejima K",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-1860-5772",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Samejima I",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-7191-0621",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Earnshaw WC",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-8377-325X",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Beckett AJ",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-4055-5161",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Prior IA",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-7025-2671",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Xie L",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-1262-1560",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Paulson JR",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-5631-0698",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Dekker J",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-0851-7560",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Gibcus JHG",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-1889-8635",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Jeyaprakash AA",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-6736-9203",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Medina-Pritchard B",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-8816-1524",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Abad MA",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-1120-1695",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Cisneros- Soberanis F",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "WT%20-%20Sections%20data/WT/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "SMC3CAPH2%20Sections%20data/SMC3CAPH2/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "SMC3CAPH%20Sections%20data/SMC3CAPH/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "SMC3%20Sections%20data/SMC3/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "_:col9",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "file_pattern",
+            "propertyUrl": "http://bia/filePattern"
+        },
+        {
+            "@id": "_:col8",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_image_acquisition",
+            "propertyUrl": "http://bia/associatedImageAcquisitionProtocol"
+        },
+        {
+            "@id": "_:col7",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_protocol",
+            "propertyUrl": "http://bia/associatedProtocol"
+        },
+        {
+            "@id": "_:col6",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_annotation_method",
+            "propertyUrl": "http://bia/associatedAnnotationMethod"
+        },
+        {
+            "@id": "_:col5",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_specimen",
+            "propertyUrl": "http://bia/associatedSubject"
+        },
+        {
+            "@id": "_:col4",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "source_image_label",
+            "propertyUrl": "http://bia/sourceImageLabel"
+        },
+        {
+            "@id": "_:col3",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "label",
+            "propertyUrl": "http://schema.org/name"
+        },
+        {
+            "@id": "_:col2",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "type",
+            "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        {
+            "@id": "_:col1",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "size_in_bytes",
+            "propertyUrl": "http://bia/sizeInBytes"
+        },
+        {
+            "@id": "_:col0",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "file_path",
+            "propertyUrl": "http://bia/filePath"
+        },
+        {
+            "@id": "_:ts0",
+            "@type": [
+                "csvw:Schema"
+            ],
+            "column": [
+                {
+                    "@id": "_:col0"
+                },
+                {
+                    "@id": "_:col1"
+                },
+                {
+                    "@id": "_:col2"
+                },
+                {
+                    "@id": "_:col3"
+                },
+                {
+                    "@id": "_:col4"
+                },
+                {
+                    "@id": "_:col5"
+                },
+                {
+                    "@id": "_:col6"
+                },
+                {
+                    "@id": "_:col7"
+                },
+                {
+                    "@id": "_:col8"
+                },
+                {
+                    "@id": "_:col9"
+                }
+            ]
+        },
+        {
+            "@id": "WT%20-%20Sections%20data/WT/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "WT - Sections",
+            "description": "Raw data",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:DT40 chicken B-cell lymphoma cells"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:Gatan 3View SBF-SEM on FEI Quanta 250 FEG"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "WT%20-%20Sections%20data/WT/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "WT%20-%20Sections%20data/WT/file_list.tsv"
+            }
+        },
+        {
+            "@id": "SMC3CAPH2%20Sections%20data/SMC3CAPH2/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "SMC3CAPH2 Sections",
+            "description": "Raw data",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:DT40 chicken B-cell lymphoma cells"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:Gatan 3View SBF-SEM on FEI Quanta 250 FEG"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "SMC3CAPH2%20Sections%20data/SMC3CAPH2/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "SMC3CAPH2%20Sections%20data/SMC3CAPH2/file_list.tsv"
+            }
+        },
+        {
+            "@id": "SMC3CAPH%20Sections%20data/SMC3CAPH/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "SMC3CAPH Sections",
+            "description": "Raw data",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:DT40 chicken B-cell lymphoma cells"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:Gatan 3View SBF-SEM on FEI Quanta 250 FEG"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "SMC3CAPH%20Sections%20data/SMC3CAPH/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "SMC3CAPH%20Sections%20data/SMC3CAPH/file_list.tsv"
+            }
+        },
+        {
+            "@id": "SMC3%20Sections%20data/SMC3/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "SMC3 Sections",
+            "description": "Raw data",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:DT40 chicken B-cell lymphoma cells"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:Gatan 3View SBF-SEM on FEI Quanta 250 FEG"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "SMC3%20Sections%20data/SMC3/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "SMC3%20Sections%20data/SMC3/file_list.tsv"
+            }
+        },
+        {
+            "@id": "_:DT40 specimen for SBF-SEM",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:DT40 chicken B-cell lymphoma cells"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining"
+                }
+            ]
+        },
+        {
+            "@id": "_:DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining",
+            "@type": [
+                "bia:SpecimenImagingPreparationProtocol"
+            ],
+            "title": "DT40 SBF-SEM preparation with DAB photooxidation and heavy-metal staining",
+            "protocolDescription": "DT40 cells on poly-L-lysine MatTek dishes were fixed in 2.5% glutaraldehyde in 0.1 M sodium cacodylate buffer (pH 7.4) for 1 h, blocked with 10 mM glycine + 10 mM potassium cyanide, stained with DRAQ5 (10 uM) and incubated in 2.5 mM diaminobenzidine in cacodylate buffer. Cells were photooxidized on a DeltaVision Elite microscope (PCO edge 4.2 camera, 100x NA 1.45 oil objective, Cy5 filter) for 2 min, rinsed, then stained with 2% osmium tetroxide + 1.5% potassium ferrocyanide (1 h), 1% tannic acid (20 min), a second 2% osmium tetroxide (1 h), and Walton's lead aspartate. Samples were dehydrated through graded ethanol, infiltrated with Agar 100 Hard Premix resin, embedded and cured at 60C for 48 h, trimmed, and sputter-coated with 10 nm gold/platinum before imaging.",
+            "signalChannelInformation": []
+        },
+        {
+            "@id": "_:Gatan 3View SBF-SEM on FEI Quanta 250 FEG",
+            "@type": [
+                "bia:ImageAcquisitionProtocol"
+            ],
+            "title": "Gatan 3View SBF-SEM on FEI Quanta 250 FEG",
+            "protocolDescription": "Serial block-face SEM acquisition using a Gatan 3View system on an FEI Quanta 250 FEG SEM. Reported settings: pixel size 0.004 x 0.004 x 0.06 um (micrometers), dwell time 4 s, magnification 5400x, chamber pressure 70 Pa, accelerating voltage 3.2 kV.",
+            "imagingInstrumentDescription": "FEI Quanta 250 FEG scanning electron microscope with Gatan 3View serial block-face system",
+            "imagingMethodName": [
+                "serial block-face scanning electron microscopy"
+            ],
+            "fbbiId": [
+                "obo:FBbi_00000586"
+            ]
+        },
+        {
+            "@id": "NCBI:txid9031",
+            "@type": [
+                "bia:Taxon"
+            ],
+            "commonName": "chicken",
+            "scientificName": "Gallus gallus"
+        },
+        {
+            "@id": "_:DT40 chicken B-cell lymphoma cells",
+            "@type": [
+                "bia:BioSample"
+            ],
+            "title": "DT40 chicken B-cell lymphoma cells",
+            "biologicalEntityDescription": "DT40 (Gallus gallus) B-cell lymphoma cell line used for mitotic chromosome imaging (SMC3/condensin perturbations across conditions).",
+            "experimentalVariableDescription": [],
+            "extrinsicVariableDescription": [],
+            "intrinsicVariableDescription": [],
+            "organismClassification": [
+                {
+                    "@id": "NCBI:txid9031"
+                }
+            ],
+            "growthProtocol": null
+        }
+    ]
+}

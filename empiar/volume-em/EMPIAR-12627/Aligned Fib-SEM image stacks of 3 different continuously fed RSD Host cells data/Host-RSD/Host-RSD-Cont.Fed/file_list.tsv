@@ -1,0 +1,4 @@
+file_path	size_in_bytes	type	label	source_image_label	associated_specimen	associated_annotation_method	associated_protocol	associated_image_acquisition	file_pattern
+data/Host-RSD/Host-RSD-Cont.Fed/Cell1-Stack02_819_3598_cor_TM1corb_cr.tif	126437669235	http://bia/Image	Cell1-Stack02_819_3598_cor_TM1corb_cr		_:RSD host specimen			_:FIB-SEM tomography (Zeiss CrossBeam 550)	Host-RSD/Host-RSD-Cont.Fed/Cell1-Stack02_819_3598_cor_TM1corb_cr.tif
+data/Host-RSD/Host-RSD-Cont.Fed/Cell2-Stack01_40_3280_TM1b_cra1.tif	84383605413	http://bia/Image	Cell2-Stack01_40_3280_TM1b_cra1		_:RSD host specimen			_:FIB-SEM tomography (Zeiss CrossBeam 550)	Host-RSD/Host-RSD-Cont.Fed/Cell2-Stack01_40_3280_TM1b_cra1.tif
+data/Host-RSD/Host-RSD-Cont.Fed/Cell3-Stack01_2676_2659_TM1b_cra2.tif	31576736717	http://bia/Image	Cell3-Stack01_2676_2659_TM1b_cra2		_:RSD host specimen			_:FIB-SEM tomography (Zeiss CrossBeam 550)	Host-RSD/Host-RSD-Cont.Fed/Cell3-Stack01_2676_2659_TM1b_cra2.tif

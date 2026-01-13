@@ -1,0 +1,735 @@
+{
+    "@context": [
+        "https://w3id.org/ro/crate/1.1/context",
+        {
+            "accessionId": {
+                "@id": "schema:identifier"
+            },
+            "acknowledgement": {
+                "@id": "bia:acknowledgement"
+            },
+            "address": {
+                "@id": "schema:address"
+            },
+            "affiliation": {
+                "@id": "schema:memberOf"
+            },
+            "annotationCoverage": {
+                "@id": "bia:annotationCoverage"
+            },
+            "annotationCriteria": {
+                "@id": "bia:annotationCriteria"
+            },
+            "annotationMethod": {
+                "@id": "bia:annotationMethod"
+            },
+            "annotationSourceIndicator": {
+                "@id": "bia:annotationSourceIndicator"
+            },
+            "associatedAnnotationMethod": {
+                "@id": "bia:associatedAnnotationMethod"
+            },
+            "associatedBiologicalEntity": {
+                "@id": "bia:associatedBiologicalEntity"
+            },
+            "associatedImageAcquisitionProtocol": {
+                "@id": "bia:associatedImageAcquisitionProtocol"
+            },
+            "associatedImageAnalysisMethod": {
+                "@id": "bia:associatedAnalysisMethod"
+            },
+            "associatedImageCorrelationMethod": {
+                "@id": "bia:associatedCorrelationMethod"
+            },
+            "associatedProtocol": {
+                "@id": "bia:associatedProtocol"
+            },
+            "associatedSpecimen": {
+                "@id": "bia:associatedSubject"
+            },
+            "associatedSpecimenImagingPreparationProtocol": {
+                "@id": "bia:associatedImagingPreparationProtocol"
+            },
+            "associationFileMetadata": {
+                "@id": "bia:associationFileMetadata"
+            },
+            "authorNames": {
+                "@id": "bia:authorNames"
+            },
+            "bia": "http://bia/",
+            "biologicalEntity": {
+                "@id": "bia:sampleOf"
+            },
+            "biologicalEntityDescription": {
+                "@id": "bia:biologicalEntityDescription"
+            },
+            "channelBiologicalEntity": {
+                "@id": "bia:channelBiologicalEntity"
+            },
+            "channelContentDescription": {
+                "@id": "bia:channelContentDescription"
+            },
+            "channelLabel": {
+                "@id": "dc:identifier"
+            },
+            "column": {
+                "@id": "csvw:column"
+            },
+            "columnName": {
+                "@id": "csvw:name"
+            },
+            "commonName": {
+                "@id": "bia:commonName"
+            },
+            "contactEmail": {
+                "@id": "schema:email"
+            },
+            "contributor": {
+                "@id": "schema:author"
+            },
+            "csvw": "http://www.w3.org/ns/csvw#",
+            "datePublished": {
+                "@id": "schema:datePublished"
+            },
+            "dc": "http://purl.org/dc/terms/",
+            "description": {
+                "@id": "schema:description"
+            },
+            "displayName": {
+                "@id": "schema:name"
+            },
+            "experimentalVariableDescription": {
+                "@id": "bia:experimentalVariableDescription"
+            },
+            "extrinsicVariableDescription": {
+                "@id": "bia:extrinsicVariableDescription"
+            },
+            "fbbiId": {
+                "@id": "bia:fbbiId"
+            },
+            "featuresAnalysed": {
+                "@id": "bia:featuresAnalysed"
+            },
+            "fiducialsUsed": {
+                "@id": "bia:fiducialsUsed"
+            },
+            "growthProtocol": {
+                "@id": "bia:growthProtocol"
+            },
+            "hasPart": {
+                "@id": "schema:hasPart"
+            },
+            "imageAcquisitionProtocol": {
+                "@id": "bia:imageAcquisitionProtocol"
+            },
+            "imagingInstrumentDescription": {
+                "@id": "bia:imagingInstrumentDescription"
+            },
+            "imagingMethodName": {
+                "@id": "bia:imagingMethodName"
+            },
+            "imagingPreparationProtocol": {
+                "@id": "bia:imagingPreparationProtocol"
+            },
+            "inputImage": {
+                "@id": "bia:inputImage"
+            },
+            "intrinsicVariableDescription": {
+                "@id": "bia:intrinsicVariableDescription"
+            },
+            "keyword": {
+                "@id": "schema:keywords"
+            },
+            "label": {
+                "@id": "schema:name"
+            },
+            "license": {
+                "@id": "schema:license"
+            },
+            "link": {
+                "@id": "schema:url"
+            },
+            "linkDescription": {
+                "@id": "schema:description"
+            },
+            "methodType": {
+                "@id": "bia:annotationMethodType"
+            },
+            "name": {
+                "@id": "schema:name"
+            },
+            "organismClassification": {
+                "@id": "bia:organismClassification"
+            },
+            "propertyUrl": {
+                "@id": "csvw:propertyUrl"
+            },
+            "protocol": {
+                "@id": "bia:protocol"
+            },
+            "protocolDescription": {
+                "@id": "schema:description"
+            },
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "resultOf": {
+                "@id": "bia:resultOf"
+            },
+            "role": {
+                "@id": "bia:role"
+            },
+            "schema": "http://schema.org/",
+            "scientificName": {
+                "@id": "bia:scientificName"
+            },
+            "signalChannelInformation": {
+                "@id": "bia:signalChannelInformation"
+            },
+            "signalContrastMechanismDescription": {
+                "@id": "bia:signalContrastMechanismDescription"
+            },
+            "spatialInformation": {
+                "@id": "bia:spatialInformation"
+            },
+            "subject": {
+                "@id": "bia:subject"
+            },
+            "tableSchema": {
+                "@id": "csvw:tableSchema"
+            },
+            "title": {
+                "@id": "schema:name"
+            },
+            "transformationDescription": {
+                "@id": "bia:transformationDescription"
+            },
+            "transformationMatrix": {
+                "@id": "bia:transformationMatrix"
+            },
+            "website": {
+                "@id": "bia:website"
+            }
+        }
+    ],
+    "@graph": [
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "about": {
+                "@id": "./"
+            }
+        },
+        {
+            "@id": "./",
+            "@type": [
+                "Dataset",
+                "bia:Study"
+            ],
+            "name": "Fib-SEM stacks for Prey (Phaeocystis antarctica) and Host (Ross Sea Dinoflagellate; RSD)",
+            "contributor": [
+                {
+                    "@id": "https://orcid.org/0000-0002-5337-2209"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-8758-7681"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-0350-4901"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-4343-8358"
+                }
+            ],
+            "description": "",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "datePublished": "2025-05-22",
+            "keyword": [],
+            "acknowledgement": null,
+            "hasPart": [
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20continuously%20fed%20RSD%20Host%20cells%20data/Host-RSD/Host-RSD-Cont.Fed/"
+                },
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20RSD%20Host%20cells%20starved%20for%209%20weeks%20data/Host-RSD/Host-RSD-Starved9week/"
+                },
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%205%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20in%20possibly%20dividing%20stages%20data/Prey-Phaant/Prey-Phaant-Divding/"
+                },
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%207%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20data/Prey-Phaant/Prey-Phaant-NonDividing/"
+                }
+            ],
+            "accessionId": "EMPIAR-12627"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-4343-8358",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Decelle J",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-0350-4901",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Jouneau PH",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-8758-7681",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Gallet B",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-5337-2209",
+            "@type": [
+                "Person",
+                "bia:Contributor"
+            ],
+            "displayName": "Rao AK",
+            "address": null,
+            "website": null,
+            "affiliation": [],
+            "role": [],
+            "contactEmail": null
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%207%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20data/Prey-Phaant/Prey-Phaant-NonDividing/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%205%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20in%20possibly%20dividing%20stages%20data/Prey-Phaant/Prey-Phaant-Divding/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20RSD%20Host%20cells%20starved%20for%209%20weeks%20data/Host-RSD/Host-RSD-Starved9week/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20continuously%20fed%20RSD%20Host%20cells%20data/Host-RSD/Host-RSD-Cont.Fed/file_list.tsv",
+            "@type": [
+                "File",
+                "bia:FileList",
+                "csvw:Table"
+            ],
+            "tableSchema": {
+                "@id": "_:ts0"
+            }
+        },
+        {
+            "@id": "_:col9",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "file_pattern",
+            "propertyUrl": "http://bia/filePattern"
+        },
+        {
+            "@id": "_:col8",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_image_acquisition",
+            "propertyUrl": "http://bia/associatedImageAcquisitionProtocol"
+        },
+        {
+            "@id": "_:col7",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_protocol",
+            "propertyUrl": "http://bia/associatedProtocol"
+        },
+        {
+            "@id": "_:col6",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_annotation_method",
+            "propertyUrl": "http://bia/associatedAnnotationMethod"
+        },
+        {
+            "@id": "_:col5",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "associated_specimen",
+            "propertyUrl": "http://bia/associatedSubject"
+        },
+        {
+            "@id": "_:col4",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "source_image_label",
+            "propertyUrl": "http://bia/sourceImageLabel"
+        },
+        {
+            "@id": "_:col3",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "label",
+            "propertyUrl": "http://schema.org/name"
+        },
+        {
+            "@id": "_:col2",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "type",
+            "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        {
+            "@id": "_:col1",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "size_in_bytes",
+            "propertyUrl": "http://bia/sizeInBytes"
+        },
+        {
+            "@id": "_:col0",
+            "@type": [
+                "csvw:Column"
+            ],
+            "columnName": "file_path",
+            "propertyUrl": "http://bia/filePath"
+        },
+        {
+            "@id": "_:ts0",
+            "@type": [
+                "csvw:Schema"
+            ],
+            "column": [
+                {
+                    "@id": "_:col0"
+                },
+                {
+                    "@id": "_:col1"
+                },
+                {
+                    "@id": "_:col2"
+                },
+                {
+                    "@id": "_:col3"
+                },
+                {
+                    "@id": "_:col4"
+                },
+                {
+                    "@id": "_:col5"
+                },
+                {
+                    "@id": "_:col6"
+                },
+                {
+                    "@id": "_:col7"
+                },
+                {
+                    "@id": "_:col8"
+                },
+                {
+                    "@id": "_:col9"
+                }
+            ]
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%207%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20data/Prey-Phaant/Prey-Phaant-NonDividing/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "Aligned Fib-SEM image stacks of 7 different prey /Phaeocystis antarctica/ cells",
+            "description": "All cells were captured with a 6nm resolution with about 462-688 frames. All stacks were aligned and cropped. Cells 4-7 are inverted and converted to 8 bit voxel type while cells 1-3 remain as 16 bit voxel type.\nFor segmentation, voxel type was reduced to 8 bits for all cells",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:Phaeocystis antarctica culture"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:High pressure freezing and freeze substitution for FIB-SEM"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:FIB-SEM tomography (Zeiss CrossBeam 550)"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%207%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20data/Prey-Phaant/Prey-Phaant-NonDividing/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%207%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20data/Prey-Phaant/Prey-Phaant-NonDividing/file_list.tsv"
+            }
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%205%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20in%20possibly%20dividing%20stages%20data/Prey-Phaant/Prey-Phaant-Divding/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "Aligned Fib-SEM image stacks of 5 different prey /Phaeocystis antarctica/ cells in possibly dividing stages",
+            "description": "All cells were captured with a 6nm resolution with about 660-755 frames. All stacks were aligned and cropped. Cells 4 and 5 are inverted and converted to 8 bit voxel type while cells 1-3 remain as 16 bit voxel type.\nFor segmentation, voxel type for all cells was reduced to 8 bits",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:Phaeocystis antarctica culture"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:High pressure freezing and freeze substitution for FIB-SEM"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:FIB-SEM tomography (Zeiss CrossBeam 550)"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%205%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20in%20possibly%20dividing%20stages%20data/Prey-Phaant/Prey-Phaant-Divding/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%205%20different%20prey%20/Phaeocystis%20antarctica/%20cells%20in%20possibly%20dividing%20stages%20data/Prey-Phaant/Prey-Phaant-Divding/file_list.tsv"
+            }
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20RSD%20Host%20cells%20starved%20for%209%20weeks%20data/Host-RSD/Host-RSD-Starved9week/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "Aligned Fib-SEM image stacks of 3 different RSD Host cells starved for 9 weeks",
+            "description": "Pixel size for Cell 1, 2 and 3 is 8nm with 695, 1874 and 2244 frames respectively. All stacks were aligned, cropped and converted from 16 bit to 8 bit voxel type. Cell 1 and 3 are inverted. Any binning done during segmentation are indicated in supplementary table S3 of the article",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:Ross Sea dinoflagellate host culture"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:High pressure freezing and freeze substitution for FIB-SEM"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:FIB-SEM tomography (Zeiss CrossBeam 550)"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20RSD%20Host%20cells%20starved%20for%209%20weeks%20data/Host-RSD/Host-RSD-Starved9week/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20RSD%20Host%20cells%20starved%20for%209%20weeks%20data/Host-RSD/Host-RSD-Starved9week/file_list.tsv"
+            }
+        },
+        {
+            "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20continuously%20fed%20RSD%20Host%20cells%20data/Host-RSD/Host-RSD-Cont.Fed/",
+            "@type": [
+                "Dataset",
+                "bia:Dataset"
+            ],
+            "name": "Aligned Fib-SEM image stacks of 3 different continuously fed RSD Host cells",
+            "description": "Pixel size for Cell 1 is 6nm with a total of 3598 frames/slices. Cell 2 and Cell 3 are caputred at 5nm resolution with 3280 and 2659 frames respectively. All stacks were aligned and cropped. For segmentation, voxel type was reduced to 8 bits and further binned if necessary (Indicated in supplementary table S3 of the article)",
+            "associatedBiologicalEntity": [
+                {
+                    "@id": "_:Ross Sea dinoflagellate host culture"
+                }
+            ],
+            "associatedSpecimenImagingPreparationProtocol": [
+                {
+                    "@id": "_:High pressure freezing and freeze substitution for FIB-SEM"
+                }
+            ],
+            "associatedSpecimen": null,
+            "associatedImageAcquisitionProtocol": [
+                {
+                    "@id": "_:FIB-SEM tomography (Zeiss CrossBeam 550)"
+                }
+            ],
+            "associatedAnnotationMethod": [],
+            "associatedImageAnalysisMethod": [],
+            "associatedImageCorrelationMethod": [],
+            "associatedProtocol": [],
+            "hasPart": [
+                {
+                    "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20continuously%20fed%20RSD%20Host%20cells%20data/Host-RSD/Host-RSD-Cont.Fed/file_list.tsv"
+                }
+            ],
+            "associationFileMetadata": {
+                "@id": "Aligned%20Fib-SEM%20image%20stacks%20of%203%20different%20continuously%20fed%20RSD%20Host%20cells%20data/Host-RSD/Host-RSD-Cont.Fed/file_list.tsv"
+            }
+        },
+        {
+            "@id": "_:Phaeocystis antarctica specimen",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Phaeocystis antarctica culture"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:High pressure freezing and freeze substitution for FIB-SEM"
+                }
+            ]
+        },
+        {
+            "@id": "_:RSD host specimen",
+            "@type": [
+                "bia:Specimen"
+            ],
+            "biologicalEntity": [
+                {
+                    "@id": "_:Ross Sea dinoflagellate host culture"
+                }
+            ],
+            "imagingPreparationProtocol": [
+                {
+                    "@id": "_:High pressure freezing and freeze substitution for FIB-SEM"
+                }
+            ]
+        },
+        {
+            "@id": "_:High pressure freezing and freeze substitution for FIB-SEM",
+            "@type": [
+                "bia:SpecimenImagingPreparationProtocol"
+            ],
+            "title": "High pressure freezing and freeze substitution for FIB-SEM",
+            "protocolDescription": "Cultures were centrifuged (2000 g, 2 min) and cryofixed using high-pressure freezing (HPM100, 210 MPa, -196C). Freeze substitution (EM ASF2) replaced vitrified ice with dried acetone plus 2% osmium tetroxide; 0.5% uranyl acetate was added for FIB-SEM. Samples were embedded in Araldite resin and stored dry prior to imaging.",
+            "signalChannelInformation": []
+        },
+        {
+            "@id": "_:FIB-SEM tomography (Zeiss CrossBeam 550)",
+            "@type": [
+                "bia:ImageAcquisitionProtocol"
+            ],
+            "title": "FIB-SEM tomography (Zeiss CrossBeam 550)",
+            "protocolDescription": "FIB-SEM tomography used a Zeiss CrossBeam 550. Resin blocks were mounted on stubs, surface-abraded with a diamond knife, and coated with 4-8 nm platinum; an additional 1-2 um platinum layer was deposited in situ. Serial slicing with a Ga+ ion beam (~700 pA at 30 kV) alternated with SEM imaging at 1.5 kV and ~1 nA using an in-column EsB backscatter detector. Slice thickness was 6-8 nm with matching pixel size for isotropic voxels.",
+            "imagingInstrumentDescription": "Zeiss CrossBeam 550 (Zeiss, Germany)",
+            "imagingMethodName": [
+                "focused ion beam scanning electron microscopy"
+            ],
+            "fbbiId": [
+                "obo:FBbi_00000585"
+            ]
+        },
+        {
+            "@id": "NCBI:txid33657",
+            "@type": [
+                "bia:Taxon"
+            ],
+            "commonName": "Antarctic Phaeocystis",
+            "scientificName": "Phaeocystis antarctica"
+        },
+        {
+            "@id": "NCBI:txid2864",
+            "@type": [
+                "bia:Taxon"
+            ],
+            "commonName": "dinoflagellate",
+            "scientificName": "Dinophyceae"
+        },
+        {
+            "@id": "_:Phaeocystis antarctica culture",
+            "@type": [
+                "bia:BioSample"
+            ],
+            "title": "Phaeocystis antarctica culture",
+            "biologicalEntityDescription": "Cultured microalga Phaeocystis antarctica used as prey/kleptoplastid source for RSD host cells.",
+            "experimentalVariableDescription": [],
+            "extrinsicVariableDescription": [],
+            "intrinsicVariableDescription": [],
+            "organismClassification": [
+                {
+                    "@id": "NCBI:txid33657"
+                }
+            ],
+            "growthProtocol": null
+        },
+        {
+            "@id": "_:Ross Sea dinoflagellate host culture",
+            "@type": [
+                "bia:BioSample"
+            ],
+            "title": "Ross Sea dinoflagellate host culture",
+            "biologicalEntityDescription": "Cultured Ross Sea dinoflagellate (RSD) host cells associated with kleptoplastidy of Phaeocystis antarctica plastids.",
+            "experimentalVariableDescription": [],
+            "extrinsicVariableDescription": [],
+            "intrinsicVariableDescription": [],
+            "organismClassification": [
+                {
+                    "@id": "NCBI:txid2864"
+                }
+            ],
+            "growthProtocol": null
+        }
+    ]
+}
